@@ -265,7 +265,7 @@ html {
 
 body {
   font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-  font-size: 1rem;
+  font-size: 0.85rem;
   font-weight: normal;
   line-height: 1.5;
   color: #292b2c;
@@ -330,7 +330,7 @@ a {
 }
 
 a:focus, a:hover {
-  color: #014c8c;
+  color: orange;
   text-decoration: underline;
 }
 
