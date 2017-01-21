@@ -3,12 +3,12 @@
 // Copy variables from `_variables.scss` to this file to override default values
 // without modifying source files.
 
-$spacer: 1rem; // 1rem default;
+// $spacer: 1rem; // 1rem default;
 // $link-color:  #000080;
 
-$brand-primary:	 			#714872; // (default medium blue)
+$brand-primary:	 			#714872; // Custom purple (default was $blue)
 // $brand-secondary: (default lightgray)
-$brand-info: 				black;  // was lightblue
+$brand-info: 				black;   // was lightblue
 $brand-success:				#332735; // was green;
 $brand-warning: 			orange;
 $brand-danger:				red;
@@ -22,16 +22,16 @@ $border-radius:			.5rem; // was .25rem (regular)
 
 
 // Fonts (243)
-$font-size-base:  .85rem; // was 1rem - USAGE:  body span
+$font-size-base:  .85rem; // was 1rem
 $font-size-lg:   1.25rem;
 $font-size-sm:   .875rem;
 $font-size-xs:   .75rem;
 
 $font-size-h2:   1.75rem; // was 2rem; 
-$font-size-h3:   1.4rem;  // was 1.75rem; -  USAGE: Search header
-$font-size-h4:   1.2rem;  // was 1.5rem; -  USAGE: Featured Styles and Designs
-$font-size-h5:   1rem;    // was 1.5rem; -  USAGE: More Floorplan Designers
-$font-size-h6: 	 1rem;    // was 1rem; -  USAGE: Search subheadings 
+$font-size-h3:   1.4rem;  // was 1.75rem;
+$font-size-h4:   1.2rem;  // was 1.5rem; 
+$font-size-h5:   1rem;    // was 1.5rem; 
+$font-size-h6: 	 1rem;    // was 1rem;
 
 
 // $headings-color:		black; // All <H*>
@@ -52,5 +52,4 @@ $jumbotron-padding:  1rem;
 $card-border-radius: 0;
 $card-border-width:  5px; // Fake space between cards (nice and evenly distributed), reqs. white card-border-color
 $card-border-color:  #FFFFFF;
-
 
