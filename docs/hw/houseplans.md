@@ -10,44 +10,53 @@ group: hw
 
 	<!-- Site Header -->
 	<header class="page-header">
-		<div class="row">
-			<div class="col-4">
+		<div class="d-flex justify-content-between">
+			<div style="background-color: pink;">
 				<img class="siteLogo ml-2 my-2 align-middle" src="http://placehold.it/230x50/905f90/ffffff?text=floor+plans" alt="floorplans">
 			</div>
-			<div class="col-8 align-right mt-4">
-				<div class="mt-1">
-					<button class="btn btn-default btn-primary btn-sm float-right"><i class="fa fa-shopping-cart" aria-hidden="true"></i> Cart</button><div class="hidden-sm-down mt-1 mr-3 float-right text-nowrap">Questions? <b>Call us at <a class="text-info" href="tel:877-803-2251">877-803-2251</a></b></div>
-				</div>
+			<div class="align-self-stretch"  style="background-color: lightblue;">
+
+				<!-- Nav / Cart -->
+				<div class="d-flex flex-column justify-content-between">
+					<!-- Call Text / Cart -->
+					<div class="d-flex flex-row justify-content-end" style="background-color: lightgreen;">
+						<div class="hidden-sm-down mt-1 mr-3 float-right text-nowrap">Questions? <b>Call us at <a class="text-info" href="tel:877-803-2251">877-803-2251</a></b></div>
+						<div><button class="btn btn-default btn-primary btn-sm float-right"><i class="fa fa-shopping-cart" aria-hidden="true"></i> Cart</button></div>
+					</div>
+
+					<!-- Navbar -->
+					<div>
+						<nav class="navbar navbar-toggleable-md navbar-light">
+							<button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+								<span class="navbar-toggler-icon"></span>
+							</button>
+
+							<div class="navbar-collapse" id="navbarSupportedContent"><!-- ".collapse" removed -->
+								<ul class="navbar-nav ml-auto">
+									<li class="nav-item active">
+										<a class="nav-link text-uppercase" href="#">Search <span class="sr-only">(current)</span></a>
+									</li>
+									<li class="nav-item">
+										<a class="nav-link text-uppercase" href="#">Styles</a>
+									</li>
+									<li class="nav-item">
+										<a class="nav-link text-uppercase" href="#">Collections</a>
+									</li>
+									<li class="nav-item">
+										<a class="nav-link text-uppercase" href="#">Designers</a>
+									</li>
+									<li class="nav-item">
+										<a class="nav-link text-uppercase" href="#">Magazines</a>
+									</li>
+								</ul>
+							</div>
+						</nav>
+					</div>
+				</div><!-- ./ Div (Nav / Cart) -->
+				
 			</div>
 		</div>
 	</header>
-	
-	<!-- Navbar -->
-	<nav class="navbar navbar-toggleable-md navbar-light">
-		<button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-			<span class="navbar-toggler-icon"></span>
-		</button>
-
-		<div class="navbar-collapse" id="navbarSupportedContent"><!-- ".collapse" removed -->
-			<ul class="navbar-nav ml-auto">
-				<li class="nav-item active">
-					<a class="nav-link text-uppercase" href="#">Search <span class="sr-only">(current)</span></a>
-				</li>
-				<li class="nav-item">
-					<a class="nav-link text-uppercase" href="#">Styles</a>
-				</li>
-				<li class="nav-item">
-					<a class="nav-link text-uppercase" href="#">Collections</a>
-				</li>
-				<li class="nav-item">
-					<a class="nav-link text-uppercase" href="#">Designers</a>
-				</li>
-				<li class="nav-item">
-					<a class="nav-link text-uppercase" href="#">Magazines</a>
-				</li>
-			</ul>
-		</div>
-	</nav>
 
 </div><!-- ./container -->
 <div class="container p-0">
@@ -137,6 +146,8 @@ group: hw
 		</div>
 	</div><!-- ./jumbotron -->
 
+</div><!-- ./container -->
+<div class="container p-0">
 
 	<!-- Featured Styles & Designs -->
 	<section id="featured-styles-and-designs">
@@ -174,6 +185,8 @@ group: hw
 	</section>
 
 
+
+	<!-- Exclusive Feature -->
 	<section id="exclusive-feature" class="mt-5 mb-5">
 		<div class="row no-gutters">
 			<div class="col-sm-7 pb-2">
@@ -249,7 +262,6 @@ group: hw
 
 
 	<!-- More Floorplans Designers -->
-	<!-- Media Object Alignment - https://v4-alpha.getbootstrap.com/layout/media-object/#order -->
 	<section id="more-floorplan-designers" class="mt-5">
 		<h2 class="h4 text-uppercase text-center"><span>More Floorplan Designers</span></h2>
 		<hr class="mx-auto mt-0 pt-0">
@@ -411,7 +423,7 @@ group: hw
 				</div>
 			</div>
 
-		</div>
+		</div><!-- ./ (mobile) hidden-md-up -->
 
 	</section>
 
