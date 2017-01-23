@@ -11,47 +11,39 @@ group: hw
 	<!-- Site Header -->
 	<header class="page-header">
 		<div class="d-flex justify-content-between">
-			<div style="background-color: pink;">
-				<img class="siteLogo ml-2 my-2 align-middle" src="http://placehold.it/230x50/905f90/ffffff?text=floor+plans" alt="floorplans">
+			<div>
+				<img class="ml-2 my-3" src="http://placehold.it/230x50/905f90/ffffff?text=floor+plans" alt="floorplans">
 			</div>
-			<div class="align-self-stretch"  style="background-color: lightblue;">
+			<div class="align-self-stretch">
 
 				<!-- Nav / Cart -->
 				<div class="d-flex flex-column justify-content-between">
 					<!-- Call Text / Cart -->
-					<div class="d-flex flex-row justify-content-end" style="background-color: lightgreen;">
+					<div class="d-flex flex-row justify-content-end">
 						<div class="hidden-sm-down mt-1 mr-3 float-right text-nowrap">Questions? <b>Call us at <a class="text-info" href="tel:877-803-2251">877-803-2251</a></b></div>
-						<div><button class="btn btn-default btn-primary btn-sm float-right"><i class="fa fa-shopping-cart" aria-hidden="true"></i> Cart</button></div>
+						<div class="hidden-sm-down"><button class="btn btn-default btn-primary btn-sm float-right"><i class="fa fa-shopping-cart" aria-hidden="true"></i> Cart</button></div>
 					</div>
 
 					<!-- Navbar -->
-					<div>
-						<nav class="navbar navbar-toggleable-md navbar-light">
-							<button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+					<div class="d-flex flex-row justify-content-end">
+
+						<nav class="navbar navbar-toggleable-md navbar-light bg-faded">
+							<button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
 								<span class="navbar-toggler-icon"></span>
 							</button>
-
-							<div class="navbar-collapse" id="navbarSupportedContent"><!-- ".collapse" removed -->
-								<ul class="navbar-nav ml-auto">
-									<li class="nav-item active">
-										<a class="nav-link text-uppercase" href="#">Search <span class="sr-only">(current)</span></a>
-									</li>
-									<li class="nav-item">
-										<a class="nav-link text-uppercase" href="#">Styles</a>
-									</li>
-									<li class="nav-item">
-										<a class="nav-link text-uppercase" href="#">Collections</a>
-									</li>
-									<li class="nav-item">
-										<a class="nav-link text-uppercase" href="#">Designers</a>
-									</li>
-									<li class="nav-item">
-										<a class="nav-link text-uppercase" href="#">Magazines</a>
-									</li>
-								</ul>
+							<div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+								<div class="navbar-nav">
+									<a class="nav-item nav-link text-uppercase active" href="#">Search <span class="sr-only">(current)</span></a>
+									<a class="nav-item nav-link text-uppercase" href="#">Styles</a>
+									<a class="nav-item nav-link text-uppercase" href="#">Collections</a>
+									<a class="nav-item nav-link text-uppercase" href="#">Designers</a>
+									<a class="nav-item nav-link text-uppercase" href="#">Magazines</a>
+								</div>
 							</div>
 						</nav>
-					</div>
+
+					</div><!-- ./ Navbar wrapper -->
+
 				</div><!-- ./ Div (Nav / Cart) -->
 				
 			</div>
