@@ -174,31 +174,31 @@ group: hw
 		<hr class="mx-auto mt-0 pt-0">
 		<div class="row no-gutters">
 			<div class="col-sm-4">
-				<a href="#" class="card border-0 p-sm-1">
-					<img src="http://placehold.it/312x208/ff9999/ffffff" class="img-fluid" alt="Responsive image">
+				<div class="card border-0 p-sm-1">
+					<img src="http://placehold.it/312x208/ff99ff/ffffff" class="img-fluid" alt="Responsive image">
 					<div class="card-block">
-						<h6 class="card-title text-center text-primary"><strong>3 BEDROOM FLOOR PLANS</strong></h6>
+						<h6 class="card-title text-center text-primary"><a href="#"><strong>3 BEDROOM FLOOR PLANS</strong></a></h6>
 						<p class="card-text"><em>3-bedroom floor plans are very popular and it's easy to see why.  The versatility of having 3 bedrooms makes this a...</em></p>
 					</div>
-				</a>
+				</div>
 			</div>
 			<div class="col-sm-4">
-				<a href="#" class="card border-0 p-sm-1">
+				<div class="card border-0 p-sm-1">
 					<img src="http://placehold.it/312x208/99ff99/ffffff" class="img-fluid" alt="Responsive image">
 					<div class="card-block">
-						<h6 class="card-title text-center text-primary"><strong>TWO STORY FLOOR PLANS</strong></h6>
+						<h6 class="card-title text-center text-primary"><a href="#"><strong>TWO STORY FLOOR PLANS</strong></a></h6>
 						<p class="card-text"><em>The majority of plans build today have two stories, as this provides a traditional layout and separation of public &amp; private...</em></p>
 					</div>
-				</a>
+				</div>
 			</div>
 			<div class="col-sm-4">
-				<a href="#" class="card border-0 p-sm-1">
+				<div class="card border-0 p-sm-1">
 					<img src="http://placehold.it/312x208/9999ff/ffffff" class="img-fluid" alt="Responsive image">
 					<div class="card-block">
-						<h6 class="card-title text-center text-primary"><strong>A-FRAME FLOOR PLANS</strong></h6>
+						<h6 class="card-title text-center text-primary"><a href="#"><strong>A-FRAME FLOOR PLANS</strong></a></h6>
 						<p class="card-text"><em>A-Frame homes are a contemporary, folk style of home reminiscent of a Swiss chalet, perfect in a mountain setting...</em></p>
 					</div>
-				</a>
+				</div>
 			</div>
 		</div>
 	</section>
