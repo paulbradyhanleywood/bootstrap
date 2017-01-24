@@ -37,8 +37,7 @@ group: hw
 
 					</div><!-- ./Simple Nav -->
 					<div class="hidden-lg-up d-flex flex-row justify-content-start">
-						<div><button class="btn btn-default btn-sm bg-faded border-0 px-3"><i class="fa fa-shopping-cart h2" aria-hidden="true"></i></button></div>
-
+						<div class="h2"><a href="#" title="Cart"><i class="fa fa-shopping-cart text-info" aria-hidden="true"></i></a></div>
 						<div>
 							<nav class="navbar navbar-toggleable-md navbar-light"   	style="top: -15px;"><!-- TODO !!! -->
 								<div class="mr-5">
