@@ -222,16 +222,6 @@ group: hw
 						</div>
 						<div class="carousel-item">
 							<img class="d-block img-fluid" src="http://placehold.it/665x560/AAAA00/ffffff" alt="Third slide">
-							<div class="carousel-caption d-none d-md-block">
-
-								<h3 class="my-3">THE MODERN CABIN COLLECTION</h3>
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-								tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-								quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-								consequat. Duis aute irure dolor in reprehenderit.</p>				
-								<button type="button" class="btn btn-primary btn-block py-2 text-uppercase">View Collection</button>
-
-							</div>
 						</div>
 					</div>
 					<a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
