@@ -9,8 +9,8 @@ group: hw
 <div class="container p-0 mt-4">
 
 	<!-- Site Header -->
-	<header class="page-header">
-		<div class="d-flex justify-content-between">
+	<header>
+		<div class="d-flex flex-row justify-content-between">
 			<div>
 				<img class="ml-2 my-3" src="http://placehold.it/230x50/905f90/ffffff?text=floor+plans" alt="floorplans">
 			</div>
@@ -39,14 +39,13 @@ group: hw
 					<div class="hidden-lg-up d-flex flex-row justify-content-start">
 						<div class="h2"><a href="#" title="Cart"><i class="fa fa-shopping-cart text-info" aria-hidden="true"></i></a></div>
 						<div>
-							<nav class="navbar navbar-toggleable-md navbar-light"   	style="top: -15px;"><!-- TODO !!! -->
+							<nav class="navbar navbar-toggleable-md navbar-light" style="top: -7px;">
 								<div class="mr-5">
 									<!-- hamburger button -->
-									<button class="navbar-toggler navbar-toggler-right align-self-end border-0 text-primary m-0 px-2" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation"     style="background-color: white;"><!-- TODO !!! -->
-										<span class="navbar-toggler-icon"></span>
-									</button>
+									<button class="navbar-toggler navbar-toggler-right align-self-end border-0 text-info m-0 py-0 px-2" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+										<span class="navbar-toggler-icon"></span></button>
 								</div>
-								<div class="collapse navbar-collapse bg-primary mt-5 mr-0 p-4" id="navbarNavAltMarkup"    style="position: absolute; right: 25px; z-index: 1000;"><!-- TODO !!! -->
+								<div class="collapse navbar-collapse bg-primary mt-5 mr-0 p-4" id="navbarNavAltMarkup"    style="position: absolute; right: 14px; z-index: 1000;">
 									<div class="navbar-nav">
 										<a class="h4 nav-item nav-link text-uppercase text-white active" href="#">Search <span class="sr-only">(current)</span></a>
 										<a class="h4 nav-item nav-link text-uppercase text-white" href="#">Styles</a>
@@ -57,16 +56,6 @@ group: hw
 								</div>
 							</nav>
 						</div>
-
-<!-- 						<ul class="nav bg-primary text-white">
-							<ul class="list-group">
-								<li class="list-group-item border-0 text-uppercase"><a class="text-info" href="#">Search</a></li>
-								<li class="list-group-item border-0 text-uppercase"><a class="text-info" href="#">Styles</a></li>
-								<li class="list-group-item border-0 text-uppercase"><a class="text-info" href="#">Collections</a></li>
-								<li class="list-group-item border-0 text-uppercase"><a class="text-info" href="#">Designers</a></li>
-								<li class="list-group-item border-0 text-uppercase"><a class="text-info" href="#">Magazines</a></li>
-							</ul>
-						</ul> -->
 
 					</div>
 				</div>
@@ -80,7 +69,7 @@ group: hw
 <div class="container p-0">
 
 	<!-- Hero with Search -->
-	<div class="jumbotron">
+	<div class="jumbotron rounded-0">
 		<div class="text-center">
 			<div class="row">
 				<div class="col-sm-1"></div>
