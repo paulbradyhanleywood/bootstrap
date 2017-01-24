@@ -14,39 +14,66 @@ group: hw
 			<div>
 				<img class="ml-2 my-3" src="http://placehold.it/230x50/905f90/ffffff?text=floor+plans" alt="floorplans">
 			</div>
-			<div class="align-self-stretch">
+			<div class="align-self-center">
 
-				<!-- Nav / Cart -->
+				<!-- Nav / Cart  -->
 				<div class="d-flex flex-column justify-content-between">
 					<!-- Call Text / Cart -->
 					<div class="d-flex flex-row justify-content-end">
-						<div class="hidden-sm-down mt-1 mr-3 float-right text-nowrap">Questions? <b>Call us at <a class="text-info" href="tel:877-803-2251">877-803-2251</a></b></div>
-						<div class="hidden-sm-down"><button class="btn btn-default btn-primary btn-sm float-right"><i class="fa fa-shopping-cart" aria-hidden="true"></i> Cart</button></div>
+						<div class="hidden-md-down mt-1 mr-3 float-right text-nowrap">Questions? <b>Call us at <a class="text-info" href="tel:877-803-2251">877-803-2251</a></b></div>
+						<div class="hidden-md-down"><button class="btn btn-default btn-primary btn-sm float-right"><i class="fa fa-shopping-cart" aria-hidden="true"></i> Cart</button></div>
 					</div>
 
-					<!-- Navbar -->
-					<div class="d-flex flex-row justify-content-end">
+					<!-- Simple Nav - Desktop -->
+					<div class="hidden-md-down d-flex flex-row justify-content-center">
 
-						<nav class="navbar navbar-toggleable-md navbar-light bg-faded">
-							<button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-								<span class="navbar-toggler-icon"></span>
-							</button>
-							<div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-								<div class="navbar-nav">
-									<a class="nav-item nav-link text-uppercase active" href="#">Search <span class="sr-only">(current)</span></a>
-									<a class="nav-item nav-link text-uppercase" href="#">Styles</a>
-									<a class="nav-item nav-link text-uppercase" href="#">Collections</a>
-									<a class="nav-item nav-link text-uppercase" href="#">Designers</a>
-									<a class="nav-item nav-link text-uppercase" href="#">Magazines</a>
+						<ul class="nav">
+							<li class="nav-item text-uppercase"><a class="text-info nav-link active" href="#">Search</a></li>
+							<li class="nav-item text-uppercase"><a class="text-info nav-link" href="#">Styles</a></li>
+							<li class="nav-item text-uppercase"><a class="text-info nav-link" href="#">Collections</a></li>
+							<li class="nav-item text-uppercase"><a class="text-info nav-link" href="#">Designers</a></li>
+							<li class="nav-item text-uppercase"><a class="text-info nav-link" href="#">Magazines</a></li>
+						</ul>
+
+					</div><!-- ./Simple Nav -->
+					<div class="hidden-lg-up d-flex flex-row justify-content-start">
+						<div><button class="btn btn-default btn-sm bg-faded border-0 px-3"><i class="fa fa-shopping-cart h2" aria-hidden="true"></i></button></div>
+
+						<div>
+							<nav class="navbar navbar-toggleable-md navbar-light"   	style="top: -15px;"><!-- TODO !!! -->
+								<div class="mr-5">
+									<!-- hamburger button -->
+									<button class="navbar-toggler navbar-toggler-right align-self-end border-0 text-primary m-0 px-2" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation"     style="background-color: white;"><!-- TODO !!! -->
+										<span class="navbar-toggler-icon"></span>
+									</button>
 								</div>
-							</div>
-						</nav>
+								<div class="collapse navbar-collapse bg-primary mt-5 mr-0 p-4" id="navbarNavAltMarkup"    style="position: absolute; right: 25px; z-index: 1000;"><!-- TODO !!! -->
+									<div class="navbar-nav">
+										<a class="h4 nav-item nav-link text-uppercase text-white active" href="#">Search <span class="sr-only">(current)</span></a>
+										<a class="h4 nav-item nav-link text-uppercase text-white" href="#">Styles</a>
+										<a class="h4 nav-item nav-link text-uppercase text-white" href="#">Collections</a>
+										<a class="h4 nav-item nav-link text-uppercase text-white" href="#">Designers</a>
+										<a class="h4 nav-item nav-link text-uppercase text-white" href="#">Magazines</a>
+									</div>
+								</div>
+							</nav>
+						</div>
 
-					</div><!-- ./ Navbar wrapper -->
+<!-- 						<ul class="nav bg-primary text-white">
+							<ul class="list-group">
+								<li class="list-group-item border-0 text-uppercase"><a class="text-info" href="#">Search</a></li>
+								<li class="list-group-item border-0 text-uppercase"><a class="text-info" href="#">Styles</a></li>
+								<li class="list-group-item border-0 text-uppercase"><a class="text-info" href="#">Collections</a></li>
+								<li class="list-group-item border-0 text-uppercase"><a class="text-info" href="#">Designers</a></li>
+								<li class="list-group-item border-0 text-uppercase"><a class="text-info" href="#">Magazines</a></li>
+							</ul>
+						</ul> -->
 
-				</div><!-- ./ Div (Nav / Cart) -->
-				
+					</div>
+				</div>
+
 			</div>
+
 		</div>
 	</header>
 
