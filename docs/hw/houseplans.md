@@ -5,6 +5,22 @@ description: HW Multisite Components
 group: hw
 ---
 
+<!-- 
+http://cdn.houseplans.com/product/83pciobqpkr9nvk6r2v9fofap5/w1024.jpg
+
+http://cdn.houseplans.com/product/o2d2ui14afb1sov3cnslpummre/w1024.jpg
+http://cdn.houseplans.com/product/2f50bfq27ig6qogbkms91mud82/w1024.jpg
+http://cdn.houseplans.com/product/4f7c9q2ei6r5ldvhbmonpthvep/w1024.jpg
+ -->
+
+<style>
+.jumbotron {
+	background: url( 'http://cdn.houseplans.com/product/83pciobqpkr9nvk6r2v9fofap5/w1024.jpg' ) center center;
+	background-size: cover;
+}
+</style>
+
+
 
 <div class="container p-0 mt-4">
 
@@ -37,15 +53,15 @@ group: hw
 
 					</div><!-- ./Simple Nav -->
 					<div class="hidden-lg-up d-flex flex-row justify-content-start">
-						<div class="h2"><a href="#" title="Cart"><i class="fa fa-shopping-cart text-info" aria-hidden="true"></i></a></div>
+						<div class="h2"><a href="#" title="Shopping Cart"><i class="fa fa-shopping-cart text-muted" aria-hidden="true"></i></a></div>
 						<div>
-							<nav class="navbar navbar-toggleable-md navbar-light" style="top: -7px;">
+							<nav class="navbar navbar-toggleable-md navbar-light"  style="top: -7px;">
 								<div class="mr-5">
 									<!-- hamburger button -->
-									<button class="navbar-toggler navbar-toggler-right align-self-end border-0 text-info m-0 py-0 px-2" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+									<button class="navbar-toggler navbar-toggler-right align-self-end border-0 m-0 py-0 px-2" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
 										<span class="navbar-toggler-icon"></span></button>
 								</div>
-								<div class="collapse navbar-collapse bg-primary mt-5 mr-0 p-4" id="navbarNavAltMarkup"    style="position: absolute; right: 14px; z-index: 1000;">
+								<div class="collapse navbar-collapse bg-primary mt-5 mr-0 p-4" id="navbarNavAltMarkup"  style="position: absolute; right: 14px; z-index: 2;">
 									<div class="navbar-nav">
 										<a class="h4 nav-item nav-link text-uppercase text-white active" href="#">Search <span class="sr-only">(current)</span></a>
 										<a class="h4 nav-item nav-link text-uppercase text-white" href="#">Styles</a>
@@ -56,7 +72,6 @@ group: hw
 								</div>
 							</nav>
 						</div>
-
 					</div>
 				</div>
 
@@ -73,7 +88,7 @@ group: hw
 		<div class="text-center">
 			<div class="row">
 				<div class="col-sm-1"></div>
-				<div class="col-sm-7 col-md-5 col-lg-4 p-3 bg-faded">
+				<div class="col-sm-7 col-md-5 col-lg-4 mx-4 p-3 bg-faded">
 					<h3>SEARCH FLOOR PLANS</h3>
 					<h6 class="mt-2 mb-1">Bedrooms</h6>
 					<div class="btn-group" data-toggle="buttons">
@@ -163,7 +178,7 @@ group: hw
 		<div class="row no-gutters">
 			<div class="col-sm-4">
 				<div class="card border-0 p-sm-1">
-					<img src="http://placehold.it/312x208/ff99ff/ffffff" class="img-fluid" alt="Responsive image">
+					<img src="http://cdn.houseplans.com/product/o2d2ui14afb1sov3cnslpummre/w1024.jpg" class="img-fluid" alt="Responsive image">
 					<div class="card-block">
 						<h6 class="card-title text-center text-primary"><a href="#"><strong>3 BEDROOM FLOOR PLANS</strong></a></h6>
 						<p class="card-text"><em>3-bedroom floor plans are very popular and it's easy to see why.  The versatility of having 3 bedrooms makes this a...</em></p>
@@ -172,7 +187,7 @@ group: hw
 			</div>
 			<div class="col-sm-4">
 				<div class="card border-0 p-sm-1">
-					<img src="http://placehold.it/312x208/99ff99/ffffff" class="img-fluid" alt="Responsive image">
+					<img src="http://cdn.houseplans.com/product/2f50bfq27ig6qogbkms91mud82/w1024.jpg" class="img-fluid" alt="Responsive image">
 					<div class="card-block">
 						<h6 class="card-title text-center text-primary"><a href="#"><strong>TWO STORY FLOOR PLANS</strong></a></h6>
 						<p class="card-text"><em>The majority of plans build today have two stories, as this provides a traditional layout and separation of public &amp; private...</em></p>
@@ -181,7 +196,7 @@ group: hw
 			</div>
 			<div class="col-sm-4">
 				<div class="card border-0 p-sm-1">
-					<img src="http://placehold.it/312x208/9999ff/ffffff" class="img-fluid" alt="Responsive image">
+					<img src="http://cdn.houseplans.com/product/4f7c9q2ei6r5ldvhbmonpthvep/w1024.jpg" class="img-fluid" alt="Responsive image">
 					<div class="card-block">
 						<h6 class="card-title text-center text-primary"><a href="#"><strong>A-FRAME FLOOR PLANS</strong></a></h6>
 						<p class="card-text"><em>A-Frame homes are a contemporary, folk style of home reminiscent of a Swiss chalet, perfect in a mountain setting...</em></p>
@@ -196,34 +211,46 @@ group: hw
 	<!-- Exclusive Feature -->
 	<section id="exclusive-feature" class="mt-5 mb-5">
 		<div class="row no-gutters">
-			<div class="col-sm-7 pb-2">
+			<div class="col-lg-8 pb-2">
 
-				<div id="exclusive-feature-carousel" class="carousel slide" data-ride="carousel">
-					<div class="carousel-inner" role="listbox">
-						<div class="carousel-item active">
-							<img class="d-block img-fluid" src="http://placehold.it/665x560/00AAAA/ffffff" alt="First slide">
-
+				<!-- Desktop -->
+				<div class="hidden-sm-down">
+					<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+						<ol class="carousel-indicators">
+							<li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+							<li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+							<li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+						</ol>
+						<div class="carousel-inner" role="listbox">
+							<div class="carousel-item active">
+								<img class="d-block img-fluid" src="http://cdn.houseplans.com/product/o2d2ui14afb1sov3cnslpummre/w1024.jpg" alt="First slide">
+							</div>
+							<div class="carousel-item">
+								<img class="d-block img-fluid" src="http://cdn.houseplans.com/product/2f50bfq27ig6qogbkms91mud82/w1024.jpg" alt="Second slide">
+							</div>
+							<div class="carousel-item">
+								<img class="d-block img-fluid" src="http://cdn.houseplans.com/product/4f7c9q2ei6r5ldvhbmonpthvep/w1024.jpg" alt="Third slide">
+							</div>
 						</div>
-						<div class="carousel-item">
-							<img class="d-block img-fluid" src="http://placehold.it/665x560/AA00AA/ffffff" alt="Second slide">
-
-						</div>
-						<div class="carousel-item">
-							<img class="d-block img-fluid" src="http://placehold.it/665x560/AAAA00/ffffff" alt="Third slide">
-						</div>
+						<a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+							<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+							<span class="sr-only">Previous</span>
+						</a>
+						<a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+							<span class="carousel-control-next-icon" aria-hidden="true"></span>
+							<span class="sr-only">Next</span>
+						</a>
 					</div>
-					<a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
-						<span class="carousel-control-prev-icon" aria-hidden="true"></span>
-						<span class="sr-only">Previous</span>
-					</a>
-					<a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
-						<span class="carousel-control-next-icon" aria-hidden="true"></span>
-						<span class="sr-only">Next</span>
-					</a>
+				</div>
+
+
+				<!-- Mobile -->
+				<div class="hidden-md-up">
+					<img class="img-fluid" src="http://cdn.houseplans.com/product/o2d2ui14afb1sov3cnslpummre/w1024.jpg" alt="First slide">
 				</div>
 
 			</div>
-			<div class="col-sm-5 px-4 pb-2">
+			<div class="col-lg-4 px-4 pb-2">
 
 				<hr class="mx-auto mt-0 pt-3">
 				<h2 class="h6">Exclusive Feature</h2>
