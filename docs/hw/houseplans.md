@@ -281,13 +281,12 @@ http://cdn.houseplans.com/product/4f7c9q2ei6r5ldvhbmonpthvep/w1024.jpg
 			<div class="col-md-4">
 				<img src="http://cdn.houseplans.com/product/2f50bfq27ig6qogbkms91mud82/w1024.jpg" class="img-fluid" alt="Responsive image">
 			</div>
-			<div class="col-md-4 px-3">
-				<hr class="mx-auto mt-0 pt-2">
+			<div class="col-md-4 pt-2 px-3">
 				<h2 class="h6">Featured Designer</h2>
 				<h3 class="text-uppercase">David Wiggins</h3>
 				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 				tempor incididunt ut labore et dolore magna aliqua. Ut enim veniam.</p>
-				<div class="mx-4"><button class="btn btn-primary btn-block text-uppercase mb-3">See All Plans</button></div>
+				<div class="mx-4 mb-5"><button class="btn btn-primary btn-block text-uppercase mb-3">See All Plans</button></div>
 			</div>
 			<div class="col-md-4">
 				<img src="http://cdn.houseplans.com/product/4f7c9q2ei6r5ldvhbmonpthvep/w1024.jpg" class="img-fluid" alt="Responsive image">
@@ -428,33 +427,39 @@ http://cdn.houseplans.com/product/4f7c9q2ei6r5ldvhbmonpthvep/w1024.jpg
 		<!-- Mobile version -->
 		<div class="hidden-md-up">
 
-			<!-- ALT Carousel -->
-			<div id="more-floorplan-designers-carousel" class="carousel slide" data-ride="carousel">
-				<div class="carousel-inner" role="listbox">
-					<div class="carousel-item active">
-						<img class="d-block img-fluid" src="http://placehold.it/540x405/FF0000/ffffff" alt="First slide">
-						<div class="carousel-caption d-none d-md-block">
-							<a href="#" class="text-info"><h3 class="h5 text-uppercase">Visbeen Architects</h3></a>
-							Classic, large houses with curb appeal
-							<button type="button" class="btn btn-primary btn-block py-2 text-uppercase">View Collection</button>
-						</div>
-					</div>
-					<div class="carousel-item">
-						<img class="d-block img-fluid" src="http://placehold.it/540x405/FF6666/ffffff" alt="Second slide">
-						<div class="carousel-caption d-none d-md-block">
+			<div class="row mx-auto">
+				<div class="col-md mt-2">
+
+					<div class="media">
+						<img class="d-flex mr-3" src="http://placehold.it/150x100/66ff66/ffffff" alt="Generic placeholder image">
+						<div class="media-body text-info align-self-center">
 							<a href="#" class="text-info"><h3 class="h5 text-uppercase">David Gardner Architects</h3></a>
 							Classic, large houses with curb appeal
-							<button type="button" class="btn btn-primary btn-block py-2 text-uppercase">View Collection</button>
 						</div>
 					</div>
-					<div class="carousel-item">
-						<img class="d-block img-fluid" src="http://placehold.it/540x405/FF3333/ffffff" alt="Third slide">
-						<div class="carousel-caption d-none d-md-block">
+
+				</div>
+				<div class="col-md mt-2">
+
+					<div class="media">
+						<img class="d-flex mr-3" src="http://placehold.it/150x100/66ff66/ffffff" alt="Generic placeholder image">
+						<div class="media-body text-info align-self-center">
 							<a href="#" class="text-info"><h3 class="h5 text-uppercase">Visbeen Architects</h3></a>
 							Classic, large houses with curb appeal
-							<button type="button" class="btn btn-primary btn-block py-2 text-uppercase">View Collection</button>
 						</div>
 					</div>
+
+				</div>
+				<div class="col-md mt-2">
+
+					<div class="media">
+						<img class="d-flex mr-3" src="http://placehold.it/150x100/66ff66/ffffff" alt="Generic placeholder image">
+						<div class="media-body text-info align-self-center">
+							<a href="#" class="text-info"><h3 class="h5 text-uppercase">David Gardner Architects</h3></a>
+							Classic, large houses with curb appeal
+						</div>
+					</div>
+
 				</div>
 			</div>
 
