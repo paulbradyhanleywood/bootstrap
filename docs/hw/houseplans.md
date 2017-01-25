@@ -274,25 +274,29 @@ http://cdn.houseplans.com/product/4f7c9q2ei6r5ldvhbmonpthvep/w1024.jpg
 	</section>
 
 
-
 	<!-- Featured Designer -->
-	<section id="featured-designer" class="mt-5">
-		<div class="row no-gutters">
-			<div class="col-md-4">
+	<section id="featured-designer2" class="mt-5">
+		<div class="d-md-flex flex-row justify-content-around">
+			<div>
 				<img src="http://cdn.houseplans.com/product/2f50bfq27ig6qogbkms91mud82/w1024.jpg" class="img-fluid" alt="Responsive image">
 			</div>
-			<div class="col-md-4 pt-2 px-3">
-				<h2 class="h6">Featured Designer</h2>
-				<h3 class="text-uppercase">David Wiggins</h3>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-				tempor incididunt ut labore et dolore magna aliqua. Ut enim veniam.</p>
-				<div class="mx-4 mb-5"><button class="btn btn-primary btn-block text-uppercase mb-3">See All Plans</button></div>
+			<div class="border text-center px-3"  style="border-top: 1px solid lightgray; border-bottom: 1px solid lightgray;"><!-- BS4 border class incomplete -->
+
+				<div class="d-flex flex-column justify-content-end"  style="height: 100%"><!-- to use actual bottom edge -->
+					<div><h2 class="h6 mt-3">Featured Designer</h2></div>
+					<div><h3 class="text-uppercase">David Wiggins</h3></div>
+					<div class="align-items-stretch">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+					tempor incididunt ut labore et dolore magna aliqua. Ut enim veniam.</div>
+					<div class="mt-auto pb-4"><button class="btn btn-primary btn-block text-uppercase">See All Plans</button></div>
+				</div>
+
 			</div>
-			<div class="col-md-4">
+			<div>
 				<img src="http://cdn.houseplans.com/product/4f7c9q2ei6r5ldvhbmonpthvep/w1024.jpg" class="img-fluid" alt="Responsive image">
 			</div>
 		</div>
 	</section>
+
 
 
 	<!-- More Floorplans Designers -->
