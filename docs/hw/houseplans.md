@@ -240,7 +240,7 @@ group: hw
 			<div>
 				<img src="http://cdn.houseplans.com/product/2f50bfq27ig6qogbkms91mud82/w1024.jpg" class="img-fluid" alt="Responsive image">
 			</div>
-			<div class="border text-center px-3"  style="border-top: 1px solid lightgray; border-bottom: 1px solid lightgray;"><!-- BS4 border class incomplete -->
+			<div class="border text-center px-3"  style="border: 1px solid lightgray;"><!-- BS4 .border class missing -->
 
 				<div class="d-flex flex-column justify-content-end"  style="height: 100%"><!-- to use actual bottom edge -->
 					<div><h2 class="h6 mt-3">Featured Designer</h2></div>
@@ -251,7 +251,7 @@ group: hw
 				</div>
 
 			</div>
-			<div>
+			<div class="hidden-md-down">
 				<img src="http://cdn.houseplans.com/product/4f7c9q2ei6r5ldvhbmonpthvep/w1024.jpg" class="img-fluid" alt="Responsive image">
 			</div>
 		</div>
