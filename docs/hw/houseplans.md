@@ -171,7 +171,7 @@ group: hw
 	<!-- Exclusive Feature -->
 	<section id="exclusive-feature" class="mt-5 mb-5">
 		<div class="row no-gutters">
-			<div class="col-lg-8 pb-2">
+			<div class="col-lg-8">
 
 				<!-- Desktop -->
 				<div class="hidden-sm-down">
@@ -210,25 +210,28 @@ group: hw
 				</div>
 
 			</div>
-			<div class="col-lg-4 px-4 pb-2">
+			<div class="col-lg-4 px-4">
+
 				<div class="d-flex flex-column">
-					<div class="align-items-stretch">
-						<div class="">
-							<h2 class="h6">Exclusive Feature</h2>
-							<h3 class="my-3">THE MODERN CABIN COLLECTION</h3>
+					<div class="align-items-stretch"  style="border-top: 1px solid lightgray; border-bottom: 1px solid lightgray;"><!-- BS4 .border class missing -->
+
+						<div class="d-flex flex-column justify-content-end">
+							<div><h2 class="h6 mt-3">Exclusive Feature</h2></div>
+							<div><h3 class="my-3">THE MODERN CABIN COLLECTION</h3></div>
+							<div class="align-items-stretch">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+								tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+								quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+								consequat. Duis aute irure dolor in reprehenderit.
+							</div>
+							<div class="mt-auto pt-2 pb-4">
+								<button type="button" class="btn btn-primary btn-block py-2 text-uppercase">View Collection</button>
+							</div>
 						</div>
-						<div class="">
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-							tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-							quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-							consequat. Duis aute irure dolor in reprehenderit.</p>				
-						</div>
-						<div class="">
-							<button type="button" class="btn btn-primary btn-block py-2 text-uppercase">View Collection</button>
-						</div>
+
 					</div>
 				</div>
-			</div>
+
+			</div><!-- ./col -->
 
 		</div><!-- ./row -->
 	</section>
