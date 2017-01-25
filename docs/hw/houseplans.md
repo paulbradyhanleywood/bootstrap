@@ -5,14 +5,6 @@ description: HW Multisite Components
 group: hw
 ---
 
-<!-- 
-http://cdn.houseplans.com/product/83pciobqpkr9nvk6r2v9fofap5/w1024.jpg
-
-http://cdn.houseplans.com/product/o2d2ui14afb1sov3cnslpummre/w1024.jpg
-http://cdn.houseplans.com/product/2f50bfq27ig6qogbkms91mud82/w1024.jpg
-http://cdn.houseplans.com/product/4f7c9q2ei6r5ldvhbmonpthvep/w1024.jpg
- -->
-
 <style>
 .jumbotron {
 	background: url( 'http://cdn.houseplans.com/product/83pciobqpkr9nvk6r2v9fofap5/w1024.jpg' ) center center;
@@ -26,57 +18,25 @@ http://cdn.houseplans.com/product/4f7c9q2ei6r5ldvhbmonpthvep/w1024.jpg
 
 	<!-- Site Header -->
 	<header>
-		<div class="d-flex flex-row justify-content-between">
-			<div>
-				<img class="ml-2 my-3" src="http://placehold.it/230x50/905f90/ffffff?text=floor+plans" alt="floorplans">
+		<nav class="navbar navbar-toggleable-md navbar-light">
+			<button class="navbar-toggler navbar-toggler-right mt-2" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+				<span class="navbar-toggler-icon"></span>
+			</button>
+			<a class="navbar-brand" href="#"><img class="ml-2" src="http://placehold.it/230x50/905f90/ffffff?text=floor+plans" alt="floorplans"></a>
+			<div class="collapse navbar-collapse" id="navbarSupportedContent">
+				<ul class="navbar-nav mr-auto">
+					<li class="nav-item text-uppercase"><a class="text-info nav-link active" href="#">Search</a></li>
+					<li class="nav-item text-uppercase"><a class="text-info nav-link" href="#">Styles</a></li>
+					<li class="nav-item text-uppercase"><a class="text-info nav-link" href="#">Collections</a></li>
+					<li class="nav-item text-uppercase"><a class="text-info nav-link" href="#">Designers</a></li>
+					<li class="nav-item text-uppercase"><a class="text-info nav-link" href="#">Magazines</a></li>
+				</ul>
 			</div>
-			<div class="align-self-center">
-
-				<!-- Nav / Cart  -->
-				<div class="d-flex flex-column justify-content-between">
-					<!-- Call Text / Cart -->
-					<div class="d-flex flex-row justify-content-end">
-						<div class="hidden-md-down mt-1 mr-3 float-right text-nowrap">Questions? <b>Call us at <a class="text-info" href="tel:877-803-2251">877-803-2251</a></b></div>
-						<div class="hidden-md-down"><button class="btn btn-default btn-primary btn-sm float-right"><i class="fa fa-shopping-cart" aria-hidden="true"></i> Cart</button></div>
-					</div>
-
-					<!-- Simple Nav - Desktop -->
-					<div class="hidden-md-down d-flex flex-row justify-content-center">
-
-						<ul class="nav">
-							<li class="nav-item text-uppercase"><a class="text-info nav-link active" href="#">Search</a></li>
-							<li class="nav-item text-uppercase"><a class="text-info nav-link" href="#">Styles</a></li>
-							<li class="nav-item text-uppercase"><a class="text-info nav-link" href="#">Collections</a></li>
-							<li class="nav-item text-uppercase"><a class="text-info nav-link" href="#">Designers</a></li>
-							<li class="nav-item text-uppercase"><a class="text-info nav-link" href="#">Magazines</a></li>
-						</ul>
-
-					</div><!-- ./Simple Nav -->
-					<div class="hidden-lg-up d-flex flex-row justify-content-start">
-						<div class="h2"><a href="#" title="Shopping Cart"><i class="fa fa-shopping-cart text-muted" aria-hidden="true"></i></a></div>
-						<div>
-							<nav class="navbar navbar-toggleable-md navbar-light"  style="top: -7px;">
-								<div class="mr-5">
-									<!-- hamburger button -->
-									<button class="navbar-toggler navbar-toggler-right align-self-end border-0 m-0 py-0 px-2" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-										<span class="navbar-toggler-icon"></span></button>
-								</div>
-								<div class="collapse navbar-collapse bg-primary mt-5 mr-0 p-4" id="navbarNavAltMarkup"  style="position: absolute; right: 14px; z-index: 2;">
-									<div class="navbar-nav">
-										<a class="h4 nav-item nav-link text-uppercase text-white active" href="#">Search <span class="sr-only">(current)</span></a>
-										<a class="h4 nav-item nav-link text-uppercase text-white" href="#">Styles</a>
-										<a class="h4 nav-item nav-link text-uppercase text-white" href="#">Collections</a>
-										<a class="h4 nav-item nav-link text-uppercase text-white" href="#">Designers</a>
-										<a class="h4 nav-item nav-link text-uppercase text-white" href="#">Magazines</a>
-									</div>
-								</div>
-							</nav>
-						</div>
-					</div>
-				</div>
-
-			</div>
-
+		</nav>
+		<!-- Call Text / Cart -->
+		<div class="d-flex flex-row justify-content-end mb-2">
+			<div class="hidden-md-down mt-1 mr-3 float-right text-nowrap">Questions? <b>Call us at <a class="text-info" href="tel:877-803-2251">877-803-2251</a></b></div>
+			<div><button class="btn btn-default btn-primary btn-sm float-right"><i class="fa fa-shopping-cart" aria-hidden="true"></i> Cart</button></div>
 		</div>
 	</header>
 
