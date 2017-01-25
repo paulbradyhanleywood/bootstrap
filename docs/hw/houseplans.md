@@ -251,17 +251,25 @@ http://cdn.houseplans.com/product/4f7c9q2ei6r5ldvhbmonpthvep/w1024.jpg
 
 			</div>
 			<div class="col-lg-4 px-4 pb-2">
-
-				<hr class="mx-auto mt-0 pt-3">
-				<h2 class="h6">Exclusive Feature</h2>
-				<h3 class="my-3">THE MODERN CABIN COLLECTION</h3>
-				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-				quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-				consequat. Duis aute irure dolor in reprehenderit.</p>				
-				<button type="button" class="btn btn-primary btn-block py-2 text-uppercase">View Collection</button>
-
+				<div class="d-flex flex-column">
+					<div class="align-items-stretch">
+						<div class="">
+							<h2 class="h6">Exclusive Feature</h2>
+							<h3 class="my-3">THE MODERN CABIN COLLECTION</h3>
+						</div>
+						<div class="">
+							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+							tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+							quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+							consequat. Duis aute irure dolor in reprehenderit.</p>				
+						</div>
+						<div class="">
+							<button type="button" class="btn btn-primary btn-block py-2 text-uppercase">View Collection</button>
+						</div>
+					</div>
+				</div>
 			</div>
+
 		</div><!-- ./row -->
 	</section>
 
@@ -269,9 +277,11 @@ http://cdn.houseplans.com/product/4f7c9q2ei6r5ldvhbmonpthvep/w1024.jpg
 
 	<!-- Featured Designer -->
 	<section id="featured-designer" class="mt-5">
-		<div class="d-flex flex-column flex-md-row justify-content-center">
-			<div class="col"><img src="http://placehold.it/308x220/aaaaff/ffffff?text=Image1" class="img-fluid" alt="Responsive image"></div>
-			<div class="col text-center mx-4 my-0 border-1">
+		<div class="row no-gutters">
+			<div class="col-md-4">
+				<img src="http://cdn.houseplans.com/product/2f50bfq27ig6qogbkms91mud82/w1024.jpg" class="img-fluid" alt="Responsive image">
+			</div>
+			<div class="col-md-4 px-3">
 				<hr class="mx-auto mt-0 pt-2">
 				<h2 class="h6">Featured Designer</h2>
 				<h3 class="text-uppercase">David Wiggins</h3>
@@ -279,10 +289,11 @@ http://cdn.houseplans.com/product/4f7c9q2ei6r5ldvhbmonpthvep/w1024.jpg
 				tempor incididunt ut labore et dolore magna aliqua. Ut enim veniam.</p>
 				<div class="mx-4"><button class="btn btn-primary btn-block text-uppercase mb-3">See All Plans</button></div>
 			</div>
-			<div class="col"><img src="http://placehold.it/308x220/aaaaff/ffffff?text=Image2" class="img-fluid" alt="Responsive image"></div>
+			<div class="col-md-4">
+				<img src="http://cdn.houseplans.com/product/4f7c9q2ei6r5ldvhbmonpthvep/w1024.jpg" class="img-fluid" alt="Responsive image">
+			</div>
 		</div>
 	</section>
-
 
 
 	<!-- More Floorplans Designers -->
