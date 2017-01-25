@@ -8,15 +8,15 @@
 
 $brand-primary:	 			#714872; // Custom purple (default was $blue)
 // $brand-secondary: (default lightgray)
-$brand-info: 				black;   // was lightblue
+$brand-info: 				#000;   // was lightblue
 $brand-success:				#332735; // was green;
-$brand-warning: 			orange;
-$brand-danger:				red;
+$brand-warning: 			#ffa500;
+$brand-danger:				#f00;
 
 
 
 // Links (ln 190)
-$link-hover-color: 			orange;
+$link-hover-color: 			#ffa500;
 
 // Components (ln 314)
 $border-radius:			.5rem; // was .25rem (regular)
@@ -29,10 +29,10 @@ $font-size-sm:   .875rem;
 $font-size-xs:   .75rem;
 
 // $font-size-h1:   3rem;	  // was 2.5rem;
-$font-size-h2:   1.75rem; // was 2rem; 
+$font-size-h2:   1.75rem; // was 2rem;
 $font-size-h3:   1.4rem;  // was 1.75rem;
-$font-size-h4:   1.2rem;  // was 1.5rem; 
-$font-size-h5:   1rem;    // was 1.5rem; 
+$font-size-h4:   1.2rem;  // was 1.5rem;
+$font-size-h5:   1rem;    // was 1.5rem;
 $font-size-h6: 	 1rem;    // was 1rem;
 
 
@@ -47,11 +47,11 @@ $navbar-toggler-padding-x:           1.5rem;
 
 
 // Jumbotron (680)
-$jumbotron-bg:  	 #999999;
+$jumbotron-bg:  	 #999;
 $jumbotron-padding:  1rem;
 
 // Cards (708)
 $card-border-radius: 0;
 $card-border-width:  5px; // Fake space between cards (nice and evenly distributed), reqs. white card-border-color
-$card-border-color:  #FFFFFF;
+$card-border-color:  #fff;
 

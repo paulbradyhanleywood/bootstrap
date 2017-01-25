@@ -403,7 +403,7 @@ a {
 }
 
 a:focus, a:hover {
-  color: orange;
+  color: #ffa500;
   text-decoration: underline;
 }
 
@@ -540,7 +540,7 @@ h1, h2, h3, h4, h5, h6,
 }
 
 h1, .h1 {
-  font-size: 3rem;
+  font-size: 2.5rem;
 }
 
 h2, .h2 {
@@ -2475,21 +2475,21 @@ select.form-control-lg:not([size]):not([multiple]), .input-group-lg > select.for
 .has-warning .col-form-label,
 .has-warning .form-check-label,
 .has-warning .custom-control {
-  color: orange;
+  color: #ffa500;
 }
 
 .has-warning .form-control {
-  border-color: orange;
+  border-color: #ffa500;
 }
 
 .has-warning .input-group-addon {
-  color: orange;
-  border-color: orange;
+  color: #ffa500;
+  border-color: #ffa500;
   background-color: #ffedcc;
 }
 
 .has-warning .form-control-warning {
-  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 8 8'%3E%3Cpath fill='orange' d='M4.4 5.324h-.8v-2.46h.8zm0 1.42h-.8V5.89h.8zM3.76.63L.04 7.075c-.115.2.016.425.26.426h7.397c.242 0 .372-.226.258-.426C6.726 4.924 5.47 2.79 4.253.63c-.113-.174-.39-.174-.494 0z'/%3E%3C/svg%3E");
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 8 8'%3E%3Cpath fill='%23ffa500' d='M4.4 5.324h-.8v-2.46h.8zm0 1.42h-.8V5.89h.8zM3.76.63L.04 7.075c-.115.2.016.425.26.426h7.397c.242 0 .372-.226.258-.426C6.726 4.924 5.47 2.79 4.253.63c-.113-.174-.39-.174-.494 0z'/%3E%3C/svg%3E");
 }
 
 .has-danger .form-control-feedback,
@@ -2497,21 +2497,21 @@ select.form-control-lg:not([size]):not([multiple]), .input-group-lg > select.for
 .has-danger .col-form-label,
 .has-danger .form-check-label,
 .has-danger .custom-control {
-  color: red;
+  color: #f00;
 }
 
 .has-danger .form-control {
-  border-color: red;
+  border-color: #f00;
 }
 
 .has-danger .input-group-addon {
-  color: red;
-  border-color: red;
+  color: #f00;
+  border-color: #f00;
   background-color: #ffcccc;
 }
 
 .has-danger .form-control-danger {
-  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='red' viewBox='-2 -2 7 7'%3E%3Cpath stroke='%23d9534f' d='M0 0l3 3m0-3L0 3'/%3E%3Ccircle r='.5'/%3E%3Ccircle cx='3' r='.5'/%3E%3Ccircle cy='3' r='.5'/%3E%3Ccircle cx='3' cy='3' r='.5'/%3E%3C/svg%3E");
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23f00' viewBox='-2 -2 7 7'%3E%3Cpath stroke='%23d9534f' d='M0 0l3 3m0-3L0 3'/%3E%3Ccircle r='.5'/%3E%3Ccircle cx='3' r='.5'/%3E%3Ccircle cy='3' r='.5'/%3E%3Ccircle cx='3' cy='3' r='.5'/%3E%3C/svg%3E");
 }
 
 .form-inline {
@@ -2739,8 +2739,8 @@ fieldset[disabled] a.btn {
 
 .btn-info {
   color: #fff;
-  background-color: black;
-  border-color: black;
+  background-color: #000;
+  border-color: #000;
 }
 
 .btn-info:hover {
@@ -2755,8 +2755,8 @@ fieldset[disabled] a.btn {
 }
 
 .btn-info.disabled, .btn-info:disabled {
-  background-color: black;
-  border-color: black;
+  background-color: #000;
+  border-color: #000;
 }
 
 .btn-info:active, .btn-info.active,
@@ -2799,8 +2799,8 @@ fieldset[disabled] a.btn {
 
 .btn-warning {
   color: #fff;
-  background-color: orange;
-  border-color: orange;
+  background-color: #ffa500;
+  border-color: #ffa500;
 }
 
 .btn-warning:hover {
@@ -2815,8 +2815,8 @@ fieldset[disabled] a.btn {
 }
 
 .btn-warning.disabled, .btn-warning:disabled {
-  background-color: orange;
-  border-color: orange;
+  background-color: #ffa500;
+  border-color: #ffa500;
 }
 
 .btn-warning:active, .btn-warning.active,
@@ -2829,8 +2829,8 @@ fieldset[disabled] a.btn {
 
 .btn-danger {
   color: #fff;
-  background-color: red;
-  border-color: red;
+  background-color: #f00;
+  border-color: #f00;
 }
 
 .btn-danger:hover {
@@ -2845,8 +2845,8 @@ fieldset[disabled] a.btn {
 }
 
 .btn-danger.disabled, .btn-danger:disabled {
-  background-color: red;
-  border-color: red;
+  background-color: #f00;
+  border-color: #f00;
 }
 
 .btn-danger:active, .btn-danger.active,
@@ -2918,16 +2918,16 @@ fieldset[disabled] a.btn {
 }
 
 .btn-outline-info {
-  color: black;
+  color: #000;
   background-image: none;
   background-color: transparent;
-  border-color: black;
+  border-color: #000;
 }
 
 .btn-outline-info:hover {
   color: #fff;
-  background-color: black;
-  border-color: black;
+  background-color: #000;
+  border-color: #000;
 }
 
 .btn-outline-info:focus, .btn-outline-info.focus {
@@ -2936,15 +2936,15 @@ fieldset[disabled] a.btn {
 }
 
 .btn-outline-info.disabled, .btn-outline-info:disabled {
-  color: black;
+  color: #000;
   background-color: transparent;
 }
 
 .btn-outline-info:active, .btn-outline-info.active,
 .show > .btn-outline-info.dropdown-toggle {
   color: #fff;
-  background-color: black;
-  border-color: black;
+  background-color: #000;
+  border-color: #000;
 }
 
 .btn-outline-success {
@@ -2978,16 +2978,16 @@ fieldset[disabled] a.btn {
 }
 
 .btn-outline-warning {
-  color: orange;
+  color: #ffa500;
   background-image: none;
   background-color: transparent;
-  border-color: orange;
+  border-color: #ffa500;
 }
 
 .btn-outline-warning:hover {
   color: #fff;
-  background-color: orange;
-  border-color: orange;
+  background-color: #ffa500;
+  border-color: #ffa500;
 }
 
 .btn-outline-warning:focus, .btn-outline-warning.focus {
@@ -2996,28 +2996,28 @@ fieldset[disabled] a.btn {
 }
 
 .btn-outline-warning.disabled, .btn-outline-warning:disabled {
-  color: orange;
+  color: #ffa500;
   background-color: transparent;
 }
 
 .btn-outline-warning:active, .btn-outline-warning.active,
 .show > .btn-outline-warning.dropdown-toggle {
   color: #fff;
-  background-color: orange;
-  border-color: orange;
+  background-color: #ffa500;
+  border-color: #ffa500;
 }
 
 .btn-outline-danger {
-  color: red;
+  color: #f00;
   background-image: none;
   background-color: transparent;
-  border-color: red;
+  border-color: #f00;
 }
 
 .btn-outline-danger:hover {
   color: #fff;
-  background-color: red;
-  border-color: red;
+  background-color: #f00;
+  border-color: #f00;
 }
 
 .btn-outline-danger:focus, .btn-outline-danger.focus {
@@ -3026,15 +3026,15 @@ fieldset[disabled] a.btn {
 }
 
 .btn-outline-danger.disabled, .btn-outline-danger:disabled {
-  color: red;
+  color: #f00;
   background-color: transparent;
 }
 
 .btn-outline-danger:active, .btn-outline-danger.active,
 .show > .btn-outline-danger.dropdown-toggle {
   color: #fff;
-  background-color: red;
-  border-color: red;
+  background-color: #f00;
+  border-color: #f00;
 }
 
 .btn-link {
@@ -3056,7 +3056,7 @@ fieldset[disabled] a.btn {
 }
 
 .btn-link:focus, .btn-link:hover {
-  color: orange;
+  color: #ffa500;
   text-decoration: underline;
   background-color: transparent;
 }
@@ -4410,7 +4410,7 @@ tbody.collapse.show {
       -ms-flex-direction: column;
           flex-direction: column;
   background-color: #fff;
-  border: 5px solid #FFFFFF;
+  border: 5px solid #fff;
   border-radius: 0;
 }
 
@@ -4457,7 +4457,7 @@ tbody.collapse.show {
   padding: 0.75rem 1.25rem;
   margin-bottom: 0;
   background-color: #f7f7f9;
-  border-bottom: 5px solid #FFFFFF;
+  border-bottom: 5px solid #fff;
 }
 
 .card-header:first-child {
@@ -4467,7 +4467,7 @@ tbody.collapse.show {
 .card-footer {
   padding: 0.75rem 1.25rem;
   background-color: #f7f7f9;
-  border-top: 5px solid #FFFFFF;
+  border-top: 5px solid #fff;
 }
 
 .card-footer:last-child {
@@ -4507,8 +4507,8 @@ tbody.collapse.show {
 }
 
 .card-info {
-  background-color: black;
-  border-color: black;
+  background-color: #000;
+  border-color: #000;
 }
 
 .card-info .card-header,
@@ -4517,8 +4517,8 @@ tbody.collapse.show {
 }
 
 .card-warning {
-  background-color: orange;
-  border-color: orange;
+  background-color: #ffa500;
+  border-color: #ffa500;
 }
 
 .card-warning .card-header,
@@ -4527,8 +4527,8 @@ tbody.collapse.show {
 }
 
 .card-danger {
-  background-color: red;
-  border-color: red;
+  background-color: #f00;
+  border-color: #f00;
 }
 
 .card-danger .card-header,
@@ -4548,7 +4548,7 @@ tbody.collapse.show {
 
 .card-outline-info {
   background-color: transparent;
-  border-color: black;
+  border-color: #000;
 }
 
 .card-outline-success {
@@ -4558,12 +4558,12 @@ tbody.collapse.show {
 
 .card-outline-warning {
   background-color: transparent;
-  border-color: orange;
+  border-color: #ffa500;
 }
 
 .card-outline-danger {
   background-color: transparent;
-  border-color: red;
+  border-color: #f00;
 }
 
 .card-inverse {
@@ -4807,7 +4807,7 @@ tbody.collapse.show {
 }
 
 .page-link:focus, .page-link:hover {
-  color: orange;
+  color: #ffa500;
   text-decoration: none;
   background-color: #eceeef;
   border-color: #ddd;
@@ -4902,7 +4902,7 @@ a.badge:focus, a.badge:hover {
 }
 
 .badge-info {
-  background-color: black;
+  background-color: #000;
 }
 
 .badge-info[href]:focus, .badge-info[href]:hover {
@@ -4910,7 +4910,7 @@ a.badge:focus, a.badge:hover {
 }
 
 .badge-warning {
-  background-color: orange;
+  background-color: #ffa500;
 }
 
 .badge-warning[href]:focus, .badge-warning[href]:hover {
@@ -4918,7 +4918,7 @@ a.badge:focus, a.badge:hover {
 }
 
 .badge-danger {
-  background-color: red;
+  background-color: #f00;
 }
 
 .badge-danger[href]:focus, .badge-danger[href]:hover {
@@ -4928,7 +4928,7 @@ a.badge:focus, a.badge:hover {
 .jumbotron {
   padding: 1rem 0.5rem;
   margin-bottom: 1rem;
-  background-color: #999999;
+  background-color: #999;
   border-radius: 0.3rem;
 }
 
@@ -6097,7 +6097,7 @@ a.bg-success:focus, a.bg-success:hover {
 }
 
 .bg-info {
-  background-color: black !important;
+  background-color: #000 !important;
 }
 
 a.bg-info:focus, a.bg-info:hover {
@@ -6105,7 +6105,7 @@ a.bg-info:focus, a.bg-info:hover {
 }
 
 .bg-warning {
-  background-color: orange !important;
+  background-color: #ffa500 !important;
 }
 
 a.bg-warning:focus, a.bg-warning:hover {
@@ -6113,7 +6113,7 @@ a.bg-warning:focus, a.bg-warning:hover {
 }
 
 .bg-danger {
-  background-color: red !important;
+  background-color: #f00 !important;
 }
 
 a.bg-danger:focus, a.bg-danger:hover {
@@ -9183,7 +9183,7 @@ a.text-success:focus, a.text-success:hover {
 }
 
 .text-info {
-  color: black !important;
+  color: #000 !important;
 }
 
 a.text-info:focus, a.text-info:hover {
@@ -9191,7 +9191,7 @@ a.text-info:focus, a.text-info:hover {
 }
 
 .text-warning {
-  color: orange !important;
+  color: #ffa500 !important;
 }
 
 a.text-warning:focus, a.text-warning:hover {
@@ -9199,7 +9199,7 @@ a.text-warning:focus, a.text-warning:hover {
 }
 
 .text-danger {
-  color: red !important;
+  color: #f00 !important;
 }
 
 a.text-danger:focus, a.text-danger:hover {

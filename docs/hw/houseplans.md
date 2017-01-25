@@ -7,7 +7,7 @@ group: hw
 
 <style>
 .jumbotron {
-	background: url( 'http://cdn.houseplans.com/product/83pciobqpkr9nvk6r2v9fofap5/w1024.jpg' ) center center;
+	background: url( 'http://cdn.houseplans.com/product/83pciobqpkr9nvk6r2v9fofap5/w940x400.jpg' ) center center;
 	background-size: cover;
 }
 </style>
@@ -18,6 +18,12 @@ group: hw
 
 	<!-- Site Header -->
 	<header>
+		<!-- Call Text / Cart -->
+		<div class="d-flex flex-row justify-content-end mb-2">
+			<div class="hidden-md-down mt-1 mr-3 float-right text-nowrap">Questions? <b>Call us at <a class="text-info" href="tel:877-803-2251">877-803-2251</a></b></div>
+			<div><button class="btn btn-default btn-primary btn-sm float-right"><i class="fa fa-shopping-cart" aria-hidden="true"></i> Cart</button></div>
+		</div>
+
 		<nav class="navbar navbar-toggleable-md navbar-light">
 			<button class="navbar-toggler navbar-toggler-right mt-2" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 				<span class="navbar-toggler-icon"></span>
@@ -33,15 +39,7 @@ group: hw
 				</ul>
 			</div>
 		</nav>
-		<!-- Call Text / Cart -->
-		<div class="d-flex flex-row justify-content-end mb-2">
-			<div class="hidden-md-down mt-1 mr-3 float-right text-nowrap">Questions? <b>Call us at <a class="text-info" href="tel:877-803-2251">877-803-2251</a></b></div>
-			<div><button class="btn btn-default btn-primary btn-sm float-right"><i class="fa fa-shopping-cart" aria-hidden="true"></i> Cart</button></div>
-		</div>
 	</header>
-
-</div><!-- ./container -->
-<div class="container p-0">
 
 	<!-- Hero with Search -->
 	<div class="jumbotron rounded-0">
@@ -128,17 +126,14 @@ group: hw
 		</div>
 	</div><!-- ./jumbotron -->
 
-</div><!-- ./container -->
-<div class="container p-0">
-
 	<!-- Featured Styles & Designs -->
 	<section id="featured-styles-and-designs">
 		<h2 class="h4 text-uppercase text-center mt-5"><span>Featured Styles &amp; Designs</span></h2>
 		<hr class="mx-auto mt-0 pt-0">
-		<div class="row no-gutters">
+		<div class="row">
 			<div class="col-sm-4">
-				<div class="card border-0 p-sm-1">
-					<img src="http://cdn.houseplans.com/product/o2d2ui14afb1sov3cnslpummre/w1024.jpg" class="img-fluid" alt="Responsive image">
+				<div class="card border-0">
+					<img src="http://cdn.houseplans.com/product/o2d2ui14afb1sov3cnslpummre/w940x400.jpg" class="img-fluid" alt="Responsive image">
 					<div class="card-block">
 						<h6 class="card-title text-center text-primary"><a href="#"><strong>3 BEDROOM FLOOR PLANS</strong></a></h6>
 						<p class="card-text"><em>3-bedroom floor plans are very popular and it's easy to see why.  The versatility of having 3 bedrooms makes this a...</em></p>
@@ -146,8 +141,8 @@ group: hw
 				</div>
 			</div>
 			<div class="col-sm-4">
-				<div class="card border-0 p-sm-1">
-					<img src="http://cdn.houseplans.com/product/2f50bfq27ig6qogbkms91mud82/w1024.jpg" class="img-fluid" alt="Responsive image">
+				<div class="card border-0">
+					<img src="http://cdn.houseplans.com/product/2f50bfq27ig6qogbkms91mud82/w940x400.jpg" class="img-fluid" alt="Responsive image">
 					<div class="card-block">
 						<h6 class="card-title text-center text-primary"><a href="#"><strong>TWO STORY FLOOR PLANS</strong></a></h6>
 						<p class="card-text"><em>The majority of plans build today have two stories, as this provides a traditional layout and separation of public &amp; private...</em></p>
@@ -155,8 +150,8 @@ group: hw
 				</div>
 			</div>
 			<div class="col-sm-4">
-				<div class="card border-0 p-sm-1">
-					<img src="http://cdn.houseplans.com/product/4f7c9q2ei6r5ldvhbmonpthvep/w1024.jpg" class="img-fluid" alt="Responsive image">
+				<div class="card border-0">
+					<img src="http://cdn.houseplans.com/product/4f7c9q2ei6r5ldvhbmonpthvep/w940x400.jpg" class="img-fluid" alt="Responsive image">
 					<div class="card-block">
 						<h6 class="card-title text-center text-primary"><a href="#"><strong>A-FRAME FLOOR PLANS</strong></a></h6>
 						<p class="card-text"><em>A-Frame homes are a contemporary, folk style of home reminiscent of a Swiss chalet, perfect in a mountain setting...</em></p>
@@ -183,13 +178,13 @@ group: hw
 						</ol>
 						<div class="carousel-inner" role="listbox">
 							<div class="carousel-item active">
-								<img class="d-block img-fluid" src="http://cdn.houseplans.com/product/o2d2ui14afb1sov3cnslpummre/w1024.jpg" alt="First slide">
+								<img class="d-block img-fluid" src="http://cdn.houseplans.com/product/o2d2ui14afb1sov3cnslpummre/w940x400.jpg" alt="First slide">
 							</div>
 							<div class="carousel-item">
-								<img class="d-block img-fluid" src="http://cdn.houseplans.com/product/2f50bfq27ig6qogbkms91mud82/w1024.jpg" alt="Second slide">
+								<img class="d-block img-fluid" src="http://cdn.houseplans.com/product/2f50bfq27ig6qogbkms91mud82/w940x400.jpg" alt="Second slide">
 							</div>
 							<div class="carousel-item">
-								<img class="d-block img-fluid" src="http://cdn.houseplans.com/product/4f7c9q2ei6r5ldvhbmonpthvep/w1024.jpg" alt="Third slide">
+								<img class="d-block img-fluid" src="http://cdn.houseplans.com/product/4f7c9q2ei6r5ldvhbmonpthvep/w940x400.jpg" alt="Third slide">
 							</div>
 						</div>
 						<a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -206,31 +201,21 @@ group: hw
 
 				<!-- Mobile -->
 				<div class="hidden-md-up">
-					<img class="img-fluid" src="http://cdn.houseplans.com/product/o2d2ui14afb1sov3cnslpummre/w1024.jpg" alt="First slide">
+					<img class="img-fluid" src="http://cdn.houseplans.com/product/o2d2ui14afb1sov3cnslpummre/w940x400.jpg" alt="First slide">
 				</div>
 
 			</div>
-			<div class="col-lg-4 px-4">
-
-				<div class="d-flex flex-column">
-					<div class="align-items-stretch"  style="border-top: 1px solid lightgray; border-bottom: 1px solid lightgray;"><!-- BS4 .border class missing -->
-
-						<div class="d-flex flex-column justify-content-end">
-							<div><h2 class="h6 mt-3">Exclusive Feature</h2></div>
-							<div><h3 class="my-3">THE MODERN CABIN COLLECTION</h3></div>
-							<div class="align-items-stretch">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-								tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-								quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-								consequat. Duis aute irure dolor in reprehenderit.
-							</div>
-							<div class="mt-auto pt-2 pb-4">
-								<button type="button" class="btn btn-primary btn-block py-2 text-uppercase">View Collection</button>
-							</div>
-						</div>
-
-					</div>
+			<div class="col-lg-4 px-4 d-flex flex-column align-items-stretch justify-content-end" style="border-top: 1px solid lightgray; border-bottom: 1px solid lightgray;">
+				<div><h2 class="h6 mt-3">Exclusive Feature</h2></div>
+				<div><h3 class="my-3">THE MODERN CABIN COLLECTION</h3></div>
+				<div class="align-items-stretch">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+					consequat. Duis aute irure dolor in reprehenderit.
 				</div>
-
+				<div class="mt-auto pt-2 pb-4">
+					<button type="button" class="btn btn-primary btn-block py-2 text-uppercase">View Collection</button>
+				</div>
 			</div><!-- ./col -->
 
 		</div><!-- ./row -->
@@ -241,7 +226,7 @@ group: hw
 	<section id="featured-designer2" class="mt-5">
 		<div class="d-md-flex flex-row justify-content-around">
 			<div>
-				<img src="http://cdn.houseplans.com/product/2f50bfq27ig6qogbkms91mud82/w1024.jpg" class="img-fluid" alt="Responsive image">
+				<img src="http://cdn.houseplans.com/product/2f50bfq27ig6qogbkms91mud82/w940x400.jpg" class="img-fluid" alt="Responsive image">
 			</div>
 			<div class="border text-center px-3"  style="border: 1px solid lightgray;"><!-- BS4 .border class missing -->
 
@@ -255,7 +240,7 @@ group: hw
 
 			</div>
 			<div class="hidden-md-down">
-				<img src="http://cdn.houseplans.com/product/4f7c9q2ei6r5ldvhbmonpthvep/w1024.jpg" class="img-fluid" alt="Responsive image">
+				<img src="http://cdn.houseplans.com/product/4f7c9q2ei6r5ldvhbmonpthvep/w940x400.jpg" class="img-fluid" alt="Responsive image">
 			</div>
 		</div>
 	</section>
