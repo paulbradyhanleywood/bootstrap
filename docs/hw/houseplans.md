@@ -286,8 +286,8 @@ http://cdn.houseplans.com/product/4f7c9q2ei6r5ldvhbmonpthvep/w1024.jpg
 					<div><h2 class="h6 mt-3">Featured Designer</h2></div>
 					<div><h3 class="text-uppercase">David Wiggins</h3></div>
 					<div class="align-items-stretch">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-					tempor incididunt ut labore et dolore magna aliqua. Ut enim veniam.</div>
-					<div class="mt-auto pb-4"><button class="btn btn-primary btn-block text-uppercase">See All Plans</button></div>
+					tempor incididunt ut labore et dolore.</div>
+					<div class="mt-auto pt-2 pb-4"><button class="btn btn-primary btn-block text-uppercase">See All Plans</button></div>
 				</div>
 
 			</div>
