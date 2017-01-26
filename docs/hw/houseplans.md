@@ -132,7 +132,7 @@ group: hw
 	</div><!-- ./jumbotron -->
 
 	<!-- Featured Styles & Designs -->
-	<section id="featured-styles-and-designs">
+	<section>
 		<h2 class="h4 text-uppercase text-center mt-5"><span>Featured Styles &amp; Designs</span></h2>
 		<hr class="mx-auto mt-0 pt-0">
 		<div class="row">
@@ -169,7 +169,7 @@ group: hw
 
 
 	<!-- Exclusive Feature -->
-	<section id="exclusive-feature" class="mt-5 mb-5">
+	<section class="mt-5 mb-5">
 		<div class="row no-gutters">
 			<div class="col-lg-8">
 
@@ -228,7 +228,7 @@ group: hw
 
 
 	<!-- Featured Designer -->
-	<section id="featured-designer2" class="mt-5">
+	<section class="mt-5">
 		<div class="d-md-flex flex-row justify-content-around">
 			<div>
 				<img src="http://cdn.houseplans.com/product/2f50bfq27ig6qogbkms91mud82/w940x400.jpg" class="img-fluid" alt="Responsive image">
