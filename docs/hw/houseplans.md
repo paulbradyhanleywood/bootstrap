@@ -136,8 +136,8 @@ group: hw
 		<h2 class="h4 text-uppercase text-center mt-5"><span>Featured Styles &amp; Designs</span></h2>
 		<hr class="mx-auto mt-0 pt-0">
 		<div class="row">
-			<div class="col-sm-4">
-				<div class="card border-0">
+			<div class="col-sm-4 p-0">
+				<div class="card">
 					<img src="http://cdn.houseplans.com/product/o2d2ui14afb1sov3cnslpummre/w940x400.jpg" class="img-fluid" alt="Responsive image">
 					<div class="card-block">
 						<h6 class="card-title text-center text-primary"><a href="#"><strong>3 BEDROOM FLOOR PLANS</strong></a></h6>
@@ -145,8 +145,8 @@ group: hw
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-4">
-				<div class="card border-0">
+			<div class="col-sm-4 p-0">
+				<div class="card">
 					<img src="http://cdn.houseplans.com/product/2f50bfq27ig6qogbkms91mud82/w940x400.jpg" class="img-fluid" alt="Responsive image">
 					<div class="card-block">
 						<h6 class="card-title text-center text-primary"><a href="#"><strong>TWO STORY FLOOR PLANS</strong></a></h6>
@@ -154,8 +154,8 @@ group: hw
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-4">
-				<div class="card border-0">
+			<div class="col-sm-4 p-0">
+				<div class="card">
 					<img src="http://cdn.houseplans.com/product/4f7c9q2ei6r5ldvhbmonpthvep/w940x400.jpg" class="img-fluid" alt="Responsive image">
 					<div class="card-block">
 						<h6 class="card-title text-center text-primary"><a href="#"><strong>A-FRAME FLOOR PLANS</strong></a></h6>
@@ -543,7 +543,7 @@ group: hw
 			</div>
 			<div class="d-inline-flex justify-content-center align-items-center py-3">
 
-				<div class="pr-md-5"><a class="text-white" href="#">Copyright 2017, HanleyWood LLC.</a> All Rights Reserved.</div>
+				<div class="pr-md-5"><a class="text-white" href="#">Copyright 2017, HanleyWood LLC.</a> All&nbsp;Rights&nbsp;Reserved.</div>
 
 			</div>
 			<div class="d-inline-flex justify-content-center align-items-center py-3">
