@@ -19,13 +19,13 @@ group: hw
 	<!-- Site Header -->
 	<header>
 		<!-- Call Text / Cart -->
-		<div class="d-flex flex-row justify-content-end mb-2">
-			<div class="hidden-md-down mt-1 mr-3 float-right text-nowrap">Questions? <b>Call us at <a class="text-info" href="tel:877-803-2251">877-803-2251</a></b></div>
-			<div><button class="btn btn-default btn-primary btn-sm float-right"><i class="fa fa-shopping-cart" aria-hidden="true"></i> Cart</button></div>
+		<div class="d-flex flex-row justify-content-end">
+			<div class="mt-1 mr-3 float-right"><span class="hidden-md-down">Questions?</span> <b>Call us at <a class="text-info" href="tel:877-803-2251">877-803-2251</a></b></div>
+			<div><button class="btn btn-default btn-primary btn-sm float-right mr-2"><i class="fa fa-shopping-cart" aria-hidden="true"></i> Cart</button></div>
 		</div>
 
 		<nav class="navbar navbar-toggleable-md navbar-light">
-			<button class="navbar-toggler navbar-toggler-right mt-2" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+			<button class="navbar-toggler navbar-toggler-right mt-2 px-2" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 				<span class="navbar-toggler-icon"></span>
 			</button>
 			<a class="navbar-brand" href="#"><img class="ml-2" src="http://placehold.it/230x50/905f90/ffffff?text=floor+plans" alt="floorplans"></a>

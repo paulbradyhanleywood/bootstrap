@@ -4410,7 +4410,7 @@ tbody.collapse.show {
       -ms-flex-direction: column;
           flex-direction: column;
   background-color: #fff;
-  border: 5px solid #fff;
+  border: 1px solid #fff;
   border-radius: 0;
 }
 
@@ -4457,21 +4457,21 @@ tbody.collapse.show {
   padding: 0.75rem 1.25rem;
   margin-bottom: 0;
   background-color: #f7f7f9;
-  border-bottom: 5px solid #fff;
+  border-bottom: 1px solid #fff;
 }
 
 .card-header:first-child {
-  border-radius: calc(0 - 5px) calc(0 - 5px) 0 0;
+  border-radius: calc(0 - 1px) calc(0 - 1px) 0 0;
 }
 
 .card-footer {
   padding: 0.75rem 1.25rem;
   background-color: #f7f7f9;
-  border-top: 5px solid #fff;
+  border-top: 1px solid #fff;
 }
 
 .card-footer:last-child {
-  border-radius: 0 0 calc(0 - 5px) calc(0 - 5px);
+  border-radius: 0 0 calc(0 - 1px) calc(0 - 1px);
 }
 
 .card-header-tabs {
@@ -4601,7 +4601,7 @@ tbody.collapse.show {
 }
 
 .card-img {
-  border-radius: calc(0 - 5px);
+  border-radius: calc(0 - 1px);
 }
 
 .card-img-overlay {
@@ -4614,13 +4614,13 @@ tbody.collapse.show {
 }
 
 .card-img-top {
-  border-top-right-radius: calc(0 - 5px);
-  border-top-left-radius: calc(0 - 5px);
+  border-top-right-radius: calc(0 - 1px);
+  border-top-left-radius: calc(0 - 1px);
 }
 
 .card-img-bottom {
-  border-bottom-right-radius: calc(0 - 5px);
-  border-bottom-left-radius: calc(0 - 5px);
+  border-bottom-right-radius: calc(0 - 1px);
+  border-bottom-left-radius: calc(0 - 1px);
 }
 
 @media (min-width: 576px) {
