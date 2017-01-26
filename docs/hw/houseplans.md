@@ -18,7 +18,6 @@ group: hw
 
 	<!-- Site Header -->
 	<header>
-		<!-- Call Text / Cart -->
 		<div class="d-flex flex-row justify-content-center hidden-sm-up">
 			<div class="mt-1 mr-3"><b>Call us at <a class="text-info" href="tel:877-803-2251">877-803-2251</a></b></div>
 			<div class="mt-1 mr-3 float-right hidden-xs-down">Questions? <b>Call us at <a class="text-info" href="tel:877-803-2251">877-803-2251</a></b></div>
@@ -47,95 +46,94 @@ group: hw
 	</header>
 
 	<!-- Hero with Search -->
-	<div class="jumbotron rounded-0">
-		<div class="text-center">
-			<div class="row">
-				<div class="col-sm-1"></div>
-				<div class="col-sm-7 col-md-5 col-lg-4 mx-4 p-3 bg-faded">
-					<h3>SEARCH FLOOR PLANS</h3>
-					<h6 class="mt-2 mb-1">Bedrooms</h6>
-					<div class="btn-group" data-toggle="buttons">
-						<label class="btn btn-secondary">
-							<input type="radio" name="options" id="sfp_bed_option1" checked> 1
-						</label>
-						<label class="btn btn-secondary active">
-							<input type="radio" name="options" id="sfp_bed_option2"> 2
-						</label>
-						<label class="btn btn-secondary">
-							<input type="radio" name="options" id="sfp_bed_option3"> 3
-						</label>
-						<label class="btn btn-secondary">
-							<input type="radio" name="options" id="sfp_bed_option4"> 4
-						</label>
-						<label class="btn btn-secondary">
-							<input type="radio" name="options" id="sfp_bed_option5"> 5+
-						</label>
-					</div>
-
-					<h6 class="mt-1 mb-1">Bathrooms</h6>
-					<div class="btn-group" data-toggle="buttons">
-						<label class="btn btn-secondary active">
-							<input type="radio" name="options" id="sfp_bath_option1" checked> 1
-						</label>
-						<label class="btn btn-secondary">
-							<input type="radio" name="options" id="sfp_bath_option2"> 2
-						</label>
-						<label class="btn btn-secondary">
-							<input type="radio" name="options" id="sfp_bath_option3"> 3
-						</label>
-						<label class="btn btn-secondary">
-							<input type="radio" name="options" id="sfp_bath_option4"> 4
-						</label>
-						<label class="btn btn-secondary">
-							<input type="radio" name="options" id="sfp_bath_option5"> 5+
-						</label>
-					</div>
-
-					<h6 class="mt-1 mb-1">Floors</h6>
-					<div class="btn-group" data-toggle="buttons">
-						<label class="btn btn-secondary active">
-							<input type="radio" name="options" id="sfp_flrs_option1" checked> 1
-						</label>
-						<label class="btn btn-secondary">
-							<input type="radio" name="options" id="sfp_flrs_option2"> 2
-						</label>
-						<label class="btn btn-secondary">
-							<input type="radio" name="options" id="sfp_flrs_option3"> 3
-						</label>
-						<label class="btn btn-secondary">
-							<input type="radio" name="options" id="sfp_flrs_option4"> 4
-						</label>
-						<label class="btn btn-secondary">
-							<input type="radio" name="options" id="sfp_flrs_option5"> 5+
-						</label>
-					</div>
-
-					<h6 class="mt-1 mb-1">Garage Bays</h6>
-					<div class="btn-group" data-toggle="buttons">
-						<label class="btn btn-secondary active">
-							<input type="radio" name="options" id="sfp_gar_option1" checked> 1
-						</label>
-						<label class="btn btn-secondary">
-							<input type="radio" name="options" id="sfp_gar_option2"> 2
-						</label>
-						<label class="btn btn-secondary">
-							<input type="radio" name="options" id="sfp_gar_option3"> 3
-						</label>
-						<label class="btn btn-secondary">
-							<input type="radio" name="options" id="sfp_gar_option4"> 4+
-						</label>
-					</div><br>
-					<div class="mx-5"><button type="button" class="btn btn-primary btn-block text-uppercase">Search Plans</button></div>
+	<div class="jumbotron jumbotron-fluid rounded-0">
+		<div class="row no-gutters text-center">
+			<div class="col-sm-1 col-md-3 col-lg-1"></div>
+			<div class="col-sm-10 col-md-6 col-lg-4 p-3 bg-faded">
+				<h3>SEARCH FLOOR PLANS</h3>
+				<h6 class="mt-2 mb-1">Bedrooms</h6>
+				<div class="btn-group" data-toggle="buttons">
+					<label class="btn btn-secondary">
+						<input type="radio" name="options" id="sfp_bed_option1" checked> 1
+					</label>
+					<label class="btn btn-secondary active">
+						<input type="radio" name="options" id="sfp_bed_option2"> 2
+					</label>
+					<label class="btn btn-secondary">
+						<input type="radio" name="options" id="sfp_bed_option3"> 3
+					</label>
+					<label class="btn btn-secondary">
+						<input type="radio" name="options" id="sfp_bed_option4"> 4
+					</label>
+					<label class="btn btn-secondary">
+						<input type="radio" name="options" id="sfp_bed_option5"> 5+
+					</label>
 				</div>
-			</div><!-- ./row -->
-		</div>
+
+				<h6 class="mt-1 mb-1">Bathrooms</h6>
+				<div class="btn-group" data-toggle="buttons">
+					<label class="btn btn-secondary active">
+						<input type="radio" name="options" id="sfp_bath_option1" checked> 1
+					</label>
+					<label class="btn btn-secondary">
+						<input type="radio" name="options" id="sfp_bath_option2"> 2
+					</label>
+					<label class="btn btn-secondary">
+						<input type="radio" name="options" id="sfp_bath_option3"> 3
+					</label>
+					<label class="btn btn-secondary">
+						<input type="radio" name="options" id="sfp_bath_option4"> 4
+					</label>
+					<label class="btn btn-secondary">
+						<input type="radio" name="options" id="sfp_bath_option5"> 5+
+					</label>
+				</div>
+
+				<h6 class="mt-1 mb-1">Floors</h6>
+				<div class="btn-group" data-toggle="buttons">
+					<label class="btn btn-secondary active">
+						<input type="radio" name="options" id="sfp_flrs_option1" checked> 1
+					</label>
+					<label class="btn btn-secondary">
+						<input type="radio" name="options" id="sfp_flrs_option2"> 2
+					</label>
+					<label class="btn btn-secondary">
+						<input type="radio" name="options" id="sfp_flrs_option3"> 3
+					</label>
+					<label class="btn btn-secondary">
+						<input type="radio" name="options" id="sfp_flrs_option4"> 4
+					</label>
+					<label class="btn btn-secondary">
+						<input type="radio" name="options" id="sfp_flrs_option5"> 5+
+					</label>
+				</div>
+
+				<h6 class="mt-1 mb-1">Garage Bays</h6>
+				<div class="btn-group" data-toggle="buttons">
+					<label class="btn btn-secondary active">
+						<input type="radio" name="options" id="sfp_gar_option1" checked> 1
+					</label>
+					<label class="btn btn-secondary">
+						<input type="radio" name="options" id="sfp_gar_option2"> 2
+					</label>
+					<label class="btn btn-secondary">
+						<input type="radio" name="options" id="sfp_gar_option3"> 3
+					</label>
+					<label class="btn btn-secondary">
+						<input type="radio" name="options" id="sfp_gar_option4"> 4+
+					</label>
+				</div><br>
+				<div class="mx-5"><button type="button" class="btn btn-primary btn-block text-uppercase">Search Plans</button></div>
+			</div>
+			<div class="col-sm-1 col-md-3 col-lg-7"></div>
+		</div><!-- ./row -->
 	</div><!-- ./jumbotron -->
 
 	<!-- Featured Styles & Designs -->
 	<section>
 		<h2 class="h4 text-uppercase text-center mt-5"><span>Featured Styles &amp; Designs</span></h2>
 		<hr class="mx-auto mt-0 pt-0">
-		<div class="row">
+		<div class="row no-gutters">
 			<div class="col-sm-4 p-0">
 				<div class="card">
 					<img src="http://cdn.houseplans.com/product/o2d2ui14afb1sov3cnslpummre/w940x400.jpg" class="img-fluid" alt="Responsive image">
