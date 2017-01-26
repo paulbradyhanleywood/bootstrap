@@ -19,8 +19,13 @@ group: hw
 	<!-- Site Header -->
 	<header>
 		<!-- Call Text / Cart -->
-		<div class="d-flex flex-row justify-content-end">
-			<div class="mt-1 mr-3 float-right"><span class="hidden-md-down">Questions?</span> <b>Call us at <a class="text-info" href="tel:877-803-2251">877-803-2251</a></b></div>
+		<div class="d-flex flex-row justify-content-center hidden-sm-up">
+			<div class="mt-1 mr-3"><b>Call us at <a class="text-info" href="tel:877-803-2251">877-803-2251</a></b></div>
+			<div class="mt-1 mr-3 float-right hidden-xs-down">Questions? <b>Call us at <a class="text-info" href="tel:877-803-2251">877-803-2251</a></b></div>
+			<div><button class="btn btn-default btn-primary btn-sm float-right mr-2"><i class="fa fa-shopping-cart" aria-hidden="true"></i> Cart</button></div>
+		</div>
+		<div class="d-flex flex-row justify-content-end hidden-xs-down">
+			<div class="mt-1 mr-3 float-right hidden-xs-down">Questions? <b>Call us at <a class="text-info" href="tel:877-803-2251">877-803-2251</a></b></div>
 			<div><button class="btn btn-default btn-primary btn-sm float-right mr-2"><i class="fa fa-shopping-cart" aria-hidden="true"></i> Cart</button></div>
 		</div>
 
@@ -28,7 +33,7 @@ group: hw
 			<button class="navbar-toggler navbar-toggler-right mt-2 px-2" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 				<span class="navbar-toggler-icon"></span>
 			</button>
-			<a class="navbar-brand" href="#"><img class="ml-2" src="http://placehold.it/230x50/905f90/ffffff?text=floor+plans" alt="floorplans"></a>
+			<a class="navbar-brand" href="#"><img class="ml-2" src="http://placehold.it/220x50/c7b0c6/011a47?text=FLOORPLANS" alt="floorplans"></a>
 			<div class="collapse navbar-collapse" id="navbarSupportedContent">
 				<ul class="navbar-nav mr-auto">
 					<li class="nav-item text-uppercase"><a class="text-info nav-link active" href="#">Search</a></li>
