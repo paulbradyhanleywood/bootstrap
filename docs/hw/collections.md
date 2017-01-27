@@ -46,6 +46,15 @@ group: hw
 					<h2 class="h4">Collection</h2>
 					<p>Select a link below to browse our hand-selected plans from the nearly 50,000 plans in our database or click "Search" at the top to search all of our plans by size, type or feature.</p>
 				</div>
+
+				<div class="d-flex justify-content-center mt-4">
+					<img src="https://lh6.ggpht.com/Ab63gyKVnGwbQaj0guyJ0caGj-VugefmMd3SyzpPOX2RgCDA1tzQTY36sGI65Guw5OXdas4f5w=w303" alt="showcase ad #1">
+				</div>
+
+				<div class="d-flex justify-content-center mt-3">
+					<img src="https://lh6.ggpht.com/Ab63gyKVnGwbQaj0guyJ0caGj-VugefmMd3SyzpPOX2RgCDA1tzQTY36sGI65Guw5OXdas4f5w=w303" alt="showcase ad #2">
+				</div>
+
 			</div>
 			<div class="col-md-4 p-0">
 				<div class="card">
