@@ -28,6 +28,9 @@ group: hw
 			<div class="collapse navbar-collapse" id="navbarSupportedContent">
 				<ul class="navbar-nav mr-auto">
 					<li class="nav-item text-uppercase"><a class="text-info nav-link" href="#">Search</a></li>
+					<li class="nav-item text-uppercase"><a class="text-info nav-link" href="/hw/styles/">Styles</a></li>
+					<li class="nav-item text-uppercase"><a class="text-info nav-link active" href="/hw/collections/">Collections</a></li>
+					<li class="nav-item text-uppercase"><a class="text-info nav-link" href="/hw/designers/">Designers</a></li>
 					<li class="nav-item text-uppercase"><a class="text-info nav-link" href="#">Styles</a></li>
 					<li class="nav-item text-uppercase"><a class="text-info nav-link active" href="#">Collections</a></li>
 					<li class="nav-item text-uppercase"><a class="text-info nav-link" href="#">Designers</a></li>
