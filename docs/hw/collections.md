@@ -24,24 +24,18 @@ group: hw
 			<button class="navbar-toggler navbar-toggler-right mt-2 px-2" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 				<span class="navbar-toggler-icon"></span>
 			</button>
-			<a class="navbar-brand" href="/hw/"><img class="ml-2" src="http://placehold.it/220x50/c7b0c6/011a47?text=FLOORPLANS" alt="floorplans"></a>
+			<a class="navbar-brand" href="#"><img class="ml-2" src="http://placehold.it/220x50/c7b0c6/011a47?text=FLOORPLANS" alt="floorplans"></a>
 			<div class="collapse navbar-collapse" id="navbarSupportedContent">
 				<ul class="navbar-nav mr-auto">
 					<li class="nav-item text-uppercase"><a class="text-info nav-link" href="#">Search</a></li>
-					<li class="nav-item text-uppercase"><a class="text-info nav-link" href="/hw/styles/">Styles</a></li>
-					<li class="nav-item text-uppercase"><a class="text-info nav-link active" href="/hw/collections/">Collections</a></li>
-					<li class="nav-item text-uppercase"><a class="text-info nav-link" href="/hw/designers/">Designers</a></li>
+					<li class="nav-item text-uppercase"><a class="text-info nav-link" href="#">Styles</a></li>
+					<li class="nav-item text-uppercase"><a class="text-info nav-link active" href="#">Collections</a></li>
+					<li class="nav-item text-uppercase"><a class="text-info nav-link" href="#">Designers</a></li>
 					<li class="nav-item text-uppercase"><a class="text-info nav-link" href="#">Magazines</a></li>
 				</ul>
 			</div>
 		</nav>
 	</header>
-
-	<!-- For sub-collections only -->
-	<nav class="breadcrumb mt-2 mx-2">
-		<a class="breadcrumb-item" href="#">Collections</a>
-		<span class="breadcrumb-item active">Builder Plans</span>
-	</nav>
 
 
 	<!-- Featured Styles & Designs -->
@@ -53,47 +47,6 @@ group: hw
 					<p>Select a link below to browse our hand-selected plans from the nearly 50,000 plans in our database or click "Search" at the top to search all of our plans by size, type or feature.</p>
 				</div>
 
-				<!-- Collection List -->
-
-				<!-- TYPE A - MOCKUP -->
-				<table class="table w-100">
-					<thead></thead>
-					<tbody>
-						<tr>
-							<td>Type A Builder Plans <span class="badge badge-pill badge-default float-right">18</span></td>
-						</tr><tr>
-							<td>Type A Builder Plans 2 <i class="fa fa-caret-right float-right"></i></td>
-						</tr>
-					</tbody>
-				</table>
-
-				<!-- TYPE B - MOCKUP -->
-				<div class="w-100">
-					Type B Builder Plans 1 <i class="fa fa-caret-right float-right"></i>
-				</div>
-
-				<!-- TYPE C - MOCKUP -->
-				<div class="row">
-					<div class="col-md-10">
-						Type C Building Plans 1
-					</div>
-					<div class="col-md-2">
-						<i class="fa fa-caret-right float-right"></i>
-					</div>
-				</div>
-				<div class="row">
-					<div class="col-md-10">
-						Type C Building Plans 2
-					</div>
-					<div class="col-md-2">
-						<i class="fa fa-caret-right float-right"></i>
-					</div>
-				</div>
-
-
-
-
-				<!-- Showcase Ads -->
 				<div class="d-flex justify-content-center mt-4">
 					<img src="https://lh6.ggpht.com/Ab63gyKVnGwbQaj0guyJ0caGj-VugefmMd3SyzpPOX2RgCDA1tzQTY36sGI65Guw5OXdas4f5w=w303" alt="showcase ad #1">
 				</div>
