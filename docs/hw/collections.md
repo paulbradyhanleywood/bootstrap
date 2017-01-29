@@ -55,48 +55,22 @@ group: hw
 				</div>
 
 
-				<!-- Collection List -->
-
-				<!-- TYPE A - MOCKUP -->
-				<table class="table w-100">
-					<thead></thead>
-					<tbody>
-						<tr>
-							<td>Type A Builder Plans <span class="badge badge-pill badge-default float-right">18</span></td>
-						</tr><tr>
-							<td>Type A Builder Plans 2 <i class="fa fa-caret-right float-right"></i></td>
-						</tr>
-					</tbody>
-				</table>
-
-				<!-- TYPE B - MOCKUP -->
-				<div class="w-100">
-					Type B Builder Plans 1 <i class="fa fa-caret-right float-right"></i>
-				</div>
-
-				<!-- TYPE C - MOCKUP -->
-				<div class="row">
-					<div class="col-md-10">
-						Type C Building Plans 1
-					</div>
-					<div class="col-md-2">
-						<i class="fa fa-caret-right float-right"></i>
-					</div>
-				</div>
-				<div class="row">
-					<div class="col-md-10">
-						Type C Building Plans 2
-					</div>
-					<div class="col-md-2">
-						<i class="fa fa-caret-right float-right"></i>
-					</div>
-				</div>
-
+				<!-- Collections List -->
+				<ul class="list-group mt-3 mx-2">
+					<li class="list-group-item w-100"><div class="w-100">
+						<a href="#">Builder Plans <i class="fa fa-caret-down float-right pt-1"></i></a>
+					</div></li>
+					<li class="list-group-item w-100"><div class="w-100">
+						<a href="#">Design Styles <i class="fa fa-caret-right float-right pt-1"></i></a>
+					</div></li>
+					<li class="list-group-item w-100"><div class="w-100">
+						<a href="#">Energy-Efficient House PLans <i class="fa fa-caret-right float-right pt-1"></i></a>
+					</div></li>
+				</ul>
 
 
 
 				<!-- Showcase Ads -->
-
 				<div class="d-flex justify-content-center mt-4">
 					<img src="https://lh6.ggpht.com/Ab63gyKVnGwbQaj0guyJ0caGj-VugefmMd3SyzpPOX2RgCDA1tzQTY36sGI65Guw5OXdas4f5w=w303" alt="showcase ad #1">
 				</div>
