@@ -40,7 +40,7 @@ group: hw
 
 	<!-- For sub-collections only -->
 	<nav class="breadcrumb mt-2 mx-2">
-		<a class="breadcrumb-item" href="#">Collections</a>
+		<a class="breadcrumb-item" href="/hw/collections/">Collections</a>
 		<span class="breadcrumb-item active">Builder Plans</span>
 	</nav>
 
@@ -58,7 +58,7 @@ group: hw
 				<!-- Collections List -->
 				<ul class="list-group mt-3 mx-2">
 					<li class="list-group-item w-100"><div class="w-100">
-						<a href="#">Builder Plans <i class="fa fa-caret-down float-right pt-1"></i></a>
+						<a href="/hw/collections2/">Builder Plans <i class="fa fa-caret-down float-right pt-1"></i></a>
 						<ul class="list-group">
 							<li class="list-group-item d-block pr-0 pl-3 py-1 border-0 w-100"><a href="#">Builder Bungalows</a></li>
 							<li class="list-group-item d-block pr-0 pl-3 py-1 border-0 w-100"><a href="#">Duplex Plans</a></li>

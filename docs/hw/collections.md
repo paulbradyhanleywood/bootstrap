@@ -51,7 +51,7 @@ group: hw
 				<!-- Collections List -->
 				<ul class="list-group mt-3 mx-2">
 					<li class="list-group-item w-100"><div class="w-100">
-						<a href="#">Builder Plans <i class="fa fa-caret-down float-right pt-1"></i></a>
+						<a href="/hw/collections2">Builder Plans <i class="fa fa-caret-right float-right pt-1"></i></a>
 					</div></li>
 					<li class="list-group-item w-100"><div class="w-100">
 						<a href="#">Design Styles <i class="fa fa-caret-right float-right pt-1"></i></a>
