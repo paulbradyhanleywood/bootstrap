@@ -13,11 +13,11 @@ group: hw
 		<div class="d-flex flex-row justify-content-center hidden-sm-up">
 			<div class="mt-1 mr-3"><b>Call us at <a class="text-info" href="tel:877-803-2251">877-803-2251</a></b></div>
 			<div class="mt-1 mr-3 float-right hidden-xs-down">Questions? <b>Call us at <a class="text-info" href="tel:877-803-2251">877-803-2251</a></b></div>
-			<div><button class="btn btn-default btn-primary btn-sm float-right mr-2"><i class="fa fa-shopping-cart" aria-hidden="true"></i> Cart</button></div>
+			<div><button class="btn btn-primary btn-sm float-right mr-2"><i class="fa fa-shopping-cart" aria-hidden="true"></i> Cart</button></div>
 		</div>
 		<div class="d-flex flex-row justify-content-end hidden-xs-down">
 			<div class="mt-1 mr-3 float-right hidden-xs-down">Questions? <b>Call us at <a class="text-info" href="tel:877-803-2251">877-803-2251</a></b></div>
-			<div><button class="btn btn-default btn-primary btn-sm float-right mr-2"><i class="fa fa-shopping-cart" aria-hidden="true"></i> Cart</button></div>
+			<div><button class="btn btn-primary btn-sm float-right mr-2"><i class="fa fa-shopping-cart" aria-hidden="true"></i> Cart</button></div>
 		</div>
 
 		<nav class="navbar navbar-toggleable-md navbar-light">
