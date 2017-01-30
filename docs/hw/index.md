@@ -32,14 +32,14 @@ group: hw
 			<button class="navbar-toggler navbar-toggler-right mt-2 px-2" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 				<span class="navbar-toggler-icon"></span>
 			</button>
-			<a class="navbar-brand" href="#"><img class="ml-2" src="http://placehold.it/220x50/c7b0c6/011a47?text=FLOORPLANS" alt="floorplans"></a>
+			<a class="navbar-brand" href="/hw/"><img class="ml-2" src="http://placehold.it/220x50/c7b0c6/011a47?text=FLOORPLANS" alt="floorplans"></a>
 			<div class="collapse navbar-collapse" id="navbarSupportedContent">
 				<ul class="navbar-nav mr-auto">
 					<li class="nav-item text-uppercase"><a class="text-info nav-link active" href="#">Search</a></li>
 					<li class="nav-item text-uppercase"><a class="text-info nav-link" href="#">Styles</a></li>
-					<li class="nav-item text-uppercase"><a class="text-info nav-link" href="#">Collections</a></li>
-					<li class="nav-item text-uppercase"><a class="text-info nav-link" href="#">Designers</a></li>
-					<li class="nav-item text-uppercase"><a class="text-info nav-link" href="#">Magazines</a></li>
+					<li class="nav-item text-uppercase"><a class="text-info nav-link" href="/hw/collections/">Collections</a></li>
+					<li class="nav-item text-uppercase"><a class="text-info nav-link" href="/hw/designers/">Designers</a></li>
+					<li class="nav-item text-uppercase"><a class="text-info nav-link" href="/hw/magazines/">Magazines</a></li>
 				</ul>
 			</div>
 		</nav>

@@ -38,13 +38,6 @@ group: hw
 	</header>
 
 
-	<!-- For sub-collections only -->
-	<nav class="breadcrumb mt-2 mx-2">
-		<a class="breadcrumb-item" href="#">Collections</a>
-		<span class="breadcrumb-item active">Builder Plans</span>
-	</nav>
-
-
 	<!-- Featured Styles & Designs -->
 	<section>
 		<div class="row no-gutters">
