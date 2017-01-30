@@ -66,6 +66,27 @@ group: hw
 					<li class="list-group-item w-100"><div class="w-100">
 						<a href="#">Energy-Efficient House PLans <i class="fa fa-caret-right float-right pt-1"></i></a>
 					</div></li>
+					<li class="list-group-item w-100"><div class="w-100">
+						<a href="#">Houseplans Picks<i class="fa fa-caret-right float-right pt-1"></i></a>
+					</div></li>
+					<li class="list-group-item w-100"><div class="w-100">
+						<a href="#">Howie Awards<i class="fa fa-caret-right float-right pt-1"></i></a>
+					</div></li>
+					<li class="list-group-item w-100"><div class="w-100">
+						<a href="#">Regional Favorites<i class="fa fa-caret-right float-right pt-1"></i></a>
+					</div></li>
+					<li class="list-group-item w-100"><div class="w-100">
+						<a href="#">Rooms<i class="fa fa-caret-right float-right pt-1"></i></a>
+					</div></li>
+					<li class="list-group-item w-100"><div class="w-100">
+						<a href="#">Social Media Plan Stars<i class="fa fa-caret-right float-right pt-1"></i></a>
+					</div></li>
+					<li class="list-group-item w-100"><div class="w-100">
+						<a href="#">Top Selling House Plans<i class="fa fa-caret-right float-right pt-1"></i></a>
+					</div></li>
+					<li class="list-group-item w-100"><div class="w-100">
+						<a href="#">Signature Plans<i class="fa fa-caret-right float-right pt-1"></i></a>
+					</div></li>
 				</ul>
 
 
