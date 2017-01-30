@@ -41,7 +41,8 @@ group: hw
 	<!-- For sub-collections only -->
 	<nav class="breadcrumb mt-2 mx-2">
 		<a class="breadcrumb-item" href="/hw/collections/">Collections</a>
-		<span class="breadcrumb-item active">Builder Plans</span>
+		<a class="breadcrumb-item" href="/hw/builder-plans/">Builder Plans</a>
+		<span class="breadcrumb-item active">Builder Bungalows</span>
 	</nav>
 
 
@@ -50,62 +51,27 @@ group: hw
 		<div class="row no-gutters">
 			<div class="col-md-4">
 				<div class="h-auto bg-faded mt-2 mx-2 p-3" style="border: 1px solid #ddd;">
-					<h2 class="h4">Builder Plans</h2>
-					<p>House Plans selected for builders, including designs for infill lots and houses for larger developments.  Builder plans are chosen for their mixture of affordability and desireability by home buyers.</p>
+					<h2 class="h4">Builder Bungalows</h2>
+					<p>The efficient shape and generally compact and neighborley character of today's bungalow makes it a natural house plan choice for small developments.  Here are a range of bungalow designs for smaller lots.</p>
 				</div>
 
 
 				<!-- Collections List -->
-				<ul class="list-group mt-3 mx-2">
-					<li class="list-group-item w-100"><div class="w-100">
-						<a href="/hw/collections2/">Builder Plans <i class="fa fa-caret-down float-right pt-1"></i></a>
-						<ul class="list-group">
-							<li class="list-group-item d-block pr-0 pl-3 py-1 border-0 w-100"><a href="#">Builder Bungalows</a></li>
-							<li class="list-group-item d-block pr-0 pl-3 py-1 border-0 w-100"><a href="#">Duplex Plans</a></li>
-							<li class="list-group-item d-block pr-0 pl-3 py-1 border-0 w-100"><a href="#">House Plans for Builders</a></li>
-							<li class="list-group-item d-block pr-0 pl-3 py-1 border-0 w-100"><a href="#">House Plans with Multiple Elevations</a></li>
-							<li class="list-group-item d-block pr-0 pl-3 py-1 border-0 w-100"><a href="#">I Shaped House Plans</a></li>
-							<li class="list-group-item d-block pr-0 pl-3 py-1 border-0 w-100"><a href="#">L Shaped House Plans</a></li>
-							<li class="list-group-item d-block pr-0 pl-3 py-1 border-0 w-100"><a href="#">Low Cost House Plans</a></li>
-							<li class="list-group-item d-block pr-0 pl-3 py-1 border-0 w-100"><a href="#">Multi-family Plans</a></li>
-							<li class="list-group-item d-block pr-0 pl-3 py-1 border-0 w-100"><a href="#">Narrow Lot Plans</a></li>
-							<li class="list-group-item d-block pr-0 pl-3 py-1 border-0 w-100"><a href="#">Row House Plans</a></li>
-							<li class="list-group-item d-block pr-0 pl-3 py-1 border-0 w-100"><a href="#">SIPs House Plans</a></li>
-							<li class="list-group-item d-block pr-0 pl-3 py-1 border-0 w-100"><a href="#">Sloping Lot Plans</a></li>
-							<li class="list-group-item d-block pr-0 pl-3 py-1 border-0 w-100"><a href="#">T-Shaped House Plans</a></li>
-							<li class="list-group-item d-block pr-0 pl-3 py-1 border-0 w-100"><a href="#">U-Shaped House Plans</a></li>
-							<li class="list-group-item d-block pr-0 pl-3 py-1 border-0 w-100"><a href="#">Signature Plans</a><i class="fa fa-caret-right float-right pt-1"></i></li>
-						</ul>
-					</div></li>
-					<li class="list-group-item w-100"><div class="w-100">
-						<a href="#">Design Styles <i class="fa fa-caret-right float-right pt-1"></i></a>
-					</div></li>
-					<li class="list-group-item w-100"><div class="w-100">
-						<a href="#">Energy-Efficient House PLans <i class="fa fa-caret-right float-right pt-1"></i></a>
-					</div></li>
-					<li class="list-group-item w-100"><div class="w-100">
-						<a href="#">Houseplans Picks<i class="fa fa-caret-right float-right pt-1"></i></a>
-					</div></li>
-					<li class="list-group-item w-100"><div class="w-100">
-						<a href="#">Howie Awards<i class="fa fa-caret-right float-right pt-1"></i></a>
-					</div></li>
-					<li class="list-group-item w-100"><div class="w-100">
-						<a href="#">Regional Favorites<i class="fa fa-caret-right float-right pt-1"></i></a>
-					</div></li>
-					<li class="list-group-item w-100"><div class="w-100">
-						<a href="#">Rooms<i class="fa fa-caret-right float-right pt-1"></i></a>
-					</div></li>
-					<li class="list-group-item w-100"><div class="w-100">
-						<a href="#">Social Media Plan Stars<i class="fa fa-caret-right float-right pt-1"></i></a>
-					</div></li>
-					<li class="list-group-item w-100"><div class="w-100">
-						<a href="#">Top Selling House Plans<i class="fa fa-caret-right float-right pt-1"></i></a>
-					</div></li>
-					<li class="list-group-item w-100"><div class="w-100">
-						<a href="#">Signature Plans<i class="fa fa-caret-right float-right pt-1"></i></a>
-					</div></li>
-				</ul>
+				<div class="mt-3 mx-2 rounded" style="border: 1px solid #dddddd;">
 
+					<h3 class="h4 mt-4 mx-3">Narrow by Features</h3>
+					<hr>
+					<ul class="list-group mt-3 mx-2">
+						<li class="list-group-item border-0 w-100"><div class="w-100">
+							<a href="#"><i class="fa fa-caret-down float-left pt-1"></i>&nbsp; Plan Prices <span class="badge badge-default align-right">22</span></a>
+						</div></li>
+						<li class="list-group-item border-0 w-100"><div class="w-100">
+							<a href="#"><i class="fa fa-caret-down float-left pt-1"></i>&nbsp;Square Feet <i class="fa fa-caret-right float-right pt-1"></i></a>
+						</div></li>
+(in progress...)
+					</ul>
+
+				</div>
 
 
 				<!-- Showcase Ads -->
@@ -119,58 +85,172 @@ group: hw
 
 			</div>
 			<div class="col-md-4 p-0">
-				<div class="card">
-					<img class="rounded m-2" src="https://cdn.houseplans.com/product/i4rvel7f6ls1ruuo81qglk7h9d/w300x200.jpg"  alt="Builder Plans">
-					<h3 class="card-title carousel-caption"><a href="#" class="text-white"><br><strong>Builder Plans</strong></a></h3>
-				</div>
-				<div class="card">
-					<img class="rounded m-2" src="https://cdn.houseplans.com/product/hp79dma543r2f3s2ujbtrgbbid/w300x200.jpg" alt="Responsive image">
-					<div class="">
-						<h3 class="card-title carousel-caption"><a href="#" class="text-white"><strong>Energy-Efficient House Plans</strong></a></h3>
+				<div>
+					<img class="m-2" src="https://cdn.houseplans.com/product/i4rvel7f6ls1ruuo81qglk7h9d/w300x200.jpg" alt="Plan 48-646">
+					<div class="row mb-2">
+						<div class="col-sm-12 stronger pl-4">
+							<b>Plan 48-646, from $900.00</b>
+						</div>
+					</div>
+					<div class="row text-center">
+						<div class="col-sm-4 pl-3">
+							<b>1777</b> sq ft
+						</div>
+						<div class="col-sm-4">
+							<b>3</b> bed
+						</div>
+						<div class="col-sm-4 pr-3">
+							<b>2.5</b> bath
+						</div>
+					</div>
+					<div class="row text-center mb-2">
+						<div class="col-sm-4 pl-3">
+							<b>2</b> story
+						</div>
+						<div class="col-sm-4">
+							<b>30'</b> wide
+						</div>
+						<div class="col-sm-4 pr-3">
+							<b>51'</b> deep
+						</div>
 					</div>
 				</div>
-				<div class="card">
-					<img class="rounded m-2" src="https://cdn.houseplans.com/product/cvoei8vlao4al9stivqdumqqcc/w300x200.jpg" alt="Responsive image">
-					<div class="">
-						<h3 class="card-title carousel-caption"><a href="#" class="text-white"><strong>Howie Awards</strong></a></h3>
+				<div>
+					<img class="m-2" src="https://cdn.houseplans.com/product/hp79dma543r2f3s2ujbtrgbbid/w300x200.jpg" alt="Responsive image">
+					<div class="row mb-2">
+						<div class="col-sm-12 stronger pl-4">
+							<b>Plan#: HWEPL73227</b>
+						</div>
+					</div>
+					<div class="row text-center mb-2">
+						<div class="col-sm-2 p-0">
+							Bed<br><b>3</b>
+						</div>
+						<div class="col-sm-2 p-0">
+							Bath<br><b>3</b>
+						</div>
+						<div class="col-sm-2 p-0">
+							Story<br><b>1</b>
+						</div>
+						<div class="col-sm-2 p-0">
+							Gar<br><b>3</b>
+						</div>
+						<div class="col-sm-2 p-0">
+							Width<br><b>88'</b>
+						</div>
+						<div class="col-sm-2 p-0">
+							Depth<br><b>84'</b>
+						</div>
+					</div>
+					<div class="row mb-2">
+						<div class="col-sm-12 stronger pl-4">
+							<div>
+								<b>Area:</b>  2,847 sq. ft <b>Style:</b> Craftsman
+							</div>
+							<div>
+								<b>Price:</b>  $945 - #2,995
+							</div>
+						</div>
 					</div>
 				</div>
-				<div class="card">
-					<img class="rounded m-2" src="https://cdn.houseplans.com/product/mm5ve1l5um74alqhuqmj4g7u95/w300x200.jpg" alt="Responsive image">
+				<div>
+					<img class="m-2" src="https://cdn.houseplans.com/product/cvoei8vlao4al9stivqdumqqcc/w300x200.jpg" alt="Responsive image">
 					<div class="">
-						<h3 class="card-title carousel-caption"><a href="#" class="text-white"><strong>Rooms</strong></a></h3>
+
 					</div>
 				</div>
-				<div class="card">
-					<img class="rounded m-2" src="https://cdn.houseplans.com/product/jqte8j995ni36mclbac1fca4oc/w300x200.jpg" alt="Responsive image">
+				<div>
+					<img class="m-2" src="https://cdn.houseplans.com/product/mm5ve1l5um74alqhuqmj4g7u95/w300x200.jpg" alt="Responsive image">
 					<div class="">
-						<h3 class="card-title carousel-caption"><a href="#" class="text-white"><strong>Top Selling House Plans</strong></a></h3>
+
+					</div>
+				</div>
+				<div>
+					<img class="m-2" src="https://cdn.houseplans.com/product/jqte8j995ni36mclbac1fca4oc/w300x200.jpg" alt="Responsive image">
+					<div class="">
+
 					</div>
 				</div>
 			</div>
 			<div class="col-md-4 p-0">
 				<div class="card">
-					<img class="rounded m-2" src="https://cdn.houseplans.com/product/4151i0m2pbno9cnd08kba68317/w300x200.jpg">
-					<div class="">
-						<h3 class="card-title carousel-caption"><a href="#" class="text-white"><strong>Design Styles</strong></a></h3>
+					<img class="m-2" src="https://cdn.houseplans.com/product/4151i0m2pbno9cnd08kba68317/w300x200.jpg">
+					<div class="row mb-2">
+						<div class="col-sm-12 stronger pl-4">
+							<b>Plan 454-13, from $5000.00</b>
+						</div>
+					</div>
+					<div class="row text-center">
+						<div class="col-sm-4 pl-3">
+							<b>1600</b> sq ft
+						</div>
+						<div class="col-sm-4">
+							<b>2</b> bed
+						</div>
+						<div class="col-sm-4 pr-3">
+							<b>2</b> bath
+						</div>
+					</div>
+					<div class="row text-center mb-2">
+						<div class="col-sm-4 pl-3">
+							<b>2</b> story
+						</div>
+						<div class="col-sm-4">
+							<b>26'</b> wide
+						</div>
+						<div class="col-sm-4 pr-3">
+							<b>47'</b> deep
+						</div>
 					</div>
 				</div>
 				<div class="card">
-					<img class="rounded m-2" src="https://cdn.houseplans.com/product/2j8j9ttcid12b700e3ua7fdmt8/w300x200.jpg">
-					<div class="">
-						<h3 class="card-title carousel-caption"><a href="#" class="text-white"><strong>Houseplans Picks</strong></a></h3>
+					<img class="m-2" src="https://cdn.houseplans.com/product/2j8j9ttcid12b700e3ua7fdmt8/w300x200.jpg">
+					<div class="row mb-2">
+						<div class="col-sm-12 stronger pl-4">
+							<b>Plan#: HWEPL68495</b>
+						</div>
+					</div>
+					<div class="row text-center mb-2">
+						<div class="col-sm-2 p-0">
+							Bed<br><b>3</b>
+						</div>
+						<div class="col-sm-2 p-0">
+							Bath<br><b>3</b>
+						</div>
+						<div class="col-sm-2 p-0">
+							Story<br><b>1</b>
+						</div>
+						<div class="col-sm-2 p-0">
+							Gar<br><b>3</b>
+						</div>
+						<div class="col-sm-2 p-0">
+							Width<br><b>71'</b>
+						</div>
+						<div class="col-sm-2 p-0">
+							Depth<br><b>64'</b>
+						</div>
+					</div>
+					<div class="row mb-2">
+						<div class="col-sm-12 stronger pl-4">
+							<div>
+								<b>Area:</b>  2,847 sq. ft <b>Style:</b> Craftsman
+							</div>
+							<div>
+								<b>Price:</b>  $945 - #2,995
+							</div>
+						</div>
 					</div>
 				</div>
 				<div class="card">
-					<img class="rounded m-2" src="https://cdn.houseplans.com/product/jqte8j995ni36mclbac1fca4oc/w300x200.jpg">
+					<img class="m-2" src="https://cdn.houseplans.com/product/jqte8j995ni36mclbac1fca4oc/w300x200.jpg">
 					<div class="">
-						<h3 class="card-title carousel-caption"><a href="#" class="text-white"><strong>Region Favorites</strong></a></h3>
+
 					</div>
 				</div>
 				<div class="card">
-					<img class="rounded m-2" src="https://cdn.houseplans.com/product/hl2cdpo6ql9dp3np73mhm8o1gc/w300x200.jpg">
+					<img class="m-2" src="https://cdn.houseplans.com/product/hl2cdpo6ql9dp3np73mhm8o1gc/w300x200.jpg">
 					<div class="">
-						<h3 class="card-title carousel-caption"><a href="#" class="text-white"><strong>Social Media Plan Stars</strong></a></h3>
+
 					</div>
 				</div>
 			</div>

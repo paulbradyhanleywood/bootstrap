@@ -38,20 +38,44 @@ group: hw
 	</header>
 
 
+	<!-- For sub-collections only -->
+	<nav class="breadcrumb mt-2 mx-2">
+		<a class="breadcrumb-item" href="/hw/collections/">Collections</a>
+		<span class="breadcrumb-item active">Builder Plans</span>
+	</nav>
+
+
 	<!-- Featured Styles & Designs -->
 	<section>
 		<div class="row no-gutters">
 			<div class="col-md-4">
 				<div class="h-auto bg-faded mt-2 mx-2 p-3" style="border: 1px solid #ddd;">
-					<h2 class="h4">Collection</h2>
-					<p>Select a link below to browse our hand-selected plans from the nearly 50,000 plans in our database or click "Search" at the top to search all of our plans by size, type or feature.</p>
+					<h2 class="h4">Builder Plans</h2>
+					<p>House Plans selected for builders, including designs for infill lots and houses for larger developments.  Builder plans are chosen for their mixture of affordability and desireability by home buyers.</p>
 				</div>
 
 
 				<!-- Collections List -->
 				<ul class="list-group mt-3 mx-2">
 					<li class="list-group-item w-100"><div class="w-100">
-						<a href="/hw/builder-plans/">Builder Plans <i class="fa fa-caret-right float-right pt-1"></i></a>
+						<a href="/hw/builder-plans/">Builder Plans <i class="fa fa-caret-down float-right pt-1"></i></a>
+						<ul class="list-group">
+							<li class="list-group-item d-block pr-0 pl-3 py-1 border-0 w-100"><a href="/hw/builder-bungalows/">Builder Bungalows</a></li>
+							<li class="list-group-item d-block pr-0 pl-3 py-1 border-0 w-100"><a href="#">Duplex Plans</a></li>
+							<li class="list-group-item d-block pr-0 pl-3 py-1 border-0 w-100"><a href="#">House Plans for Builders</a></li>
+							<li class="list-group-item d-block pr-0 pl-3 py-1 border-0 w-100"><a href="#">House Plans with Multiple Elevations</a></li>
+							<li class="list-group-item d-block pr-0 pl-3 py-1 border-0 w-100"><a href="#">I Shaped House Plans</a></li>
+							<li class="list-group-item d-block pr-0 pl-3 py-1 border-0 w-100"><a href="#">L Shaped House Plans</a></li>
+							<li class="list-group-item d-block pr-0 pl-3 py-1 border-0 w-100"><a href="#">Low Cost House Plans</a></li>
+							<li class="list-group-item d-block pr-0 pl-3 py-1 border-0 w-100"><a href="#">Multi-family Plans</a></li>
+							<li class="list-group-item d-block pr-0 pl-3 py-1 border-0 w-100"><a href="#">Narrow Lot Plans</a></li>
+							<li class="list-group-item d-block pr-0 pl-3 py-1 border-0 w-100"><a href="#">Row House Plans</a></li>
+							<li class="list-group-item d-block pr-0 pl-3 py-1 border-0 w-100"><a href="#">SIPs House Plans</a></li>
+							<li class="list-group-item d-block pr-0 pl-3 py-1 border-0 w-100"><a href="#">Sloping Lot Plans</a></li>
+							<li class="list-group-item d-block pr-0 pl-3 py-1 border-0 w-100"><a href="#">T-Shaped House Plans</a></li>
+							<li class="list-group-item d-block pr-0 pl-3 py-1 border-0 w-100"><a href="#">U-Shaped House Plans</a></li>
+							<li class="list-group-item d-block pr-0 pl-3 py-1 border-0 w-100"><a href="#">Signature Plans</a><i class="fa fa-caret-right float-right pt-1"></i></li>
+						</ul>
 					</div></li>
 					<li class="list-group-item w-100"><div class="w-100">
 						<a href="#">Design Styles <i class="fa fa-caret-right float-right pt-1"></i></a>
