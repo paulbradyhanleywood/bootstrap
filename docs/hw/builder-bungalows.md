@@ -71,6 +71,8 @@ group: hw
 (in progress...)
 					</ul>
 
+
+
 				</div>
 
 
@@ -259,11 +261,27 @@ group: hw
 			<div class="col-md-4 mt-2 p-0">
 				<div class="ml-2">
 
+					<ul class="nav">
+						<li class="nav-item">
+							<a class="nav-link active" href="#" class="btn btn-info">&laquo;&nbsp;Prev</a>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link" href="#">Page</a>
+						</li>
+						<li class="nav-item">
+							<input class="form-control" type="number" value="42" id="example-number-input">
+						</li>
+						<li>
+							<label for="exampleInputEmail1"> of 9 </label>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link active" href="#" class="btn btn-info">Next&nbsp;&raquo;</a>
+						</li>
+					</ul>
 
 				</div>
-
 				<div class="card">
-					<img class="m-2" src="https://cdn.houseplans.com/product/4151i0m2pbno9cnd08kba68317/w300x200.jpg">
+					<img class="m-0" src="https://cdn.houseplans.com/product/4151i0m2pbno9cnd08kba68317/w300x200.jpg">
 					<div class="row mb-2">
 						<div class="col-sm-12 stronger pl-4">
 							<b>Plan 48-646, from $900.00</b>
