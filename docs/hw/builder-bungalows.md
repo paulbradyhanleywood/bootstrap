@@ -84,8 +84,28 @@ group: hw
 				</div>
 
 			</div>
-			<div class="col-md-4 p-0">
-				<div>
+			<div class="col-md-4 mt-2 p-0">
+
+				<div class="ml-2">Sort By&nbsp;&nbsp; 
+					<span class="dropdown">
+						<button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+							Most popular
+						</button>
+						<div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+							<a class="dropdown-item" href="#">Newest plans first</a>
+							<a class="dropdown-item" href="#">Beds, most first</a>
+							<a class="dropdown-item" href="#">Beds, least first</a>
+							<a class="dropdown-item" href="#">Baths, most first</a>
+							<a class="dropdown-item" href="#">Baths, least first</a>
+							<a class="dropdown-item" href="#">Sq. ft., most first</a>
+							<a class="dropdown-item" href="#">Sq. ft., least first</a>
+							<a class="dropdown-item" href="#">Price</a>
+							<a class="dropdown-item" href="#">Signature</a>
+						</div>
+					</span>
+				</div>
+
+				<div class="card">
 					<img class="m-2" src="https://cdn.houseplans.com/product/i4rvel7f6ls1ruuo81qglk7h9d/w300x200.jpg" alt="Plan 48-646">
 					<div class="row mb-2">
 						<div class="col-sm-12 stronger pl-4">
@@ -115,69 +135,168 @@ group: hw
 						</div>
 					</div>
 				</div>
-				<div>
+				<div class="card">
 					<img class="m-2" src="https://cdn.houseplans.com/product/hp79dma543r2f3s2ujbtrgbbid/w300x200.jpg" alt="Responsive image">
 					<div class="row mb-2">
 						<div class="col-sm-12 stronger pl-4">
-							<b>Plan#: HWEPL73227</b>
+							<b>Plan#: HWEPL73227, from $900.00</b>
+						</div>
+					</div>
+					<div class="row text-center">
+						<div class="col-sm-4 pl-3">
+							<b>1777</b> sq ft
+						</div>
+						<div class="col-sm-4">
+							<b>3</b> bed
+						</div>
+						<div class="col-sm-4 pr-3">
+							<b>2.5</b> bath
 						</div>
 					</div>
 					<div class="row text-center mb-2">
-						<div class="col-sm-2 p-0">
-							Bed<br><b>3</b>
+						<div class="col-sm-4 pl-3">
+							<b>2</b> story
 						</div>
-						<div class="col-sm-2 p-0">
-							Bath<br><b>3</b>
+						<div class="col-sm-4">
+							<b>30'</b> wide
 						</div>
-						<div class="col-sm-2 p-0">
-							Story<br><b>1</b>
-						</div>
-						<div class="col-sm-2 p-0">
-							Gar<br><b>3</b>
-						</div>
-						<div class="col-sm-2 p-0">
-							Width<br><b>88'</b>
-						</div>
-						<div class="col-sm-2 p-0">
-							Depth<br><b>84'</b>
-						</div>
-					</div>
-					<div class="row mb-2">
-						<div class="col-sm-12 stronger pl-4">
-							<div>
-								<b>Area:</b>  2,847 sq. ft <b>Style:</b> Craftsman
-							</div>
-							<div>
-								<b>Price:</b>  $945 - #2,995
-							</div>
+						<div class="col-sm-4 pr-3">
+							<b>51'</b> deep
 						</div>
 					</div>
 				</div>
 				<div>
 					<img class="m-2" src="https://cdn.houseplans.com/product/cvoei8vlao4al9stivqdumqqcc/w300x200.jpg" alt="Responsive image">
-					<div class="">
-
+					<div class="row mb-2">
+						<div class="col-sm-12 stronger pl-4">
+							<b>Plan 48-646, from $900.00</b>
+						</div>
+					</div>
+					<div class="row text-center">
+						<div class="col-sm-4 pl-3">
+							<b>1777</b> sq ft
+						</div>
+						<div class="col-sm-4">
+							<b>3</b> bed
+						</div>
+						<div class="col-sm-4 pr-3">
+							<b>2.5</b> bath
+						</div>
+					</div>
+					<div class="row text-center mb-2">
+						<div class="col-sm-4 pl-3">
+							<b>2</b> story
+						</div>
+						<div class="col-sm-4">
+							<b>30'</b> wide
+						</div>
+						<div class="col-sm-4 pr-3">
+							<b>51'</b> deep
+						</div>
 					</div>
 				</div>
 				<div>
 					<img class="m-2" src="https://cdn.houseplans.com/product/mm5ve1l5um74alqhuqmj4g7u95/w300x200.jpg" alt="Responsive image">
-					<div class="">
-
+					<div class="row mb-2">
+						<div class="col-sm-12 stronger pl-4">
+							<b>Plan 48-646, from $900.00</b>
+						</div>
+					</div>
+					<div class="row text-center">
+						<div class="col-sm-4 pl-3">
+							<b>1777</b> sq ft
+						</div>
+						<div class="col-sm-4">
+							<b>3</b> bed
+						</div>
+						<div class="col-sm-4 pr-3">
+							<b>2.5</b> bath
+						</div>
+					</div>
+					<div class="row text-center mb-2">
+						<div class="col-sm-4 pl-3">
+							<b>2</b> story
+						</div>
+						<div class="col-sm-4">
+							<b>30'</b> wide
+						</div>
+						<div class="col-sm-4 pr-3">
+							<b>51'</b> deep
+						</div>
 					</div>
 				</div>
 				<div>
 					<img class="m-2" src="https://cdn.houseplans.com/product/jqte8j995ni36mclbac1fca4oc/w300x200.jpg" alt="Responsive image">
-					<div class="">
-
+					<div class="row mb-2">
+						<div class="col-sm-12 stronger pl-4">
+							<b>Plan 48-646, from $900.00</b>
+						</div>
+					</div>
+					<div class="row text-center">
+						<div class="col-sm-4 pl-3">
+							<b>1777</b> sq ft
+						</div>
+						<div class="col-sm-4">
+							<b>3</b> bed
+						</div>
+						<div class="col-sm-4 pr-3">
+							<b>2.5</b> bath
+						</div>
+					</div>
+					<div class="row text-center mb-2">
+						<div class="col-sm-4 pl-3">
+							<b>2</b> story
+						</div>
+						<div class="col-sm-4">
+							<b>30'</b> wide
+						</div>
+						<div class="col-sm-4 pr-3">
+							<b>51'</b> deep
+						</div>
 					</div>
 				</div>
 			</div>
-			<div class="col-md-4 p-0">
+			<div class="col-md-4 mt-2 p-0">
+				<div class="ml-2">
+
+
+				</div>
+
 				<div class="card">
 					<img class="m-2" src="https://cdn.houseplans.com/product/4151i0m2pbno9cnd08kba68317/w300x200.jpg">
 					<div class="row mb-2">
 						<div class="col-sm-12 stronger pl-4">
-							<b>Plan 454-13, from $5000.00</b>
+							<b>Plan 48-646, from $900.00</b>
+						</div>
+					</div>
+					<div class="row text-center">
+						<div class="col-sm-4 pl-3">
+							<b>1777</b> sq ft
+						</div>
+						<div class="col-sm-4">
+							<b>3</b> bed
+						</div>
+						<div class="col-sm-4 pr-3">
+							<b>2.5</b> bath
+						</div>
+					</div>
+					<div class="row text-center mb-2">
+						<div class="col-sm-4 pl-3">
+							<b>2</b> story
+						</div>
+						<div class="col-sm-4">
+							<b>30'</b> wide
+						</div>
+						<div class="col-sm-4 pr-3">
+							<b>51'</b> deep
+						</div>
+					</div>
+				</div>
+				<div class="card">
+					<img class="m-2" src="https://cdn.houseplans.com/product/2j8j9ttcid12b700e3ua7fdmt8/w300x200.jpg">
+					<div class="row mb-2">
+						<div class="col-sm-12 stronger pl-4">
+							<b>Plan#: HWEPL68495, from $5000.00</b>
 						</div>
 					</div>
 					<div class="row text-center">
@@ -204,53 +323,63 @@ group: hw
 					</div>
 				</div>
 				<div class="card">
-					<img class="m-2" src="https://cdn.houseplans.com/product/2j8j9ttcid12b700e3ua7fdmt8/w300x200.jpg">
+					<img class="m-2" src="https://cdn.houseplans.com/product/jqte8j995ni36mclbac1fca4oc/w300x200.jpg">
 					<div class="row mb-2">
 						<div class="col-sm-12 stronger pl-4">
-							<b>Plan#: HWEPL68495</b>
+							<b>Plan 48-646, from $900.00</b>
+						</div>
+					</div>
+					<div class="row text-center">
+						<div class="col-sm-4 pl-3">
+							<b>1777</b> sq ft
+						</div>
+						<div class="col-sm-4">
+							<b>3</b> bed
+						</div>
+						<div class="col-sm-4 pr-3">
+							<b>2.5</b> bath
 						</div>
 					</div>
 					<div class="row text-center mb-2">
-						<div class="col-sm-2 p-0">
-							Bed<br><b>3</b>
+						<div class="col-sm-4 pl-3">
+							<b>2</b> story
 						</div>
-						<div class="col-sm-2 p-0">
-							Bath<br><b>3</b>
+						<div class="col-sm-4">
+							<b>30'</b> wide
 						</div>
-						<div class="col-sm-2 p-0">
-							Story<br><b>1</b>
+						<div class="col-sm-4 pr-3">
+							<b>51'</b> deep
 						</div>
-						<div class="col-sm-2 p-0">
-							Gar<br><b>3</b>
-						</div>
-						<div class="col-sm-2 p-0">
-							Width<br><b>71'</b>
-						</div>
-						<div class="col-sm-2 p-0">
-							Depth<br><b>64'</b>
-						</div>
-					</div>
-					<div class="row mb-2">
-						<div class="col-sm-12 stronger pl-4">
-							<div>
-								<b>Area:</b>  2,847 sq. ft <b>Style:</b> Craftsman
-							</div>
-							<div>
-								<b>Price:</b>  $945 - #2,995
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="card">
-					<img class="m-2" src="https://cdn.houseplans.com/product/jqte8j995ni36mclbac1fca4oc/w300x200.jpg">
-					<div class="">
-
 					</div>
 				</div>
 				<div class="card">
 					<img class="m-2" src="https://cdn.houseplans.com/product/hl2cdpo6ql9dp3np73mhm8o1gc/w300x200.jpg">
-					<div class="">
-
+					<div class="row mb-2">
+						<div class="col-sm-12 stronger pl-4">
+							<b>Plan 48-646, from $900.00</b>
+						</div>
+					</div>
+					<div class="row text-center">
+						<div class="col-sm-4 pl-3">
+							<b>1777</b> sq ft
+						</div>
+						<div class="col-sm-4">
+							<b>3</b> bed
+						</div>
+						<div class="col-sm-4 pr-3">
+							<b>2.5</b> bath
+						</div>
+					</div>
+					<div class="row text-center mb-2">
+						<div class="col-sm-4 pl-3">
+							<b>2</b> story
+						</div>
+						<div class="col-sm-4">
+							<b>30'</b> wide
+						</div>
+						<div class="col-sm-4 pr-3">
+							<b>51'</b> deep
+						</div>
 					</div>
 				</div>
 			</div>
