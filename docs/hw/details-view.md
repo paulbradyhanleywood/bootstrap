@@ -95,6 +95,7 @@ group: hw
 					</div>
 				</div>
 
+
 				<h3>Key Spec</h3>
 				<div class="d-flex bg-faded rounded" style="border: 1px solid #eeeeee">
 					<a href="#" class="btn btn-primary align-middle text-uppercase">Modify This Plan</a>
@@ -102,12 +103,14 @@ group: hw
 					<p>Tell us about your desired changes so we can prepare an estimate for the design service. Click the button to submit your request for pricing, or <a class="strong" href="tel:18009132350">call 1-800-913-2350</a></p>
 				</div>
 
+
 				<h3>Floor Plans</h3>
 				<hr>
 				<p>Floor Plan - Main Floor Plan</p>
 				<!-- img -->
 				<p>Floor Plan - Upper Floor Plan</p>
 				<!-- img -->
+
 
 				<h3 class="text-uppercase">Full Specs &amp; Features</h3>
 				<hr>

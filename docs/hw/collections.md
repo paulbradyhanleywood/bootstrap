@@ -233,7 +233,7 @@ group: hw
 			</div>
 
 		</div>
-		<div class="d-flex flex-column flex-md-row justify-content-start justify-content-md-around p-2 bg-success text-white">
+		<div class="d-flex flex-column flex-md-row justify-content-start justify-content-md-around p-2 bg-danger text-white">
 			<div class="d-flex flex-column flex-md-row justify-content-start align-items-left pl-5 pt-3">
 
 				<div class="p-1 pt-2"><a class="text-white" href="#">PLANS</a></div>
