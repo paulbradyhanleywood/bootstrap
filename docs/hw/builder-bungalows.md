@@ -107,8 +107,8 @@ group: hw
 					</span>
 				</div>
 
-				<div class="card">
-					<img class="m-2" src="https://cdn.houseplans.com/product/i4rvel7f6ls1ruuo81qglk7h9d/w300x200.jpg" alt="Plan 48-646">
+				<a href="/hw/details-view/"><div class="card">
+					<img class="m-2" src="https://cdn.houseplans.com/product/i4rvel7f6ls1ruuo81qglk7h9d/w300x200.jpg" class="img-fluid" alt="Plan 48-646" title="Plan 48-646">
 					<div class="row mb-2">
 						<div class="col-sm-12 stronger pl-4">
 							<b>Plan 48-646, from $900.00</b>
@@ -136,9 +136,9 @@ group: hw
 							<b>51'</b> deep
 						</div>
 					</div>
-				</div>
-				<div class="card">
-					<img class="m-2" src="https://cdn.houseplans.com/product/hp79dma543r2f3s2ujbtrgbbid/w300x200.jpg" alt="Responsive image">
+				</div></a>
+				<a href="/hw/details-view/"><div class="card">
+					<a href="/hw/details-view/"><img class="m-2" src="https://cdn.houseplans.com/product/hp79dma543r2f3s2ujbtrgbbid/w300x200.jpg" alt="Responsive image"></a>
 					<div class="row mb-2">
 						<div class="col-sm-12 stronger pl-4">
 							<b>Plan#: HWEPL73227, from $900.00</b>
@@ -166,7 +166,7 @@ group: hw
 							<b>51'</b> deep
 						</div>
 					</div>
-				</div>
+				</div></a>
 				<div>
 					<img class="m-2" src="https://cdn.houseplans.com/product/cvoei8vlao4al9stivqdumqqcc/w300x200.jpg" alt="Responsive image">
 					<div class="row mb-2">
@@ -280,7 +280,7 @@ group: hw
 					</ul>
 
 				</div>
-				<div class="card">
+				<a href="/hw/details-view/"><div class="card">
 					<img class="m-0" src="https://cdn.houseplans.com/product/4151i0m2pbno9cnd08kba68317/w300x200.jpg">
 					<div class="row mb-2">
 						<div class="col-sm-12 stronger pl-4">
@@ -309,8 +309,8 @@ group: hw
 							<b>51'</b> deep
 						</div>
 					</div>
-				</div>
-				<div class="card">
+				</div></a>
+				<a href="/hw/details-view/"><div class="card">
 					<img class="m-2" src="https://cdn.houseplans.com/product/2j8j9ttcid12b700e3ua7fdmt8/w300x200.jpg">
 					<div class="row mb-2">
 						<div class="col-sm-12 stronger pl-4">
@@ -339,7 +339,7 @@ group: hw
 							<b>47'</b> deep
 						</div>
 					</div>
-				</div>
+				</div></a>
 				<div class="card">
 					<img class="m-2" src="https://cdn.houseplans.com/product/jqte8j995ni36mclbac1fca4oc/w300x200.jpg">
 					<div class="row mb-2">
