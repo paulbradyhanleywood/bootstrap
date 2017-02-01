@@ -45,7 +45,7 @@ group: hw
 			<button class="navbar-toggler navbar-toggler-right mt-2 px-2" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 				<span class="navbar-toggler-icon"></span>
 			</button>
-			<a class="navbar-brand" href="/hw/"><img class="ml-2" src="http://placehold.it/220x50/c7b0c6/011a47?text=FLOORPLANS" alt="floorplans"></a>
+			<a class="navbar-brand" href="/hw/"><img class="ml-2" src="http://placehold.it/220x50/c7b0c6/011a47?text=FLOORPLANS" alt="floorplans" title="floorplans"></a>
 			<div class="collapse navbar-collapse" id="navbarSupportedContent">
 				<ul class="navbar-nav mr-auto">
 					<li class="nav-item text-uppercase"><a class="text-info nav-link" href="#">Search</a></li>
@@ -73,7 +73,7 @@ group: hw
 		<div class="row no-gutters">
 			<div class="col-md-12 mr-0 p-0">
 				<img src="https://cdn.houseplans.com/product/e26euh4umjgjveem2pfm2k5533/w1024.jpg" style="width: 100%;" alt="Builder Plans">
-				<h3 class="card-title card-img-overlay dropdown-menu-left"><a href="#" class="h6 px-3 py-2 bg-info text-white"><strong>Plan #46-646</strong></a></h3>
+				<h2 class="h3 card-title card-img-overlay dropdown-menu-left"><a href="#" class="h6 px-3 py-2 bg-info text-white"><strong>Plan #46-646</strong></a></h2>
 			</div>
 		</div>
 		<div class="row no-gutters">
@@ -81,10 +81,10 @@ group: hw
 
 				<div class="d-flex justify-content-between align-items-center">
 					<div>
-						<h3>Plan #48-464</h3>
+						<h2 class="mb-2">Plan #48-464</h2>
 					</div>
 					<div>
-						<ul class="list-unstyled flex-nowrap list-inline">
+						<ul class="list-unstyled flex-nowrap list-inline mb-0">
 							<li class="list-inline-item align-right"><a href="#"><img class="rounded-circle" src="http://placehold.it/35x35/ff0000/ffffff" alt="" title=""></a></li>
 							<li class="list-inline-item align-right"><a href="#"><img class="rounded-circle" src="http://placehold.it/35x35/ffff00/ffffff" alt="" title=""></a></li>
 							<li class="list-inline-item align-right"><a href="#"><img class="rounded-circle" src="http://placehold.it/35x35/ff00ff/ffffff" alt="" title=""></a></li>
@@ -96,7 +96,8 @@ group: hw
 				</div>
 
 
-				<h3>Key Spec</h3>
+				<h3 class="mt-4 mb-2 text-uppercase">Key Specs</h3>
+				<hr class="mt-0">
 				<div class="d-flex bg-faded rounded" style="border: 1px solid #eeeeee">
 					<a href="#" class="btn btn-primary align-middle text-uppercase">Modify This Plan</a>
 					<h4 class="h6 strong">This plan can be customized!</h4>
@@ -104,21 +105,55 @@ group: hw
 				</div>
 
 
-				<h3>Floor Plans</h3>
-				<hr>
-				<p>Floor Plan - Main Floor Plan</p>
-				<!-- img -->
-				<p>Floor Plan - Upper Floor Plan</p>
-				<!-- img -->
+				<h3 class="mt-4 mb-2 text-uppercase">Floor Plans</h3>
+				<hr class="mt-0">
+				<h4 class="h5 mt-3">Floor Plan - Main Floor Plan</h4>
+				<img src="https://cdn.houseplans.com/product/rtjlrgtmjg17ufatn3nnlg25ct/w600.jpg" class="img-fluid" alt="" title="Main Floor Plan">
+				<h4 class="h5 mt-3">Floor Plan - Upper Floor Plan</h4>
+				<img src="https://cdn.houseplans.com/product/uvg4n4508noca8tqrrf16qmeke/w600.jpg" class="img-fluid" alt="" title="Upper Floor Plan">
 
 
-				<h3 class="text-uppercase">Full Specs &amp; Features</h3>
+				<h3 class="mt-4 mb-2 text-uppercase">Full Specs &amp; Features</h3>
+				<table class="table">
+					<tbody>
+						<tr>
+							<th scope="row">Basic Features</th>
+							<td>Baths : 2.5<br>Bedrooms : 3</td>
+							<td>Stories : 2<br>Garage Stalls : 0</td>
+						</tr>
+						<tr>
+							<th scope="row">Dimensions</th>
+							<td>Depth : 51'<br>Width : 30'</td>
+							<td>Height : 26' 1"</td>
+						</tr>
+						<tr>
+							<th scope="row">Area</th>
+							<td colspan="2">
+
+								<div class="d-flex justify-content-start">
+									<div class="w-50 pb-3">
+										Upper Floor Sq Ft : 627 sq ft<br>
+										Total Sq Ft : 1777 sq ft<sup>*</sup>
+									</div>
+									<div class="w-50">
+										Main Floor Sq Ft : 1150 sq ft
+									</div>
+								</div>
+								<sup>*</sup> - Total Square Footage only includes conditioned space and does not include garages, porches, bonus rooms, or decks.
+							</td>
+						</tr><tr>
+							<th scope="row">Ceiling</th>
+							<td>Upper Ceiling Ft : 8'</td>
+							<td>Main Ceiling Ft : 9'</td>
+						</tr>
+					</tbody>
+				</table>
 				<hr>
 
-				<h3 class="text-uppercase">What's Included In This Plan Set</h3>
-				<hr>
+
+				<h3 class="mt-4 mb-2 text-uppercase">What's Included In This Plan Set</h3>
+				<hr class="mt-0">
 				<a class="text-warning" href="#">See a sample plan set</a>
-
 				<ul>
 					<li>Lorem ipsum 1<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -160,10 +195,9 @@ group: hw
 				<a class="text-warning" href="#">* - See important information before purchasing.</a>
 
 
-				<h3 class="h5 text-uppercase">Pricing</h3>
-				<hr>
-
-				<h4 class="h6 strong">Plan Options</h4>
+				<h3 class="mt-4 mb-2 text-uppercase">Pricing</h3>
+				<hr class="mt-0">
+				<h4 class="h5 strong">Plan Options</h4>
 				<table class="table table-bordered">
 					<tr class="table-primary">
 						<td>PDF&nbsp;Set <i>BEST&nbsp;VALUE!</i></td>
@@ -179,12 +213,14 @@ group: hw
 						<td>For use by design professionals to make substantial changes to your house plan and inexpensive local printing.</td>
 					</tr>
 				</table>
-				<h4 class="h6 strong">Foundation Options</h4>
+				<h4 class="h5 strong">Foundation Options</h4>
 
-				<h4 class="h6 strong">Additional Options</h4>
+				<h4 class="h5 strong">Additional Options</h4>
+
 
 
 				<div class="alert alert-warning" role="alert">Unless you buy an "unlimited" plan set or a multi-use license you may only build one home plan from a set of plans.  Plans cannot be re-sold.</div>
+
 
 			</div>
 			<div class="col-md-4 mr-0 pt-2 pr-2">
