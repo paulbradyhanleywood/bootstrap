@@ -73,7 +73,7 @@ group: hw
 		<div class="row no-gutters">
 			<div class="col-md-12 mr-0 p-0">
 				<img src="https://cdn.houseplans.com/product/e26euh4umjgjveem2pfm2k5533/w1024.jpg" style="width: 100%;" alt="Builder Plans">
-				<h3 class="card-title card-img-overlay dropdown-menu-left"><a href="#" class="px-3 py-2 bg-info text-white"><strong>Plan #46-646</strong></a></h3>
+				<h3 class="card-title card-img-overlay dropdown-menu-left"><a href="#" class="h6 px-3 py-2 bg-info text-white"><strong>Plan #46-646</strong></a></h3>
 			</div>
 		</div>
 		<div class="row no-gutters">
