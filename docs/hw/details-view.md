@@ -77,7 +77,111 @@ group: hw
 			</div>
 		</div>
 		<div class="row no-gutters">
-			<div class="col-md-8 mr-0 p-0">
+			<div class="col-md-8 mr-0 my-3">
+
+				<div class="d-flex justify-content-between align-items-center">
+					<div>
+						<h3>Plan #48-464</h3>
+					</div>
+					<div>
+						<ul class="list-unstyled flex-nowrap list-inline">
+							<li class="list-inline-item align-right"><a href="#"><img class="rounded-circle" src="http://placehold.it/35x35/ff0000/ffffff" alt="" title=""></a></li>
+							<li class="list-inline-item align-right"><a href="#"><img class="rounded-circle" src="http://placehold.it/35x35/ffff00/ffffff" alt="" title=""></a></li>
+							<li class="list-inline-item align-right"><a href="#"><img class="rounded-circle" src="http://placehold.it/35x35/ff00ff/ffffff" alt="" title=""></a></li>
+							<li class="list-inline-item align-right"><a href="#"><img class="rounded-circle" src="http://placehold.it/35x35/00ffff/ffffff" alt="" title=""></a></li>
+							<li class="list-inline-item align-right"><a href="#"><img class="rounded-circle" src="http://placehold.it/35x35/990099/ffffff" alt="" title=""></a></li>
+							<li class="list-inline-item align-right"><a href="#"><img class="rounded-circle" src="http://placehold.it/35x35/9999ff/ffffff" alt="" title=""></a></li>
+						</ul>
+					</div>
+				</div>
+
+				<h3>Key Spec</h3>
+				<div class="d-flex bg-faded rounded" style="border: 1px solid #eeeeee">
+					<a href="#" class="btn btn-primary align-middle text-uppercase">Modify This Plan</a>
+					<h4 class="h6 strong">This plan can be customized!</h4>
+					<p>Tell us about your desired changes so we can prepare an estimate for the design service. Click the button to submit your request for pricing, or <a class="strong" href="tel:18009132350">call 1-800-913-2350</a></p>
+				</div>
+
+				<h3>Floor Plans</h3>
+				<hr>
+				<p>Floor Plan - Main Floor Plan</p>
+				<!-- img -->
+				<p>Floor Plan - Upper Floor Plan</p>
+				<!-- img -->
+
+				<h3 class="text-uppercase">Full Specs &amp; Features</h3>
+				<hr>
+
+				<h3 class="text-uppercase">What's Included In This Plan Set</h3>
+				<hr>
+				<a class="text-warning" href="#">See a sample plan set</a>
+
+				<ul>
+					<li>Lorem ipsum 1<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+					consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+					cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+					proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></li>
+					<li>Lorem ipsum 2<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+					consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+					cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+					proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></li>
+					<li>Lorem ipsum 3<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+					consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+					cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+					proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></li>
+					<li>Lorem ipsum 4<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+					consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+					cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+					proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></li>
+					<li>Lorem ipsum 5<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+					consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+					cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+					proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></li>
+					<li>Lorem ipsum 6<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+					consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+					cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+					proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></li>
+				</ul>				
+				<a class="text-warning" href="#">* - See important information before purchasing.</a>
+
+
+				<h3 class="h5 text-uppercase">Pricing</h3>
+				<hr>
+
+				<h4 class="h6 strong">Plan Options</h4>
+				<table class="table table-bordered">
+					<tr class="table-primary">
+						<td>PDF&nbsp;Set <i>BEST&nbsp;VALUE!</i></td>
+						<td class="bg-primary">$900.00</td>
+						<td>PDF plan sets are best for fast electronic delivery and inexpensive local printing.</td>
+					</tr><tr>
+						<td>5 Copy Set</nobr></td>
+						<td>$950.00</td>
+						<td>5 printed plan sets mailed to you.</td>
+					</tr><tr>
+						<td>CAD Set</td>
+						<td>1800.00</td>
+						<td>For use by design professionals to make substantial changes to your house plan and inexpensive local printing.</td>
+					</tr>
+				</table>
+				<h4 class="h6 strong">Foundation Options</h4>
+
+				<h4 class="h6 strong">Additional Options</h4>
+
+
+				<div class="alert alert-warning" role="alert">Unless you buy an "unlimited" plan set or a multi-use license you may only build one home plan from a set of plans.  Plans cannot be re-sold.</div>
 
 			</div>
 			<div class="col-md-4 mr-0 pt-2 pr-2">
@@ -198,7 +302,7 @@ group: hw
 			</div>
 
 		</div>
-		<div class="d-flex flex-column flex-md-row justify-content-start justify-content-md-around p-2 bg-success text-white">
+		<div class="d-flex flex-column flex-md-row justify-content-start justify-content-md-around p-2 bg-danger text-white">
 			<div class="d-flex flex-column flex-md-row justify-content-start align-items-left pl-5 pt-3">
 
 				<div class="p-1 pt-2"><a class="text-white" href="#">PLANS</a></div>
