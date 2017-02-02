@@ -27,11 +27,11 @@ group: hw
 			<a class="navbar-brand" href="/hw/"><img class="ml-2" src="http://placehold.it/220x50/c7b0c6/011a47?text=FLOORPLANS" alt="floorplans"></a>
 			<div class="collapse navbar-collapse" id="navbarSupportedContent">
 				<ul class="navbar-nav mr-auto">
-					<li class="nav-item text-uppercase"><a class="text-info nav-link" href="#">Search</a></li>
-					<li class="nav-item text-uppercase"><a class="text-info nav-link" href="/hw/styles/">Styles</a></li>
-					<li class="nav-item text-uppercase"><a class="text-info nav-link active" href="/hw/collections/">Collections</a></li>
-					<li class="nav-item text-uppercase"><a class="text-info nav-link" href="/hw/designers/">Designers</a></li>
-					<li class="nav-item text-uppercase"><a class="text-info nav-link" href="#">Magazines</a></li>
+					<li class="nav-item text-uppercase"><h2 class="mb-0"><a class="h5 text-info mb-0 nav-link" href="#">Search</a></h2></li>
+					<li class="nav-item text-uppercase"><h2 class="mb-0"><a class="h5 text-info mb-0 nav-link" href="#">Styles</a></h2></li>
+					<li class="nav-item text-uppercase"><h2 class="mb-0"><a class="h5 text-info mb-0 nav-link active" href="/hw/collections/">Collections</a></h2></li>
+					<li class="nav-item text-uppercase"><h2 class="mb-0"><a class="h5 text-info mb-0 nav-link" href="/hw/designers/">Designers</a></h2></li>
+					<li class="nav-item text-uppercase"><h2 class="mb-0"><a class="h5 text-info mb-0 nav-link" href="/hw/magazines/">Magazines</a></h2></li>
 				</ul>
 			</div>
 		</nav>
@@ -51,7 +51,7 @@ group: hw
 		<div class="row no-gutters">
 			<div class="col-md-4">
 				<div class="h-auto bg-faded mt-2 mx-2 p-3" style="border: 1px solid #ddd;">
-					<h2 class="h4">Builder Bungalows</h2>
+					<h2 class="h5 strong">Builder Bungalows</h2>
 					<p>The efficient shape and generally compact and neighborley character of today's bungalow makes it a natural house plan choice for small developments.  Here are a range of bungalow designs for smaller lots.</p>
 				</div>
 
@@ -88,7 +88,7 @@ group: hw
 			</div>
 			<div class="col-md-4 mt-2 p-0">
 
-				<div class="ml-2">Sort By&nbsp;&nbsp; 
+				<div class="ml-2 mb-2">Sort By&nbsp;&nbsp; 
 					<span class="dropdown">
 						<button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 							Most popular

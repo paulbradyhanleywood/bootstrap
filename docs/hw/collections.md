@@ -27,11 +27,11 @@ group: hw
 			<a class="navbar-brand" href="/hw/"><img class="ml-2" src="http://placehold.it/220x50/c7b0c6/011a47?text=FLOORPLANS" alt="floorplans"></a>
 			<div class="collapse navbar-collapse" id="navbarSupportedContent">
 				<ul class="navbar-nav mr-auto">
-					<li class="nav-item text-uppercase"><a class="text-info nav-link" href="#">Search</a></li>
-					<li class="nav-item text-uppercase"><a class="text-info nav-link" href="/hw/styles/">Styles</a></li>
-					<li class="nav-item text-uppercase"><a class="text-info nav-link active" href="/hw/collections/">Collections</a></li>
-					<li class="nav-item text-uppercase"><a class="text-info nav-link" href="/hw/designers/">Designers</a></li>
-					<li class="nav-item text-uppercase"><a class="text-info nav-link" href="#">Magazines</a></li>
+					<li class="nav-item text-uppercase"><h2 class="mb-0"><a class="h5 text-info mb-0 nav-link" href="#">Search</a></h2></li>
+					<li class="nav-item text-uppercase"><h2 class="mb-0"><a class="h5 text-info mb-0 nav-link" href="#">Styles</a></h2></li>
+					<li class="nav-item text-uppercase"><h2 class="mb-0"><a class="h5 text-info mb-0 nav-link active" href="/hw/collections/">Collections</a></h2></li>
+					<li class="nav-item text-uppercase"><h2 class="mb-0"><a class="h5 text-info mb-0 nav-link" href="/hw/designers/">Designers</a></h2></li>
+					<li class="nav-item text-uppercase"><h2 class="mb-0"><a class="h5 text-info mb-0 nav-link" href="/hw/magazines/">Magazines</a></h2></li>
 				</ul>
 			</div>
 		</nav>
@@ -43,7 +43,7 @@ group: hw
 		<div class="row no-gutters">
 			<div class="col-md-4">
 				<div class="h-auto bg-faded mt-2 mx-2 p-3" style="border: 1px solid #ddd;">
-					<h2 class="h4">Collection</h2>
+					<h2 class="h5 strong">Collection</h2>
 					<p>Select a link below to browse our hand-selected plans from the nearly 50,000 plans in our database or click "Search" at the top to search all of our plans by size, type or feature.</p>
 				</div>
 
@@ -51,34 +51,34 @@ group: hw
 				<!-- Collections List -->
 				<ul class="list-group mt-3 mx-2">
 					<li class="list-group-item w-100"><div class="w-100">
-						<a href="/hw/builder-plans/">Builder Plans <i class="fa fa-caret-right float-right pt-1"></i></a>
+						<a class="h6" href="/hw/builder-plans/">Builder Plans <i class="fa fa-caret-right float-right pt-1"></i></a>
 					</div></li>
 					<li class="list-group-item w-100"><div class="w-100">
-						<a href="#">Design Styles <i class="fa fa-caret-right float-right pt-1"></i></a>
+						<a class="h6" href="#">Design Styles <i class="fa fa-caret-right float-right pt-1"></i></a>
 					</div></li>
 					<li class="list-group-item w-100"><div class="w-100">
-						<a href="#">Energy-Efficient House PLans <i class="fa fa-caret-right float-right pt-1"></i></a>
+						<a class="h6" href="#">Energy-Efficient House PLans <i class="fa fa-caret-right float-right pt-1"></i></a>
 					</div></li>
 					<li class="list-group-item w-100"><div class="w-100">
-						<a href="#">Houseplans Picks<i class="fa fa-caret-right float-right pt-1"></i></a>
+						<a class="h6" href="#">Houseplans Picks<i class="fa fa-caret-right float-right pt-1"></i></a>
 					</div></li>
 					<li class="list-group-item w-100"><div class="w-100">
-						<a href="#">Howie Awards<i class="fa fa-caret-right float-right pt-1"></i></a>
+						<a class="h6" href="#">Howie Awards<i class="fa fa-caret-right float-right pt-1"></i></a>
 					</div></li>
 					<li class="list-group-item w-100"><div class="w-100">
-						<a href="#">Regional Favorites<i class="fa fa-caret-right float-right pt-1"></i></a>
+						<a class="h6" href="#">Regional Favorites<i class="fa fa-caret-right float-right pt-1"></i></a>
 					</div></li>
 					<li class="list-group-item w-100"><div class="w-100">
-						<a href="#">Rooms<i class="fa fa-caret-right float-right pt-1"></i></a>
+						<a class="h6" href="#">Rooms<i class="fa fa-caret-right float-right pt-1"></i></a>
 					</div></li>
 					<li class="list-group-item w-100"><div class="w-100">
-						<a href="#">Social Media Plan Stars<i class="fa fa-caret-right float-right pt-1"></i></a>
+						<a class="h6" href="#">Social Media Plan Stars<i class="fa fa-caret-right float-right pt-1"></i></a>
 					</div></li>
 					<li class="list-group-item w-100"><div class="w-100">
-						<a href="#">Top Selling House Plans<i class="fa fa-caret-right float-right pt-1"></i></a>
+						<a class="h6" href="#">Top Selling House Plans<i class="fa fa-caret-right float-right pt-1"></i></a>
 					</div></li>
 					<li class="list-group-item w-100"><div class="w-100">
-						<a href="#">Signature Plans<i class="fa fa-caret-right float-right pt-1"></i></a>
+						<a class="h6" href="#">Signature Plans<i class="fa fa-caret-right float-right pt-1"></i></a>
 					</div></li>
 				</ul>
 

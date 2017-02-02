@@ -35,11 +35,11 @@ group: hw
 			<a class="navbar-brand" href="/hw/"><img class="ml-2" src="http://placehold.it/220x50/c7b0c6/011a47?text=FLOORPLANS" alt="floorplans"></a>
 			<div class="collapse navbar-collapse" id="navbarSupportedContent">
 				<ul class="navbar-nav mr-auto">
-					<li class="nav-item text-uppercase"><a class="text-info nav-link active" href="#">Search</a></li>
-					<li class="nav-item text-uppercase"><a class="text-info nav-link" href="#">Styles</a></li>
-					<li class="nav-item text-uppercase"><a class="text-info nav-link" href="/hw/collections/">Collections</a></li>
-					<li class="nav-item text-uppercase"><a class="text-info nav-link" href="/hw/designers/">Designers</a></li>
-					<li class="nav-item text-uppercase"><a class="text-info nav-link" href="/hw/magazines/">Magazines</a></li>
+					<li class="nav-item text-uppercase"><h2 class="mb-0"><a class="h5 text-info mb-0 nav-link active" href="#">Search</a></h2></li>
+					<li class="nav-item text-uppercase"><h2 class="mb-0"><a class="h5 text-info mb-0 nav-link" href="#">Styles</a></h2></li>
+					<li class="nav-item text-uppercase"><h2 class="mb-0"><a class="h5 text-info mb-0 nav-link" href="/hw/collections/">Collections</a></h2></li>
+					<li class="nav-item text-uppercase"><h2 class="mb-0"><a class="h5 text-info mb-0 nav-link" href="/hw/designers/">Designers</a></h2></li>
+					<li class="nav-item text-uppercase"><h2 class="mb-0"><a class="h5 text-info mb-0 nav-link" href="/hw/magazines/">Magazines</a></h2></li>
 				</ul>
 			</div>
 		</nav>
@@ -138,7 +138,7 @@ group: hw
 				<div class="card">
 					<img src="http://cdn.houseplans.com/product/o2d2ui14afb1sov3cnslpummre/w940x400.jpg" class="img-fluid" alt="Responsive image">
 					<div class="card-block">
-						<h6 class="card-title text-center text-primary"><a href="#"><strong>3 BEDROOM FLOOR PLANS</strong></a></h6>
+						<h3 class="card-title h5 text-center text-primary"><a href="#"><strong>3 BEDROOM FLOOR PLANS</strong></a></h3>
 						<p class="card-text"><em>3-bedroom floor plans are very popular and it's easy to see why.  The versatility of having 3 bedrooms makes this a...</em></p>
 					</div>
 				</div>
@@ -147,7 +147,7 @@ group: hw
 				<div class="card">
 					<img src="http://cdn.houseplans.com/product/2f50bfq27ig6qogbkms91mud82/w940x400.jpg" class="img-fluid" alt="Responsive image">
 					<div class="card-block">
-						<h6 class="card-title text-center text-primary"><a href="#"><strong>TWO STORY FLOOR PLANS</strong></a></h6>
+						<h3 class="card-title h5 text-center text-primary"><a href="#"><strong>TWO STORY FLOOR PLANS</strong></a></h3>
 						<p class="card-text"><em>The majority of plans build today have two stories, as this provides a traditional layout and separation of public &amp; private...</em></p>
 					</div>
 				</div>
@@ -156,7 +156,7 @@ group: hw
 				<div class="card">
 					<img src="http://cdn.houseplans.com/product/4f7c9q2ei6r5ldvhbmonpthvep/w940x400.jpg" class="img-fluid" alt="Responsive image">
 					<div class="card-block">
-						<h6 class="card-title text-center text-primary"><a href="#"><strong>A-FRAME FLOOR PLANS</strong></a></h6>
+						<h3 class="card-title h5 text-center text-primary"><a href="#"><strong>A-FRAME FLOOR PLANS</strong></a></h3>
 						<p class="card-text"><em>A-Frame homes are a contemporary, folk style of home reminiscent of a Swiss chalet, perfect in a mountain setting...</em></p>
 					</div>
 				</div>
@@ -209,7 +209,7 @@ group: hw
 
 			</div>
 			<div class="col-lg-4 px-4 d-flex flex-column align-items-stretch justify-content-end" style="border-top: 1px solid lightgray; border-bottom: 1px solid lightgray;">
-				<div><h2 class="h6 mt-3">Exclusive Feature</h2></div>
+				<div><h2 class="h6 mt-3 strong">Exclusive Feature</h2></div>
 				<div><h3 class="my-3">THE MODERN CABIN COLLECTION</h3></div>
 				<div class="align-items-stretch">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,

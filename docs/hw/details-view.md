@@ -48,11 +48,11 @@ group: hw
 			<a class="navbar-brand" href="/hw/"><img class="ml-2" src="http://placehold.it/220x50/c7b0c6/011a47?text=FLOORPLANS" alt="floorplans" title="floorplans"></a>
 			<div class="collapse navbar-collapse" id="navbarSupportedContent">
 				<ul class="navbar-nav mr-auto">
-					<li class="nav-item text-uppercase"><a class="text-info nav-link" href="#">Search</a></li>
-					<li class="nav-item text-uppercase"><a class="text-info nav-link" href="/hw/styles/">Styles</a></li>
-					<li class="nav-item text-uppercase"><a class="text-info nav-link active" href="/hw/collections/">Collections</a></li>
-					<li class="nav-item text-uppercase"><a class="text-info nav-link" href="/hw/designers/">Designers</a></li>
-					<li class="nav-item text-uppercase"><a class="text-info nav-link" href="#">Magazines</a></li>
+					<li class="nav-item text-uppercase"><h2 class="mb-0"><a class="h5 text-info mb-0 nav-link" href="#">Search</a></h2></li>
+					<li class="nav-item text-uppercase"><h2 class="mb-0"><a class="h5 text-info mb-0 nav-link" href="#">Styles</a></h2></li>
+					<li class="nav-item text-uppercase"><h2 class="mb-0"><a class="h5 text-info mb-0 nav-link active" href="/hw/collections/">Collections</a></h2></li>
+					<li class="nav-item text-uppercase"><h2 class="mb-0"><a class="h5 text-info mb-0 nav-link" href="/hw/designers/">Designers</a></h2></li>
+					<li class="nav-item text-uppercase"><h2 class="mb-0"><a class="h5 text-info mb-0 nav-link" href="/hw/magazines/">Magazines</a></h2></li>
 				</ul>
 			</div>
 		</nav>
@@ -81,7 +81,7 @@ group: hw
 
 				<div class="d-flex justify-content-between align-items-center">
 					<div>
-						<h2 class="mb-2">Plan #48-464</h2>
+						<h1 class="mb-2">Plan #48-464</h1>
 					</div>
 					<div>
 						<ul class="list-unstyled flex-nowrap list-inline mb-0">
@@ -96,7 +96,7 @@ group: hw
 				</div>
 
 
-				<h3 class="mt-5 mb-2 text-uppercase">Key Specs</h3>
+				<h2 class="mt-5 mb-2 text-uppercase">Key Specs</h2>
 				<hr class="mt-0">
 				<div class="d-flex justify-content-around align-items-center mb-4">
 					
@@ -118,15 +118,15 @@ group: hw
 				</div>
 
 
-				<h3 class="mt-5 mb-2 text-uppercase">Floor Plans</h3>
+				<h2 class="mt-5 mb-2 text-uppercase">Floor Plans</h2>
 				<hr class="mt-0">
-				<h4 class="h5 mt-3">Floor Plan - Main Floor Plan</h4>
+				<h3 class="h6 mt-3">Floor Plan - Main Floor Plan</h3>
 				<img src="https://cdn.houseplans.com/product/rtjlrgtmjg17ufatn3nnlg25ct/w600.jpg" class="img-fluid" alt="" title="Main Floor Plan">
-				<h4 class="h5 mt-3">Floor Plan - Upper Floor Plan</h4>
+				<h3 class="h6 mt-3">Floor Plan - Upper Floor Plan</h3>
 				<img src="https://cdn.houseplans.com/product/uvg4n4508noca8tqrrf16qmeke/w600.jpg" class="img-fluid" alt="" title="Upper Floor Plan">
 
 
-				<h3 class="mt-5 mb-2 text-uppercase">Full Specs &amp; Features</h3>
+				<h2 class="mt-5 mb-2 text-uppercase">Full Specs &amp; Features</h2>
 				<table class="table">
 					<tbody>
 						<tr>
@@ -164,7 +164,7 @@ group: hw
 				<hr>
 
 
-				<h3 class="mt-5 mb-2 text-uppercase">What's Included In This Plan Set</h3>
+				<h2 class="mt-5 mb-2 text-uppercase">What's Included In This Plan Set</h2>
 				<hr class="mt-0">
 				<a class="text-warning" href="#">See a sample plan set</a>
 				<ul>
@@ -208,9 +208,9 @@ group: hw
 				<a class="text-warning" href="#">* - See important information before purchasing.</a>
 
 
-				<h3 class="mt-5 mb-2 text-uppercase">Pricing</h3>
+				<h2 class="mt-5 mb-2 text-uppercase">Pricing</h2>
 				<hr class="mt-0">
-				<h4 class="h5 strong">Plan Options</h4>
+				<h3 class="h6">Plan Options</h3>
 				<table class="table table-bordered">
 					<tr class="table-primary">
 						<td class="w-25 align-middle text-right">PDF&nbsp;Set <i><b>BEST&nbsp;VALUE!</b></i></td>
@@ -226,7 +226,7 @@ group: hw
 						<td>For use by design professionals to make substantial changes to your house plan and inexpensive local printing.</td>
 					</tr>
 				</table>
-				<h4 class="h5 strong">Foundation Options</h4>
+				<h3 class="h6">Foundation Options</h3>
 				<table class="table table-bordered">
 					<tr class="table-primary">
 						<td class="w-25 align-middle text-right">Crawlspace</td>
@@ -238,7 +238,7 @@ group: hw
 						<td>Ideal for level lot, lower level of home partially or fully underground.</td>
 					</tr>
 				</table>
-				<h4 class="h5 strong">Additional Options</h4>
+				<h3 class="h6">Additional Options</h3>
 				<table class="table table-bordered">
 					<tr class="table-primary">
 						<td class="w-25 align-middle text-right">Additional Copies</td>
@@ -256,59 +256,60 @@ group: hw
 
 
 			</div>
-			<div class="col-md-4 mr-0 pt-2 pr-2">
+			<div class="col-md-4 mr-0 pt-2">
 
-					<div class="sticky-top bg-faded mt-2 mx-3 mb-3 p-3 rounded" style="top: 0; margin-bottom: 50px;">
-						<h3 class="h6"><b>Select Plan Set Options</b></h3>
-						<a href="#" class="h6 text-primary">What's included?</a><br>
-						<div class="dropdown mb-3">
-							<button class="btn btn-secondary dropdown-toggle text-right w-100" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-								<span class="float-left">PDF</span> <span class="float-right">$900.00</span>
-							</button>
-							<div class="dropdown-menu bg-faded" aria-labelledby="dropdownMenu2">
-								<button class="dropdown-item" type="button"><div style="height: 100px; width: 200px; background-color: lightgreen">ONE</div></button>
-								<button class="dropdown-item" type="button"><div style="height: 100px; width: 200px; background-color: lightblue; float: right;">TWO</div></button>
-								<button class="dropdown-item" type="button"><div style="height: 100px; width: 200px; background-color: orange;">Three</div></button>
-							</div>
+				<div class="sticky-top bg-faded mt-2 ml-3 mr-0 mb-3 p-3 rounded" style="top: 0; margin-bottom: 50px;">
+					<div class="d-flex justify-content-between align-items-center">
+						<h2 class="h6 d-inline-block mb-0"><b>Select Plan Set Options</b></h2><a href="#" class="align-right text-primary">What's included?</a>
+					</div>
+					<div class="dropdown mb-3">
+						<button class="btn btn-secondary dropdown-toggle text-right w-100" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+							<span class="float-left">PDF</span> <span class="float-right">$900.00</span>
+						</button>
+						<div class="dropdown-menu bg-faded" aria-labelledby="dropdownMenu2">
+							<button class="dropdown-item" type="button"><div style="height: 100px; width: 200px; background-color: lightgreen">ONE</div></button>
+							<button class="dropdown-item" type="button"><div style="height: 100px; width: 200px; background-color: lightblue; float: right;">TWO</div></button>
+							<button class="dropdown-item" type="button"><div style="height: 100px; width: 200px; background-color: orange;">Three</div></button>
 						</div>
-
-						<h3 class="h6"><b>Select Foundation Options</b></h3>
-						<div class="dropdown mb-3">
-							<button class="btn btn-secondary dropdown-toggle w-100" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-								Crawlspace - $0.00
-							</button>
-							<div class="dropdown-menu bg-faded" aria-labelledby="dropdownMenu2">
-								<button class="dropdown-item" type="button"><div style="height: 100px; width: 200px; background-color: lightgreen">ONE</div></button>
-								<button class="dropdown-item" type="button"><div style="height: 100px; width: 200px; background-color: lightblue; float: right;">TWO</div></button>
-								<button class="dropdown-item" type="button"><div style="height: 100px; width: 200px; background-color: orange;">Three</div></button>
-							</div>
-						</div>
-						<div class="dropdown mb-3">
-							<button class="btn btn-secondary dropdown-toggle w-100" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-								<i>Optional Add-Ons</i>
-							</button>
-							<div class="dropdown-menu bg-faded" aria-labelledby="dropdownMenu2">
-								<div class="form-check">
-									<label class="form-check-label">
-										<input class="form-check-input" type="checkbox" value="">
-										Right-reading Reverse
-									</label>
-								</div>
-							</div>
-						</div>
-
-						
-						SUBTOTAL	 - $900.00<br>
-						<span>Best Price Guaranteed<sup>*</sup></span>
-
-						<button class="btn btn-warning W-100 mt-3 text-uppercase">Add to Cart</button>
-						<div class="mt-2 text-center">Or order by phone: 1-800-913-2350</div>
-
 					</div>
 
-					<div class="sticky sticky--mobile" style="top: 0;">
-						<h3>Mobile Sticky Block</h3>
+					<h2 class="h6"><b>Select Foundation Options</b></h2>
+					<div class="dropdown mb-3">
+						<button class="btn btn-secondary dropdown-toggle w-100" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+							Crawlspace - $0.00
+						</button>
+						<div class="dropdown-menu bg-faded" aria-labelledby="dropdownMenu2">
+							<button class="dropdown-item" type="button"><div style="height: 100px; width: 200px; background-color: lightgreen">ONE</div></button>
+							<button class="dropdown-item" type="button"><div style="height: 100px; width: 200px; background-color: lightblue; float: right;">TWO</div></button>
+							<button class="dropdown-item" type="button"><div style="height: 100px; width: 200px; background-color: orange;">Three</div></button>
+						</div>
 					</div>
+					<div class="dropdown mb-3">
+						<button class="btn btn-secondary dropdown-toggle w-100" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+							<i>Optional Add-Ons</i>
+						</button>
+						<div class="dropdown-menu bg-faded" aria-labelledby="dropdownMenu2">
+							<div class="form-check">
+								<label class="form-check-label">
+									<input class="form-check-input" type="checkbox" value="">
+									Right-reading Reverse
+								</label>
+							</div>
+						</div>
+					</div>
+
+					
+					SUBTOTAL	 - $900.00<br>
+					<span>Best Price Guaranteed<sup>*</sup></span>
+
+					<button class="btn btn-warning W-100 mt-3 text-uppercase">Add to Cart</button>
+					<div class="mt-2 text-center">Or order by phone: 1-800-913-2350</div>
+
+				</div>
+
+				<div class="sticky sticky--mobile" style="top: 0;">
+					<h2>Mobile Sticky Block</h2>
+				</div>
 
 			</div>
 		</div>

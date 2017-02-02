@@ -27,11 +27,11 @@ group: hw
 			<a class="navbar-brand" href="/hw/"><img class="ml-2" src="http://placehold.it/220x50/c7b0c6/011a47?text=FLOORPLANS" alt="floorplans"></a>
 			<div class="collapse navbar-collapse" id="navbarSupportedContent">
 				<ul class="navbar-nav mr-auto">
-					<li class="nav-item text-uppercase"><a class="text-info nav-link" href="#">Search</a></li>
-					<li class="nav-item text-uppercase"><a class="text-info nav-link" href="/hw/styles/">Styles</a></li>
-					<li class="nav-item text-uppercase"><a class="text-info nav-link active" href="/hw/collections/">Collections</a></li>
-					<li class="nav-item text-uppercase"><a class="text-info nav-link" href="/hw/designers/">Designers</a></li>
-					<li class="nav-item text-uppercase"><a class="text-info nav-link" href="#">Magazines</a></li>
+					<li class="nav-item text-uppercase"><h2 class="mb-0"><a class="h5 text-info mb-0 nav-link" href="#">Search</a></h2></li>
+					<li class="nav-item text-uppercase"><h2 class="mb-0"><a class="h5 text-info mb-0 nav-link" href="#">Styles</a></h2></li>
+					<li class="nav-item text-uppercase"><h2 class="mb-0"><a class="h5 text-info mb-0 nav-link active" href="/hw/collections/">Collections</a></h2></li>
+					<li class="nav-item text-uppercase"><h2 class="mb-0"><a class="h5 text-info mb-0 nav-link" href="/hw/designers/">Designers</a></h2></li>
+					<li class="nav-item text-uppercase"><h2 class="mb-0"><a class="h5 text-info mb-0 nav-link" href="/hw/magazines/">Magazines</a></h2></li>
 				</ul>
 			</div>
 		</nav>
@@ -50,7 +50,7 @@ group: hw
 		<div class="row no-gutters">
 			<div class="col-md-4">
 				<div class="h-auto bg-faded mt-2 mx-2 p-3" style="border: 1px solid #ddd;">
-					<h2 class="h4">Builder Plans</h2>
+					<h2 class="h5 strong">Builder Plans</h2>
 					<p>House Plans selected for builders, including designs for infill lots and houses for larger developments.  Builder plans are chosen for their mixture of affordability and desireability by home buyers.</p>
 				</div>
 
@@ -58,51 +58,51 @@ group: hw
 				<!-- Collections List -->
 				<ul class="list-group mt-3 mx-2">
 					<li class="list-group-item w-100"><div class="w-100">
-						<a href="/hw/builder-plans/">Builder Plans <i class="fa fa-caret-down float-right pt-1"></i></a>
+						<a class="h6" href="/hw/builder-plans/">Builder Plans <i class="fa fa-caret-down float-right pt-1"></i></a>
 						<ul class="list-group">
-							<li class="list-group-item d-block pr-0 pl-3 py-1 border-0 w-100"><a href="/hw/builder-bungalows/">Builder Bungalows</a></li>
-							<li class="list-group-item d-block pr-0 pl-3 py-1 border-0 w-100"><a href="#">Duplex Plans</a></li>
-							<li class="list-group-item d-block pr-0 pl-3 py-1 border-0 w-100"><a href="#">House Plans for Builders</a></li>
-							<li class="list-group-item d-block pr-0 pl-3 py-1 border-0 w-100"><a href="#">House Plans with Multiple Elevations</a></li>
-							<li class="list-group-item d-block pr-0 pl-3 py-1 border-0 w-100"><a href="#">I Shaped House Plans</a></li>
-							<li class="list-group-item d-block pr-0 pl-3 py-1 border-0 w-100"><a href="#">L Shaped House Plans</a></li>
-							<li class="list-group-item d-block pr-0 pl-3 py-1 border-0 w-100"><a href="#">Low Cost House Plans</a></li>
-							<li class="list-group-item d-block pr-0 pl-3 py-1 border-0 w-100"><a href="#">Multi-family Plans</a></li>
-							<li class="list-group-item d-block pr-0 pl-3 py-1 border-0 w-100"><a href="#">Narrow Lot Plans</a></li>
-							<li class="list-group-item d-block pr-0 pl-3 py-1 border-0 w-100"><a href="#">Row House Plans</a></li>
-							<li class="list-group-item d-block pr-0 pl-3 py-1 border-0 w-100"><a href="#">SIPs House Plans</a></li>
-							<li class="list-group-item d-block pr-0 pl-3 py-1 border-0 w-100"><a href="#">Sloping Lot Plans</a></li>
-							<li class="list-group-item d-block pr-0 pl-3 py-1 border-0 w-100"><a href="#">T-Shaped House Plans</a></li>
-							<li class="list-group-item d-block pr-0 pl-3 py-1 border-0 w-100"><a href="#">U-Shaped House Plans</a></li>
-							<li class="list-group-item d-block pr-0 pl-3 py-1 border-0 w-100"><a href="#">Signature Plans</a><i class="fa fa-caret-right float-right pt-1"></i></li>
+							<li class="list-group-item d-block pr-0 pl-3 py-1 border-0 w-100"><a class="h6" href="/hw/builder-bungalows/">Builder Bungalows</a></li>
+							<li class="list-group-item d-block pr-0 pl-3 py-1 border-0 w-100"><a class="h6" href="#">Duplex Plans</a></li>
+							<li class="list-group-item d-block pr-0 pl-3 py-1 border-0 w-100"><a class="h6" href="#">House Plans for Builders</a></li>
+							<li class="list-group-item d-block pr-0 pl-3 py-1 border-0 w-100"><a class="h6" href="#">House Plans with Multiple Elevations</a></li>
+							<li class="list-group-item d-block pr-0 pl-3 py-1 border-0 w-100"><a class="h6" href="#">I Shaped House Plans</a></li>
+							<li class="list-group-item d-block pr-0 pl-3 py-1 border-0 w-100"><a class="h6" href="#">L Shaped House Plans</a></li>
+							<li class="list-group-item d-block pr-0 pl-3 py-1 border-0 w-100"><a class="h6" href="#">Low Cost House Plans</a></li>
+							<li class="list-group-item d-block pr-0 pl-3 py-1 border-0 w-100"><a class="h6" href="#">Multi-family Plans</a></li>
+							<li class="list-group-item d-block pr-0 pl-3 py-1 border-0 w-100"><a class="h6" href="#">Narrow Lot Plans</a></li>
+							<li class="list-group-item d-block pr-0 pl-3 py-1 border-0 w-100"><a class="h6" href="#">Row House Plans</a></li>
+							<li class="list-group-item d-block pr-0 pl-3 py-1 border-0 w-100"><a class="h6" href="#">SIPs House Plans</a></li>
+							<li class="list-group-item d-block pr-0 pl-3 py-1 border-0 w-100"><a class="h6" href="#">Sloping Lot Plans</a></li>
+							<li class="list-group-item d-block pr-0 pl-3 py-1 border-0 w-100"><a class="h6" href="#">T-Shaped House Plans</a></li>
+							<li class="list-group-item d-block pr-0 pl-3 py-1 border-0 w-100"><a class="h6" href="#">U-Shaped House Plans</a></li>
+							<li class="list-group-item d-block pr-0 pl-3 py-1 border-0 w-100"><a class="h6" href="#">Signature Plans</a><i class="fa fa-caret-right float-right pt-1"></i></li>
 						</ul>
 					</div></li>
 					<li class="list-group-item w-100"><div class="w-100">
-						<a href="#">Design Styles <i class="fa fa-caret-right float-right pt-1"></i></a>
+						<a class="h6" href="#">Design Styles <i class="fa fa-caret-right float-right pt-1"></i></a>
 					</div></li>
 					<li class="list-group-item w-100"><div class="w-100">
-						<a href="#">Energy-Efficient House PLans <i class="fa fa-caret-right float-right pt-1"></i></a>
+						<a class="h6" href="#">Energy-Efficient House PLans <i class="fa fa-caret-right float-right pt-1"></i></a>
 					</div></li>
 					<li class="list-group-item w-100"><div class="w-100">
-						<a href="#">Houseplans Picks<i class="fa fa-caret-right float-right pt-1"></i></a>
+						<a class="h6" href="#">Houseplans Picks<i class="fa fa-caret-right float-right pt-1"></i></a>
 					</div></li>
 					<li class="list-group-item w-100"><div class="w-100">
-						<a href="#">Howie Awards<i class="fa fa-caret-right float-right pt-1"></i></a>
+						<a class="h6" href="#">Howie Awards<i class="fa fa-caret-right float-right pt-1"></i></a>
 					</div></li>
 					<li class="list-group-item w-100"><div class="w-100">
-						<a href="#">Regional Favorites<i class="fa fa-caret-right float-right pt-1"></i></a>
+						<a class="h6" href="#">Regional Favorites<i class="fa fa-caret-right float-right pt-1"></i></a>
 					</div></li>
 					<li class="list-group-item w-100"><div class="w-100">
-						<a href="#">Rooms<i class="fa fa-caret-right float-right pt-1"></i></a>
+						<a class="h6" href="#">Rooms<i class="fa fa-caret-right float-right pt-1"></i></a>
 					</div></li>
 					<li class="list-group-item w-100"><div class="w-100">
-						<a href="#">Social Media Plan Stars<i class="fa fa-caret-right float-right pt-1"></i></a>
+						<a class="h6" href="#">Social Media Plan Stars<i class="fa fa-caret-right float-right pt-1"></i></a>
 					</div></li>
 					<li class="list-group-item w-100"><div class="w-100">
-						<a href="#">Top Selling House Plans<i class="fa fa-caret-right float-right pt-1"></i></a>
+						<a class="h6" href="#">Top Selling House Plans<i class="fa fa-caret-right float-right pt-1"></i></a>
 					</div></li>
 					<li class="list-group-item w-100"><div class="w-100">
-						<a href="#">Signature Plans<i class="fa fa-caret-right float-right pt-1"></i></a>
+						<a class="h6" href="#">Signature Plans<i class="fa fa-caret-right float-right pt-1"></i></a>
 					</div></li>
 				</ul>
 
