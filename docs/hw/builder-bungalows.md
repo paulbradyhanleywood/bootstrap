@@ -59,7 +59,7 @@ group: hw
 				<!-- Collections List -->
 				<div class="mt-3 mx-2 rounded" style="border: 1px solid #dddddd;">
 
-					<h3 class="h4 mt-4 mx-3">Narrow by Features</h3>
+					<h3 class="h5 mt-4 mx-3">Narrow by Features</h3>
 					<hr>
 					<ul class="list-group mt-3 mx-2">
 						<li class="list-group-item border-0 w-100"><div class="w-100">

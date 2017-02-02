@@ -258,13 +258,13 @@ group: hw
 			</div>
 			<div class="col-md-4 mr-0 pt-2">
 
-				<div class="sticky-top bg-faded mt-2 ml-3 mr-0 mb-3 p-3 rounded" style="top: 0; margin-bottom: 50px;">
-					<div class="d-flex justify-content-between align-items-center">
-						<h2 class="h6 d-inline-block mb-0"><b>Select Plan Set Options</b></h2><a href="#" class="align-right text-primary">What's included?</a>
+				<div class="h5 sticky-top bg-faded mt-2 ml-3 mr-0 mb-3 p-3 rounded" style="top: 0; margin-bottom: 50px;">
+					<div class="d-flex justify-content-between align-items-center mb-2">
+						<h2 class="h5 d-inline-block mb-0"><b>Select Plan Set Options</b></h2><a href="#" class="h6 align-right text-primary mb-0">What's included?</a>
 					</div>
 					<div class="dropdown mb-3">
-						<button class="btn btn-secondary dropdown-toggle text-right w-100" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-							<span class="float-left">PDF</span> <span class="float-right">$900.00</span>
+						<button class="btn btn-lg btn-secondary dropdown-toggle text-right w-100" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+							<span class="float-left">PDF</span> $900.00
 						</button>
 						<div class="dropdown-menu bg-faded" aria-labelledby="dropdownMenu2">
 							<button class="dropdown-item" type="button"><div style="height: 100px; width: 200px; background-color: lightgreen">ONE</div></button>
@@ -273,9 +273,9 @@ group: hw
 						</div>
 					</div>
 
-					<h2 class="h6"><b>Select Foundation Options</b></h2>
+					<h2 class="h5"><b>Select Foundation Options</b></h2>
 					<div class="dropdown mb-3">
-						<button class="btn btn-secondary dropdown-toggle w-100" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+						<button class="btn btn-lg btn-secondary dropdown-toggle w-100" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 							Crawlspace - $0.00
 						</button>
 						<div class="dropdown-menu bg-faded" aria-labelledby="dropdownMenu2">
@@ -285,7 +285,7 @@ group: hw
 						</div>
 					</div>
 					<div class="dropdown mb-3">
-						<button class="btn btn-secondary dropdown-toggle w-100" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+						<button class="btn btn-lg btn-secondary dropdown-toggle w-100" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 							<i>Optional Add-Ons</i>
 						</button>
 						<div class="dropdown-menu bg-faded" aria-labelledby="dropdownMenu2">
@@ -298,12 +298,16 @@ group: hw
 						</div>
 					</div>
 
-					
-					SUBTOTAL	 - $900.00<br>
-					<span>Best Price Guaranteed<sup>*</sup></span>
+					<div class="d-flex justify-content-between align-items-center h5 my-2">
+						<div>SUBTOTAL</div>
+						<div>$1400.00</div>
+					</div>
+					<div class="d-flex justify-content-end align-items-center mb-2">
+						<span class="h6 text-warning">Best Price Guaranteed<sup>*</sup></span>
+					</div>
 
-					<button class="btn btn-warning W-100 mt-3 text-uppercase">Add to Cart</button>
-					<div class="mt-2 text-center">Or order by phone: 1-800-913-2350</div>
+					<button class="btn btn-lg btn-warning w-100 text-uppercase">Add to Cart</button>
+					<div class="h6 text-center my-3">Or order by phone: <a href="tel:1-800-913-2350">1-800-913-2350</a></div>
 
 				</div>
 
