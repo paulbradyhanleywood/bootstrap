@@ -275,8 +275,8 @@ group: hw
 
 					<h2 class="h5"><b>Select Foundation Options</b></h2>
 					<div class="dropdown mb-3">
-						<button class="btn btn-lg btn-secondary dropdown-toggle w-100" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-							Crawlspace - $0.00
+						<button class="btn btn-lg btn-secondary dropdown-toggle w-100 text-right" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+							<span class="float-left">Crawlspace</span> $0.00
 						</button>
 						<div class="dropdown-menu bg-faded" aria-labelledby="dropdownMenu2">
 							<button class="dropdown-item" type="button"><div style="height: 100px; width: 200px; background-color: lightgreen">ONE</div></button>
@@ -285,8 +285,8 @@ group: hw
 						</div>
 					</div>
 					<div class="dropdown mb-3">
-						<button class="btn btn-lg btn-secondary dropdown-toggle w-100" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-							<i>Optional Add-Ons</i>
+						<button class="btn btn-lg btn-secondary dropdown-toggle w-100 text-right" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+							<span class="float-left"><i>Optional Add-Ons</i></span>
 						</button>
 						<div class="dropdown-menu bg-faded" aria-labelledby="dropdownMenu2">
 							<div class="form-check">
