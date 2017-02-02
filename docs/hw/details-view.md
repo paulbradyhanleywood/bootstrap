@@ -85,12 +85,12 @@ group: hw
 					</div>
 					<div>
 						<ul class="list-unstyled flex-nowrap list-inline mb-0">
-							<li class="list-inline-item"><a href="#"><img class="rounded-circle" src="http://placehold.it/40x40/ff0000/ffffff" alt="" title=""></a></li>
-							<li class="list-inline-item"><a href="#"><img class="rounded-circle" src="http://placehold.it/40x40/ffff00/ffffff" alt="" title=""></a></li>
-							<li class="list-inline-item"><a href="#"><img class="rounded-circle" src="http://placehold.it/40x40/ff00ff/ffffff" alt="" title=""></a></li>
-							<li class="list-inline-item"><a href="#"><img class="rounded-circle" src="http://placehold.it/40x40/00ffff/ffffff" alt="" title=""></a></li>
-							<li class="list-inline-item"><a href="#"><img class="rounded-circle" src="http://placehold.it/40x40/990099/ffffff" alt="" title=""></a></li>
-							<li class="list-inline-item"><a href="#"><img class="rounded-circle" src="http://placehold.it/40x40/9999ff/ffffff" alt="" title=""></a></li>
+							<li class="list-inline-item"><a href="#"><img class="rounded-circle" src="http://placehold.it/25x25/ff0000/ffffff" alt="" title=""></a></li>
+							<li class="list-inline-item"><a href="#"><img class="rounded-circle" src="http://placehold.it/25x25/ffff00/ffffff" alt="" title=""></a></li>
+							<li class="list-inline-item"><a href="#"><img class="rounded-circle" src="http://placehold.it/25x25/ff00ff/ffffff" alt="" title=""></a></li>
+							<li class="list-inline-item"><a href="#"><img class="rounded-circle" src="http://placehold.it/25x25/00ffff/ffffff" alt="" title=""></a></li>
+							<li class="list-inline-item"><a href="#"><img class="rounded-circle" src="http://placehold.it/25x25/990099/ffffff" alt="" title=""></a></li>
+							<li class="list-inline-item"><a href="#"><img class="rounded-circle" src="http://placehold.it/25x25/9999ff/ffffff" alt="" title=""></a></li>
 						</ul>
 					</div>
 				</div>
@@ -258,7 +258,7 @@ group: hw
 			</div>
 			<div class="col-md-4 mr-0 pt-2 pr-2">
 
-					<div class="sticky-top bg-faded mt-2 mx-3 p-3 rounded" style="top: 0; margin-bottom: 50px;">
+					<div class="sticky-top bg-faded mt-2 mx-3 mb-3 p-3 rounded" style="top: 0; margin-bottom: 50px;">
 						<h3 class="h6"><b>Select Plan Set Options</b></h3>
 						<a href="#" class="h6 text-primary">What's included?</a><br>
 						<div class="dropdown mb-3">
@@ -283,6 +283,26 @@ group: hw
 								<button class="dropdown-item" type="button"><div style="height: 100px; width: 200px; background-color: orange;">Three</div></button>
 							</div>
 						</div>
+						<div class="dropdown mb-3">
+							<button class="btn btn-secondary dropdown-toggle w-100" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+								<i>Optional Add-Ons</i>
+							</button>
+							<div class="dropdown-menu bg-faded" aria-labelledby="dropdownMenu2">
+								<div class="form-check">
+									<label class="form-check-label">
+										<input class="form-check-input" type="checkbox" value="">
+										Right-reading Reverse
+									</label>
+								</div>
+							</div>
+						</div>
+
+						
+						SUBTOTAL	 - $900.00<br>
+						<span>Best Price Guaranteed<sup>*</sup></span>
+
+						<button class="btn btn-warning W-100 mt-3 text-uppercase">Add to Cart</button>
+						<div class="mt-2 text-center">Or order by phone: 1-800-913-2350</div>
 
 					</div>
 
