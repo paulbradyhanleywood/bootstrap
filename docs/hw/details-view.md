@@ -213,26 +213,46 @@ group: hw
 				<h4 class="h5 strong">Plan Options</h4>
 				<table class="table table-bordered">
 					<tr class="table-primary">
-						<td>PDF&nbsp;Set <i>BEST&nbsp;VALUE!</i></td>
-						<td class="bg-primary">$900.00</td>
+						<td class="w-25 align-middle text-right">PDF&nbsp;Set <i><b>BEST&nbsp;VALUE!</b></i></td>
+						<td class="bg-success align-middle text-right">$900.00</td>
 						<td>PDF plan sets are best for fast electronic delivery and inexpensive local printing.</td>
 					</tr><tr>
-						<td>5 Copy Set</nobr></td>
-						<td>$950.00</td>
+						<td class="align-middle text-right">5 Copy Set</td>
+						<td class="bg-faded align-middle text-right">$950.00</td>
 						<td>5 printed plan sets mailed to you.</td>
 					</tr><tr>
-						<td>CAD Set</td>
-						<td>1800.00</td>
+						<td class="align-middle text-right">CAD Set</td>
+						<td class="bg-faded align-middle text-right">$1800.00</td>
 						<td>For use by design professionals to make substantial changes to your house plan and inexpensive local printing.</td>
 					</tr>
 				</table>
 				<h4 class="h5 strong">Foundation Options</h4>
-
+				<table class="table table-bordered">
+					<tr class="table-primary">
+						<td class="w-25 align-middle text-right">Crawlspace</td>
+						<td class="bg-faded align-middle text-right">$0.00</td>
+						<td>Ideal for semi-sloped or level lot, home can be built off of grade, typically 18" - 48".</td>
+					</tr><tr>
+						<td class="align-middle text-right">Basement</td>
+						<td class="bg-faded align-middle text-right">$225.00</td>
+						<td>Ideal for level lot, lower level of home partially or fully underground.</td>
+					</tr>
+				</table>
 				<h4 class="h5 strong">Additional Options</h4>
+				<table class="table table-bordered">
+					<tr class="table-primary">
+						<td class="w-25 align-middle text-right">Additional Copies</td>
+						<td class="bg-faded align-middle text-right">$40.00 ea.</td>
+						<td>Additional hard copies of the plan (can be ordered at the time of purchase and within 90 days of the purchase date).</td>
+					</tr><tr>
+						<td class="align-middle text-right">Right-Reading Reverse</td>
+						<td class="bg-faded align-middle text-right">$100.00</td>
+						<td>Choose this option to reverse your plans and to have the text and dimensions readable. Click <a href="#" target="_blank">here</a> for more information.</td>
+					</tr>
+				</table>
 
 
-
-				<div class="alert alert-warning" role="alert">Unless you buy an "unlimited" plan set or a multi-use license you may only build one home plan from a set of plans.  Plans cannot be re-sold.</div>
+				<div class="alert alert-warning mt-3" role="alert">Unless you buy an "unlimited" plan set or a multi-use license you may only build one home plan from a set of plans.  Plans cannot be re-sold.</div>
 
 
 			</div>
