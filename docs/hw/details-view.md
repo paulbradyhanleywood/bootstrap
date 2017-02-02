@@ -85,27 +85,40 @@ group: hw
 					</div>
 					<div>
 						<ul class="list-unstyled flex-nowrap list-inline mb-0">
-							<li class="list-inline-item align-right"><a href="#"><img class="rounded-circle" src="http://placehold.it/35x35/ff0000/ffffff" alt="" title=""></a></li>
-							<li class="list-inline-item align-right"><a href="#"><img class="rounded-circle" src="http://placehold.it/35x35/ffff00/ffffff" alt="" title=""></a></li>
-							<li class="list-inline-item align-right"><a href="#"><img class="rounded-circle" src="http://placehold.it/35x35/ff00ff/ffffff" alt="" title=""></a></li>
-							<li class="list-inline-item align-right"><a href="#"><img class="rounded-circle" src="http://placehold.it/35x35/00ffff/ffffff" alt="" title=""></a></li>
-							<li class="list-inline-item align-right"><a href="#"><img class="rounded-circle" src="http://placehold.it/35x35/990099/ffffff" alt="" title=""></a></li>
-							<li class="list-inline-item align-right"><a href="#"><img class="rounded-circle" src="http://placehold.it/35x35/9999ff/ffffff" alt="" title=""></a></li>
+							<li class="list-inline-item"><a href="#"><img class="rounded-circle" src="http://placehold.it/40x40/ff0000/ffffff" alt="" title=""></a></li>
+							<li class="list-inline-item"><a href="#"><img class="rounded-circle" src="http://placehold.it/40x40/ffff00/ffffff" alt="" title=""></a></li>
+							<li class="list-inline-item"><a href="#"><img class="rounded-circle" src="http://placehold.it/40x40/ff00ff/ffffff" alt="" title=""></a></li>
+							<li class="list-inline-item"><a href="#"><img class="rounded-circle" src="http://placehold.it/40x40/00ffff/ffffff" alt="" title=""></a></li>
+							<li class="list-inline-item"><a href="#"><img class="rounded-circle" src="http://placehold.it/40x40/990099/ffffff" alt="" title=""></a></li>
+							<li class="list-inline-item"><a href="#"><img class="rounded-circle" src="http://placehold.it/40x40/9999ff/ffffff" alt="" title=""></a></li>
 						</ul>
 					</div>
 				</div>
 
 
-				<h3 class="mt-4 mb-2 text-uppercase">Key Specs</h3>
+				<h3 class="mt-5 mb-2 text-uppercase">Key Specs</h3>
 				<hr class="mt-0">
-				<div class="d-flex bg-faded rounded" style="border: 1px solid #eeeeee">
-					<a href="#" class="btn btn-primary align-middle text-uppercase">Modify This Plan</a>
-					<h4 class="h6 strong">This plan can be customized!</h4>
-					<p>Tell us about your desired changes so we can prepare an estimate for the design service. Click the button to submit your request for pricing, or <a class="strong" href="tel:18009132350">call 1-800-913-2350</a></p>
+				<div class="d-flex justify-content-around align-items-center mb-4">
+					
+					<div class="text-center"><img class="p-1" src="http://placehold.it/35x35/ff0000/ffffff" alt="" title=""><p>1777 sq ft</p></div>
+					<div class="text-center"><img class="p-1" src="http://placehold.it/35x35/ffff00/ffffff" alt="" title=""><p>3 Bedrooms</p></div>
+					<div class="text-center"><img class="p-1" src="http://placehold.it/35x35/ff00ff/ffffff" alt="" title=""><p>2.5 Bathrooms</p></div>
+					<div class="text-center"><img class="p-1" src="http://placehold.it/35x35/00ffff/ffffff" alt="" title=""><p>2 Floors</p></div>
+					<div class="text-center"><img class="p-1" src="http://placehold.it/35x35/990099/ffffff" alt="" title=""><p>No Garage</p></div>
+					
+				</div>
+				<div class="d-flex align-items-center bg-faded rounded p-3" style="border: 1px solid #eeeeee">
+					<div class="mx-3">
+						<a href="#" class="btn btn-primary text-uppercase">Modify This Plan</a>
+					</div>
+					<div class="mx-2">
+						<h4 class="h6 strong">This plan can be customized!</h4>
+						<span>Tell us about your desired changes so we can prepare an estimate for the design service. Click the button to submit your request for pricing, or call <a class="strong" href="tel:18009132350">1-800-913-2350</a> for assistance.</span>
+					</div>
 				</div>
 
 
-				<h3 class="mt-4 mb-2 text-uppercase">Floor Plans</h3>
+				<h3 class="mt-5 mb-2 text-uppercase">Floor Plans</h3>
 				<hr class="mt-0">
 				<h4 class="h5 mt-3">Floor Plan - Main Floor Plan</h4>
 				<img src="https://cdn.houseplans.com/product/rtjlrgtmjg17ufatn3nnlg25ct/w600.jpg" class="img-fluid" alt="" title="Main Floor Plan">
@@ -113,7 +126,7 @@ group: hw
 				<img src="https://cdn.houseplans.com/product/uvg4n4508noca8tqrrf16qmeke/w600.jpg" class="img-fluid" alt="" title="Upper Floor Plan">
 
 
-				<h3 class="mt-4 mb-2 text-uppercase">Full Specs &amp; Features</h3>
+				<h3 class="mt-5 mb-2 text-uppercase">Full Specs &amp; Features</h3>
 				<table class="table">
 					<tbody>
 						<tr>
@@ -151,7 +164,7 @@ group: hw
 				<hr>
 
 
-				<h3 class="mt-4 mb-2 text-uppercase">What's Included In This Plan Set</h3>
+				<h3 class="mt-5 mb-2 text-uppercase">What's Included In This Plan Set</h3>
 				<hr class="mt-0">
 				<a class="text-warning" href="#">See a sample plan set</a>
 				<ul>
@@ -195,7 +208,7 @@ group: hw
 				<a class="text-warning" href="#">* - See important information before purchasing.</a>
 
 
-				<h3 class="mt-4 mb-2 text-uppercase">Pricing</h3>
+				<h3 class="mt-5 mb-2 text-uppercase">Pricing</h3>
 				<hr class="mt-0">
 				<h4 class="h5 strong">Plan Options</h4>
 				<table class="table table-bordered">
@@ -225,7 +238,7 @@ group: hw
 			</div>
 			<div class="col-md-4 mr-0 pt-2 pr-2">
 
-					<div class="sticky-top bg-faded mt-0 mx-3 p-3 rounded" style="top: 0; margin-bottom: 50px;">
+					<div class="sticky-top bg-faded mt-2 mx-3 p-3 rounded" style="top: 0; margin-bottom: 50px;">
 						<h3 class="h6"><b>Select Plan Set Options</b></h3>
 						<a href="#" class="h6 text-primary">What's included?</a><br>
 						<div class="dropdown mb-3">
