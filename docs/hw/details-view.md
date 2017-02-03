@@ -270,30 +270,31 @@ group: hw
 
 							<div class="btn-group-vertical" role="group" aria-label="Button group with nested dropdown">
 								<button type="button" class="list-group-item list-group-item-action active">
-									<div class="d-flex justify-content-between">
-										<div><i class="fa fa-check text-success" aria-hidden="true"></i> PDF Set</div> 
-										<div>$1400.00</div>
+									<div class="d-flex flex-row justify-content-between w-100 mb-3">
+										<div><h3 class="h5 mb-0"><i class="fa fa-check text-success" aria-hidden="true"></i> PDF Set</h3></div>
+										<div class="h5 mb-0">$1400.00</div>
 									</div>
-									<i>Recommended Option</i>
+									<div class="mb-3 strong"><i>Recommended Option</i></div>
+									<div>PDF plan sets are best for fast electronic delivery and inexpensive local printing.</div>
 								</button>
-								<button type="button" class="list-group-item list-group-item-action">
-									<div class="d-flex justify-content-between">
-										<div>5 Copy Set</div> 
-										<div>$1450.00</div>
+								<button type="button" class="list-group-item list-group-item-action w-100">
+									<div class="d-flex flex-row justify-content-between w-100 mb-3">
+										<div><h3 class="h5 mb-0">5 Copy Set</h3></div>
+										<div class="h5 mb-0">$1450.00</div>
 									</div>
-									<i>5 printed plan sets mailed to you.</i>
+									<div><i>5 printed plan sets mailed to you.</i></div>
 								</button>
-								<button type="button" class="list-group-item list-group-item-action">
-									<div class="d-flex justify-content-between">
-										<div>CAD Set</div> 
-										<div>$2888.00</div>
+								<button type="button" class="list-group-item list-group-item-action w-100">
+									<div class="d-flex flex-row justify-content-between w-100 mb-3">
+										<div><h3 class="h5 mb-0">CAD Set</h3></div> 
+										<div class="h5 mb-0">$2888.00</div>
 									</div>
 									<i>For use by design professionals to make substantial changes to your house plan and inexpensive local printing.</i>
 								</button>
-								<button type="button" class="list-group-item list-group-item-action">
-									<div class="d-flex justify-content-between">
-										<div>Single Set</div> 
-										<div>$750.00</div>
+								<button type="button" class="list-group-item list-group-item-action w-100">
+									<div class="d-flex flex-row justify-content-between w-100 mb-3">
+										<div><h3 class="h5 mb-0">Single Set</h3></div> 
+										<div class="h5 mb-0">$750.00</div>
 									</div>
 									<i>One printed set for bidding purposes only.<br>Not a legal building set for construction.</i>
 								</button>
