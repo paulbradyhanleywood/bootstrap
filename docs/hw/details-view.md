@@ -308,18 +308,34 @@ group: hw
 						<button class="btn btn-lg btn-secondary dropdown-toggle w-100 text-right" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 							<span class="float-left">Crawlspace</span> $0.00
 						</button>
-						<div class="dropdown-menu bg-faded" aria-labelledby="dropdownMenu2">
-							<button class="dropdown-item" type="button"><div style="height: 100px; width: 200px; background-color: lightgreen">ONE</div></button>
-							<button class="dropdown-item" type="button"><div style="height: 100px; width: 200px; background-color: lightblue; float: right;">TWO</div></button>
-							<button class="dropdown-item" type="button"><div style="height: 100px; width: 200px; background-color: orange;">Three</div></button>
+						<div class="dropdown-menu bg-faded p-0 m-0" aria-labelledby="dropdownMenu2">
+
+							<div class="btn-group-vertical" role="group" aria-label="Button group with nested dropdown">
+								<button type="button" class="list-group-item list-group-item-action active">
+									<div class="d-flex flex-row justify-content-between w-100 mb-3">
+										<div><h3 class="h5 mb-0"><i class="fa fa-check text-success" aria-hidden="true"></i> Crawlspace</h3></div>
+										<div class="h5 mb-0">$0.00</div>
+									</div>
+									<div>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+									tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.</div>
+								</button>
+								<button type="button" class="list-group-item list-group-item-action w-100">
+									<div class="d-flex flex-row justify-content-between w-100 mb-3">
+										<div><h3 class="h5 mb-0">No crawlspace</h3></div>
+										<div class="h5 mb-0">$0.00</div>
+									</div>
+									<div><i>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.</i></div>
+								</button>
+							</div>
+
 						</div>
 					</div>
 					<div class="dropdown mb-3">
 						<button class="btn btn-lg btn-secondary dropdown-toggle w-100 text-right" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 							<span class="float-left"><i>Optional Add-Ons</i></span>
 						</button>
-						<div class="dropdown-menu bg-faded" aria-labelledby="dropdownMenu2">
-							<div class="form-check">
+						<div class="dropdown-menu bg-faded w-100" aria-labelledby="dropdownMenu2">
+							<div class="form-check my-2 mx-2">
 								<label class="form-check-label">
 									<input class="form-check-input" type="checkbox" value="">
 									Right-reading Reverse
