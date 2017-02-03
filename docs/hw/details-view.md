@@ -96,7 +96,7 @@ group: hw
 				</div>
 
 
-				<h2 class="mt-5 mb-2 text-uppercase">Key Specs</h2>
+				<h2 class="mt-5 mb-2 text-uppercase strong">Key Specs</h2>
 				<hr class="mt-0">
 				<div class="d-flex justify-content-around align-items-center mb-4">
 					
@@ -118,7 +118,7 @@ group: hw
 				</div>
 
 
-				<h2 class="mt-5 mb-2 text-uppercase">Floor Plans</h2>
+				<h2 class="mt-5 mb-2 text-uppercase strong">Floor Plans</h2>
 				<hr class="mt-0">
 				<h3 class="h6 mt-3">Floor Plan - Main Floor Plan</h3>
 				<img src="https://cdn.houseplans.com/product/rtjlrgtmjg17ufatn3nnlg25ct/w600.jpg" class="img-fluid" alt="" title="Main Floor Plan">
@@ -126,7 +126,7 @@ group: hw
 				<img src="https://cdn.houseplans.com/product/uvg4n4508noca8tqrrf16qmeke/w600.jpg" class="img-fluid" alt="" title="Upper Floor Plan">
 
 
-				<h2 class="mt-5 mb-2 text-uppercase">Full Specs &amp; Features</h2>
+				<h2 class="mt-5 mb-2 text-uppercase strong">Full Specs &amp; Features</h2>
 				<table class="table">
 					<tbody>
 						<tr>
@@ -164,7 +164,7 @@ group: hw
 				<hr>
 
 
-				<h2 class="mt-5 mb-2 text-uppercase">What's Included In This Plan Set</h2>
+				<h2 class="mt-5 mb-2 text-uppercase strong">What's Included In This Plan Set</h2>
 				<hr class="mt-0">
 				<a class="text-warning" href="#">See a sample plan set</a>
 				<ul>
@@ -208,7 +208,7 @@ group: hw
 				<a class="text-warning" href="#">* - See important information before purchasing.</a>
 
 
-				<h2 class="mt-5 mb-2 text-uppercase">Pricing</h2>
+				<h2 class="mt-5 mb-2 text-uppercase strong">Pricing</h2>
 				<hr class="mt-0">
 				<h3 class="h6">Plan Options</h3>
 				<table class="table table-bordered">
@@ -264,12 +264,41 @@ group: hw
 					</div>
 					<div class="dropdown mb-3">
 						<button class="btn btn-lg btn-secondary dropdown-toggle text-right w-100" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-							<span class="float-left">PDF</span> $900.00
+							<span class="float-left">PDF</span> $1400.00
 						</button>
-						<div class="dropdown-menu bg-faded" aria-labelledby="dropdownMenu2">
-							<button class="dropdown-item" type="button"><div style="height: 100px; width: 200px; background-color: lightgreen">ONE</div></button>
-							<button class="dropdown-item" type="button"><div style="height: 100px; width: 200px; background-color: lightblue; float: right;">TWO</div></button>
-							<button class="dropdown-item" type="button"><div style="height: 100px; width: 200px; background-color: orange;">Three</div></button>
+						<div class="dropdown-menu bg-faded p-0 m-0" aria-labelledby="dropdownMenu2">
+
+							<div class="btn-group-vertical" role="group" aria-label="Button group with nested dropdown">
+								<button type="button" class="list-group-item list-group-item-action active">
+									<div class="d-flex justify-content-between">
+										<div><i class="fa fa-check text-success" aria-hidden="true"></i> PDF Set</div> 
+										<div>$1400.00</div>
+									</div>
+									<i>Recommended Option</i>
+								</button>
+								<button type="button" class="list-group-item list-group-item-action">
+									<div class="d-flex justify-content-between">
+										<div>5 Copy Set</div> 
+										<div>$1450.00</div>
+									</div>
+									<i>5 printed plan sets mailed to you.</i>
+								</button>
+								<button type="button" class="list-group-item list-group-item-action">
+									<div class="d-flex justify-content-between">
+										<div>CAD Set</div> 
+										<div>$2888.00</div>
+									</div>
+									<i>For use by design professionals to make substantial changes to your house plan and inexpensive local printing.</i>
+								</button>
+								<button type="button" class="list-group-item list-group-item-action">
+									<div class="d-flex justify-content-between">
+										<div>Single Set</div> 
+										<div>$750.00</div>
+									</div>
+									<i>One printed set for bidding purposes only.<br>Not a legal building set for construction.</i>
+								</button>
+							</div>
+
 						</div>
 					</div>
 
@@ -303,7 +332,7 @@ group: hw
 						<div>$1400.00</div>
 					</div>
 					<div class="d-flex justify-content-end align-items-center mb-2">
-						<span class="h6 text-warning">Best Price Guaranteed<sup>*</sup></span>
+						<span class="h6 text-danger">Best Price Guaranteed<sup>*</sup></span>
 					</div>
 
 					<button class="btn btn-lg btn-warning w-100 text-uppercase">Add to Cart</button>
