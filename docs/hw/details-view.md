@@ -60,17 +60,19 @@ group: hw
 
 				<div class="d-flex justify-content-between align-items-center">
 					<div>
-						<h1 class="mb-2">Plan #48-464</h1>
+						<h1 class="mx-2 mb-2">Plan <span class="text-nowrap">#48-464</span></h1>
 					</div>
-					<div>
-						<ul class="list-unstyled flex-nowrap list-inline mb-0">
-							<li class="list-inline-item"><a href="#"><img class="rounded-circle" src="http://placehold.it/25x25/ff0000/ffffff" alt="" title=""></a></li>
-							<li class="list-inline-item"><a href="#"><img class="rounded-circle" src="http://placehold.it/25x25/ffff00/ffffff" alt="" title=""></a></li>
-							<li class="list-inline-item"><a href="#"><img class="rounded-circle" src="http://placehold.it/25x25/ff00ff/ffffff" alt="" title=""></a></li>
-							<li class="list-inline-item"><a href="#"><img class="rounded-circle" src="http://placehold.it/25x25/00ffff/ffffff" alt="" title=""></a></li>
-							<li class="list-inline-item"><a href="#"><img class="rounded-circle" src="http://placehold.it/25x25/990099/ffffff" alt="" title=""></a></li>
-							<li class="list-inline-item"><a href="#"><img class="rounded-circle" src="http://placehold.it/25x25/9999ff/ffffff" alt="" title=""></a></li>
-						</ul>
+					<div class="flex-nowrap text-right">
+						<span class="text-nowrap">
+							<a href="#"><img class="rounded-circle mx-2 my-2" src="http://placehold.it/25x25/ff0000/ffffff" alt="" title=""></a>
+							<a href="#"><img class="rounded-circle mx-2 my-2" src="http://placehold.it/25x25/ffff00/ffffff" alt="" title=""></a>
+							<a href="#"><img class="rounded-circle mx-2 my-2" src="http://placehold.it/25x25/ff00ff/ffffff" alt="" title=""></a>
+						</span>
+						<span class="text-nowrap mr-1">
+							<a href="#"><img class="rounded-circle mx-2 my-2" src="http://placehold.it/25x25/00ffff/ffffff" alt="" title=""></a>
+							<a href="#"><img class="rounded-circle mx-2 my-2" src="http://placehold.it/25x25/990099/ffffff" alt="" title=""></a>
+							<a href="#"><img class="rounded-circle mx-2 my-2" src="http://placehold.it/25x25/9999ff/ffffff" alt="" title=""></a>
+						</span>
 					</div>
 				</div>
 
@@ -79,7 +81,7 @@ group: hw
 				<hr class="mt-0">
 				<div class="d-flex justify-content-around align-items-center mb-4">
 					
-					<div class="text-center"><img class="p-1" src="http://placehold.it/35x35/ff0000/ffffff" alt="" title=""><p>1777 sq ft</p></div>
+					<div class="text-center"><img class="p-1" src="http://placehold.it/35x35/ff0000/ffffff" alt="" title=""><p>1777 sq&nbsp;ft</p></div>
 					<div class="text-center"><img class="p-1" src="http://placehold.it/35x35/ffff00/ffffff" alt="" title=""><p>3 Bedrooms</p></div>
 					<div class="text-center"><img class="p-1" src="http://placehold.it/35x35/ff00ff/ffffff" alt="" title=""><p>2.5 Bathrooms</p></div>
 					<div class="text-center"><img class="p-1" src="http://placehold.it/35x35/00ffff/ffffff" alt="" title=""><p>2 Floors</p></div>
