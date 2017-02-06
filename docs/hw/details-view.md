@@ -88,16 +88,16 @@ group: hw
 					<div class="text-center"><img class="p-1" src="http://placehold.it/35x35/990099/ffffff" alt="" title=""><p>No Garage</p></div>
 					
 				</div>
-				<div class="d-flex align-items-center bg-faded rounded p-3" style="border: 1px solid #eeeeee">
-					<div class="mx-3">
-						<a href="#" class="btn btn-primary text-uppercase">Modify This Plan</a>
-					</div>
-					<div class="mx-2">
-						<h4 class="h6 strong">This plan can be customized!</h4>
+
+				<div class="row no-gutters text-center text-md-left bg-faded rounded p-3" style="border: 1px solid #eee;">
+					<div class="col-md-8">
+						<h4 class="h6 strong">This plan can&nbsp;be&nbsp;customized!</h4>
 						<span>Tell us about your desired changes so we can prepare an estimate for the design service. Click the button to submit your request for pricing, or call <a class="strong" href="tel:18009132350">1-800-913-2350</a> for assistance.</span>
 					</div>
+					<div class="col-md-4 text-center h-100 align-middle my-4">
+						<a href="#" class="my-4 mx-5" class="btn btn-primary text-uppercase">Modify This Plan</a>
+					</div>
 				</div>
-
 
 				<h2 class="mt-5 mb-2 text-uppercase strong">Floor Plans</h2>
 				<hr class="mt-0">
