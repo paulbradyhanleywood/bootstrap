@@ -60,7 +60,7 @@ group: hw
 
 				<div class="d-flex justify-content-between align-items-center">
 					<div>
-						<h1 class="mx-2 mb-2">Plan <span class="text-nowrap">#48-464</span></h1>
+						<h1 class="mx-1 mb-2">Plan <span class="text-nowrap">#48-464</span></h1>
 					</div>
 					<div class="flex-nowrap text-right">
 						<span class="text-nowrap">
