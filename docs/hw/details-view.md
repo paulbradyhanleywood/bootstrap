@@ -5,27 +5,6 @@ description: HW Multisite Collections
 group: hw
 ---
 	
-<style>
-	.sticky {
-		position: -webkit-sticky;
-		position: sticky;
-		top: 0;
-	}
-
-	.sticky--desktop {
-		display: none;
-	}
-
-	@media screen and (min-width: 576px) {
-		.sticky--desktop {
-			display: block;
-		}
-
-		.sticky--mobile {
-			display: none;
-		}
-	}
-</style>
 
 <div class="container p-0 mt-4">
 
@@ -77,7 +56,7 @@ group: hw
 			</div>
 		</div>
 		<div class="row no-gutters">
-			<div class="col-md-8 mr-0 my-3">
+			<div class="col-lg-8 mr-0 my-3">
 
 				<div class="d-flex justify-content-between align-items-center">
 					<div>
@@ -256,9 +235,9 @@ group: hw
 
 
 			</div>
-			<div class="col-md-4 mr-0 pt-2">
+			<div class="col-lg-4 mr-0 pt-2">
 
-				<div class="h5 sticky-top bg-faded mt-2 ml-3 mr-0 mb-3 p-3 rounded" style="top: 0; margin-bottom: 50px;">
+				<div class="h5 sticky-top bg-faded mt-2 ml-3 mr-0 mb-3 p-3 rounded">
 					<div class="d-flex justify-content-between align-items-center mb-2">
 						<h2 class="h5 d-inline-block mb-0"><b>Select Plan Set Options</b></h2><a href="#" class="h6 align-right text-primary mb-0">What's included?</a>
 					</div>
@@ -355,10 +334,6 @@ group: hw
 					<button class="btn btn-lg btn-warning w-100 text-uppercase">Add to Cart</button>
 					<div class="h6 text-center my-3">Or order by phone: <a href="tel:1-800-913-2350">1-800-913-2350</a></div>
 
-				</div>
-
-				<div class="sticky sticky--mobile" style="top: 0;">
-					<h2>Mobile Sticky Block</h2>
 				</div>
 
 			</div>
