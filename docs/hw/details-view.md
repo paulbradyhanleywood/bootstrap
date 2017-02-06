@@ -311,15 +311,29 @@ group: hw
 					</div>
 					<div class="dropdown mb-3">
 						<button class="btn btn-lg btn-secondary dropdown-toggle w-100 text-right" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-							<span class="float-left"><i>Optional Add-Ons</i></span>
+							<span class="float-left"><i>Optional Add-Ons</i></span> $50.00
 						</button>
 						<div class="dropdown-menu bg-faded w-100" aria-labelledby="dropdownMenu2">
-							<div class="form-check my-2 mx-2">
-								<label class="form-check-label">
-									<input class="form-check-input" type="checkbox" value="">
-									Right-reading Reverse
-								</label>
-							</div>
+							<table class="table table-sm mb-0">
+								<tr>
+									<td>
+										<label class="form-check-label">
+											<input class="form-check-input" type="checkbox" value="">&nbsp;Right-reading Reverse
+										</label>
+									</td>
+									<td class="float-right align-middle pt-2">
+										$50.00
+									</td>
+								</tr><tr>
+									<td>
+										<label class="form-check-label">
+											<input class="form-check-input" type="checkbox" value="">&nbsp;Some other option
+										</label>
+									</td><td class="float-right align-middle pt-2">
+										$150.00
+									</td>
+								</tr>
+							</table>
 						</div>
 					</div>
 
