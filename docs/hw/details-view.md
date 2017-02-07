@@ -56,7 +56,7 @@ group: hw
 			</div>
 		</div>
 		<div class="row no-gutters">
-			<div class="col-lg-8 mr-0 my-3">
+			<div class="col-lg-8 mr-0 my-3 pr-3">
 
 				<div class="d-flex justify-content-between align-items-center">
 					<div>
