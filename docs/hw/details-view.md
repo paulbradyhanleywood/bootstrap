@@ -82,8 +82,8 @@ group: hw
 				<div class="d-flex justify-content-around align-items-center mb-4">
 					
 					<div class="text-center"><img class="p-1" src="http://placehold.it/35x35/ff0000/ffffff" alt="" title=""><p>1777 sq&nbsp;ft</p></div>
-					<div class="text-center"><img class="p-1" src="http://placehold.it/35x35/ffff00/ffffff" alt="" title=""><p>3 Bedrooms</p></div>
-					<div class="text-center"><img class="p-1" src="http://placehold.it/35x35/ff00ff/ffffff" alt="" title=""><p>2.5 Bathrooms</p></div>
+					<div class="text-center"><img class="p-1" src="http://placehold.it/35x35/ffff00/ffffff" alt="" title=""><p>3 Bedrms</p></div>
+					<div class="text-center"><img class="p-1" src="http://placehold.it/35x35/ff00ff/ffffff" alt="" title=""><p>2.5 Bathrms</p></div>
 					<div class="text-center"><img class="p-1" src="http://placehold.it/35x35/00ffff/ffffff" alt="" title=""><p>2 Floors</p></div>
 					<div class="text-center"><img class="p-1" src="http://placehold.it/35x35/990099/ffffff" alt="" title=""><p>No Garage</p></div>
 					
@@ -255,29 +255,29 @@ group: hw
 										<div><h3 class="h5 mb-0"><i class="fa fa-check text-success" aria-hidden="true"></i> PDF Set</h3></div>
 										<div class="h5 mb-0">$1400.00</div>
 									</div>
-									<div class="mb-3 strong"><i>Recommended Option</i></div>
-									<div>PDF plan sets are best for fast electronic delivery and inexpensive local printing.</div>
+									<div class="mb-3 strong hidden-xs-down"><i>Recommended Option</i></div>
+									<div class="hidden-xs-down">PDF plan sets are best for fast electronic delivery and inexpensive local printing.</div>
 								</button>
 								<button type="button" class="list-group-item list-group-item-action w-100">
 									<div class="d-flex flex-row justify-content-between w-100 mb-3">
 										<div><h3 class="h5 mb-0">5 Copy Set</h3></div>
 										<div class="h5 mb-0">$1450.00</div>
 									</div>
-									<div><i>5 printed plan sets mailed to you.</i></div>
+									<div class="hidden-xs-down"><div><i>5 printed plan sets mailed to you.</i></div></div>
 								</button>
 								<button type="button" class="list-group-item list-group-item-action w-100">
 									<div class="d-flex flex-row justify-content-between w-100 mb-3">
 										<div><h3 class="h5 mb-0">CAD Set</h3></div> 
 										<div class="h5 mb-0">$2888.00</div>
 									</div>
-									<i>For use by design professionals to make substantial changes to your house plan and inexpensive local printing.</i>
+									<div class="hidden-xs-down"><i>For use by design professionals to make substantial changes to your house plan and inexpensive local printing.</i></div>
 								</button>
 								<button type="button" class="list-group-item list-group-item-action w-100">
 									<div class="d-flex flex-row justify-content-between w-100 mb-3">
 										<div><h3 class="h5 mb-0">Single Set</h3></div> 
 										<div class="h5 mb-0">$750.00</div>
 									</div>
-									<i>One printed set for bidding purposes only.<br>Not a legal building set for construction.</i>
+									<div class="hidden-xs-down"><i>One printed set for bidding purposes only.<br>Not a legal building set for construction.</i></div>
 								</button>
 							</div>
 
@@ -297,7 +297,7 @@ group: hw
 										<div><h3 class="h5 mb-0"><i class="fa fa-check text-success" aria-hidden="true"></i> Crawlspace</h3></div>
 										<div class="h5 mb-0">$0.00</div>
 									</div>
-									<div>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+									<div class="hidden-xs-down">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 									tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.</div>
 								</button>
 								<button type="button" class="list-group-item list-group-item-action w-100">
@@ -305,7 +305,7 @@ group: hw
 										<div><h3 class="h5 mb-0">No crawlspace</h3></div>
 										<div class="h5 mb-0">$0.00</div>
 									</div>
-									<div><i>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.</i></div>
+									<div class="hidden-xs-down"><i>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.</i></div>
 								</button>
 							</div>
 
