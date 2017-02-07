@@ -56,7 +56,123 @@ group: hw
 			</div>
 		</div>
 		<div class="row no-gutters">
-			<div class="col-lg-8 mr-0 my-3 pr-3">
+			<div class="col-lg-4 mr-0 pt-2">
+
+				<div class="h5 sticky-top bg-faded mt-2 ml-0 mr-0 mb-3 p-3 rounded">
+					<div class="d-flex justify-content-between align-items-center mb-2">
+						<h2 class="h5 d-inline-block mb-0"><b>Select Plan Set Options</b></h2><a href="#" class="h6 align-right text-primary mb-0">What's included?</a>
+					</div>
+					<div class="dropdown mb-3">
+						<button class="btn btn-lg btn-secondary dropdown-toggle text-right w-100" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+							<span class="float-left">PDF</span> $1400.00
+						</button>
+						<div class="dropdown-menu bg-faded p-0 m-0" aria-labelledby="dropdownMenu2">
+
+							<div class="btn-group-vertical" role="group" aria-label="Button group with nested dropdown">
+								<button type="button" class="list-group-item list-group-item-action active">
+									<div class="d-flex flex-row justify-content-between w-100 mb-3">
+										<div><h3 class="h5 mb-0"><i class="fa fa-check text-success" aria-hidden="true"></i> PDF Set</h3></div>
+										<div class="h5 mb-0">$1400.00</div>
+									</div>
+									<div class="mb-3 strong"><i>Recommended Option</i></div>
+									<div>PDF plan sets are best for fast electronic delivery and inexpensive local printing.</div>
+								</button>
+								<button type="button" class="list-group-item list-group-item-action w-100">
+									<div class="d-flex flex-row justify-content-between w-100 mb-3">
+										<div><h3 class="h5 mb-0">5 Copy Set</h3></div>
+										<div class="h5 mb-0">$1450.00</div>
+									</div>
+									<div><i>5 printed plan sets mailed to you.</i></div>
+								</button>
+								<button type="button" class="list-group-item list-group-item-action w-100">
+									<div class="d-flex flex-row justify-content-between w-100 mb-3">
+										<div><h3 class="h5 mb-0">CAD Set</h3></div> 
+										<div class="h5 mb-0">$2888.00</div>
+									</div>
+									<i>For use by design professionals to make substantial changes to your house plan and inexpensive local printing.</i>
+								</button>
+								<button type="button" class="list-group-item list-group-item-action w-100">
+									<div class="d-flex flex-row justify-content-between w-100 mb-3">
+										<div><h3 class="h5 mb-0">Single Set</h3></div> 
+										<div class="h5 mb-0">$750.00</div>
+									</div>
+									<i>One printed set for bidding purposes only.<br>Not a legal building set for construction.</i>
+								</button>
+							</div>
+
+						</div>
+					</div>
+
+					<h2 class="h5"><b>Select Foundation Options</b></h2>
+					<div class="dropdown mb-3">
+						<button class="btn btn-lg btn-secondary dropdown-toggle w-100 text-right" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+							<span class="float-left">Crawlspace</span> $0.00
+						</button>
+						<div class="dropdown-menu bg-faded p-0 m-0" aria-labelledby="dropdownMenu2">
+
+							<div class="btn-group-vertical" role="group" aria-label="Button group with nested dropdown">
+								<button type="button" class="list-group-item list-group-item-action active">
+									<div class="d-flex flex-row justify-content-between w-100 mb-3">
+										<div><h3 class="h5 mb-0"><i class="fa fa-check text-success" aria-hidden="true"></i> Crawlspace</h3></div>
+										<div class="h5 mb-0">$0.00</div>
+									</div>
+									<div>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+									tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.</div>
+								</button>
+								<button type="button" class="list-group-item list-group-item-action w-100">
+									<div class="d-flex flex-row justify-content-between w-100 mb-3">
+										<div><h3 class="h5 mb-0">No crawlspace</h3></div>
+										<div class="h5 mb-0">$0.00</div>
+									</div>
+									<div><i>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.</i></div>
+								</button>
+							</div>
+
+						</div>
+					</div>
+					<div class="dropdown mb-3">
+						<button class="btn btn-lg btn-secondary dropdown-toggle w-100 text-right" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+							<span class="float-left"><i>Optional Add-Ons</i></span> $1400.00
+						</button>
+						<div class="dropdown-menu bg-faded w-100" aria-labelledby="dropdownMenu2">
+							<div class="d-flex justify-content-between align-items-center mx-2">
+								<div class="form-check mb-1">
+									<label class="form-check-label">
+										<input class="form-check-input" type="checkbox" value="">&nbsp;Right-reading Reverse
+									</label>
+								</div>
+								<div>
+									$100.00
+								</div>
+							</div>
+							<div class="d-flex justify-content-between align-items-center mx-2">
+								<div class="form-check mb-1">
+									<label class="form-check-label">
+										<input class="form-check-input" type="checkbox" value="">&nbsp;Some other option
+									</label>
+								</div>
+								<div>
+									$1000.00
+								</div>
+							</div>
+						</div>
+					</div>
+
+					<div class="d-flex justify-content-between align-items-center h5 my-2">
+						<div>SUBTOTAL</div>
+						<div>$1400.00</div>
+					</div>
+					<div class="d-flex justify-content-end align-items-center mb-2">
+						<span class="h6 text-danger">Best Price Guaranteed<sup>*</sup></span>
+					</div>
+
+					<button class="btn btn-lg btn-warning w-100 text-uppercase">Add to Cart</button>
+					<div class="h6 text-center my-3">Or order by phone: <a href="tel:1-800-913-2350">1-800-913-2350</a></div>
+
+				</div>
+
+			</div>
+			<div class="col-lg-8 mr-0 my-3 pl-3">
 
 				<div class="d-flex justify-content-between align-items-center">
 					<div>
@@ -81,18 +197,18 @@ group: hw
 				<hr class="mt-0">
 				<div class="d-flex justify-content-around align-items-center mb-4">
 					
-					<div class="text-center"><img class="p-1" src="http://placehold.it/35x35/ff0000/ffffff" alt="" title=""><p>1777 sq&nbsp;ft</p></div>
-					<div class="text-center"><img class="p-1" src="http://placehold.it/35x35/ffff00/ffffff" alt="" title=""><p>3 Bedrms</p></div>
-					<div class="text-center"><img class="p-1" src="http://placehold.it/35x35/ff00ff/ffffff" alt="" title=""><p>2.5 Bathrms</p></div>
-					<div class="text-center"><img class="p-1" src="http://placehold.it/35x35/00ffff/ffffff" alt="" title=""><p>2 Floors</p></div>
-					<div class="text-center"><img class="p-1" src="http://placehold.it/35x35/990099/ffffff" alt="" title=""><p>No Garage</p></div>
+					<div class="text-center"><img class="p-1" src="http://placehold.it/35x35/ff0000/ffffff" alt="" title=""><p>1777<br>sq&nbsp;ft</p></div>
+					<div class="text-center"><img class="p-1" src="http://placehold.it/35x35/ffff00/ffffff" alt="" title=""><p>3<br>Bedrms</p></div>
+					<div class="text-center"><img class="p-1" src="http://placehold.it/35x35/ff00ff/ffffff" alt="" title=""><p>2.5<br>Bathrms</p></div>
+					<div class="text-center"><img class="p-1" src="http://placehold.it/35x35/00ffff/ffffff" alt="" title=""><p>2<br>Floors</p></div>
+					<div class="text-center"><img class="p-1" src="http://placehold.it/35x35/990099/ffffff" alt="" title=""><p>No<br>Garage</p></div>
 					
 				</div>
 
 				<div class="row no-gutters text-center text-md-left bg-faded rounded p-3" style="border: 1px solid #eee;">
 					<div class="col-md-8">
 						<h3 class="h6 strong mb-3">This plan can&nbsp;be&nbsp;customized!</h3>
-						<span>Tell us about your desired changes so we can prepare an estimate for the design service. Click the button to submit your request for pricing, or call <a class="strong" href="tel:18009132350">1-800-913-2350</a> for assistance.</span>
+						<span>Tell us about your desired changes so we can prepare an estimate for the design service. Click the button to submit your request for pricing, or <a class="strong text-nowrap" href="tel:18009132350">call 1-800-913-2350</a> for assistance.</span>
 					</div>
 					<div class="col-md-4 text-center h-100 align-middle my-4">
 						<a href="#" class="my-4 mx-5" class="btn btn-primary text-uppercase">Modify This Plan</a>
@@ -235,122 +351,6 @@ group: hw
 
 				<div class="alert alert-warning mt-3" role="alert">Unless you buy an "unlimited" plan set or a multi-use license you may only build one home plan from a set of plans.  Plans cannot be re-sold.</div>
 
-
-			</div>
-			<div class="col-lg-4 mr-0 pt-2">
-
-				<div class="h5 sticky-top bg-faded mt-2 ml-0 mr-0 mb-3 p-3 rounded">
-					<div class="d-flex justify-content-between align-items-center mb-2">
-						<h2 class="h5 d-inline-block mb-0"><b>Select Plan Set Options</b></h2><a href="#" class="h6 align-right text-primary mb-0">What's included?</a>
-					</div>
-					<div class="dropdown mb-3">
-						<button class="btn btn-lg btn-secondary dropdown-toggle text-right w-100" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-							<span class="float-left">PDF</span> $1400.00
-						</button>
-						<div class="dropdown-menu bg-faded p-0 m-0" aria-labelledby="dropdownMenu2">
-
-							<div class="btn-group-vertical" role="group" aria-label="Button group with nested dropdown">
-								<button type="button" class="list-group-item list-group-item-action active">
-									<div class="d-flex flex-row justify-content-between w-100 mb-3">
-										<div><h3 class="h5 mb-0"><i class="fa fa-check text-success" aria-hidden="true"></i> PDF Set</h3></div>
-										<div class="h5 mb-0">$1400.00</div>
-									</div>
-									<div class="mb-3 strong"><i>Recommended Option</i></div>
-									<div>PDF plan sets are best for fast electronic delivery and inexpensive local printing.</div>
-								</button>
-								<button type="button" class="list-group-item list-group-item-action w-100">
-									<div class="d-flex flex-row justify-content-between w-100 mb-3">
-										<div><h3 class="h5 mb-0">5 Copy Set</h3></div>
-										<div class="h5 mb-0">$1450.00</div>
-									</div>
-									<div><i>5 printed plan sets mailed to you.</i></div>
-								</button>
-								<button type="button" class="list-group-item list-group-item-action w-100">
-									<div class="d-flex flex-row justify-content-between w-100 mb-3">
-										<div><h3 class="h5 mb-0">CAD Set</h3></div> 
-										<div class="h5 mb-0">$2888.00</div>
-									</div>
-									<i>For use by design professionals to make substantial changes to your house plan and inexpensive local printing.</i>
-								</button>
-								<button type="button" class="list-group-item list-group-item-action w-100">
-									<div class="d-flex flex-row justify-content-between w-100 mb-3">
-										<div><h3 class="h5 mb-0">Single Set</h3></div> 
-										<div class="h5 mb-0">$750.00</div>
-									</div>
-									<i>One printed set for bidding purposes only.<br>Not a legal building set for construction.</i>
-								</button>
-							</div>
-
-						</div>
-					</div>
-
-					<h2 class="h5"><b>Select Foundation Options</b></h2>
-					<div class="dropdown mb-3">
-						<button class="btn btn-lg btn-secondary dropdown-toggle w-100 text-right" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-							<span class="float-left">Crawlspace</span> $0.00
-						</button>
-						<div class="dropdown-menu bg-faded p-0 m-0" aria-labelledby="dropdownMenu2">
-
-							<div class="btn-group-vertical" role="group" aria-label="Button group with nested dropdown">
-								<button type="button" class="list-group-item list-group-item-action active">
-									<div class="d-flex flex-row justify-content-between w-100 mb-3">
-										<div><h3 class="h5 mb-0"><i class="fa fa-check text-success" aria-hidden="true"></i> Crawlspace</h3></div>
-										<div class="h5 mb-0">$0.00</div>
-									</div>
-									<div>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-									tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.</div>
-								</button>
-								<button type="button" class="list-group-item list-group-item-action w-100">
-									<div class="d-flex flex-row justify-content-between w-100 mb-3">
-										<div><h3 class="h5 mb-0">No crawlspace</h3></div>
-										<div class="h5 mb-0">$0.00</div>
-									</div>
-									<div><i>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.</i></div>
-								</button>
-							</div>
-
-						</div>
-					</div>
-					<div class="dropdown mb-3">
-						<button class="btn btn-lg btn-secondary dropdown-toggle w-100 text-right" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-							<span class="float-left"><i>Optional Add-Ons</i></span> $1400.00
-						</button>
-						<div class="dropdown-menu bg-faded w-100" aria-labelledby="dropdownMenu2">
-							<div class="d-flex justify-content-between align-items-center mx-2">
-								<div class="form-check mb-1">
-									<label class="form-check-label">
-										<input class="form-check-input" type="checkbox" value="">&nbsp;Right-reading Reverse
-									</label>
-								</div>
-								<div>
-									$100.00
-								</div>
-							</div>
-							<div class="d-flex justify-content-between align-items-center mx-2">
-								<div class="form-check mb-1">
-									<label class="form-check-label">
-										<input class="form-check-input" type="checkbox" value="">&nbsp;Some other option
-									</label>
-								</div>
-								<div>
-									$1000.00
-								</div>
-							</div>
-						</div>
-					</div>
-
-					<div class="d-flex justify-content-between align-items-center h5 my-2">
-						<div>SUBTOTAL</div>
-						<div>$1400.00</div>
-					</div>
-					<div class="d-flex justify-content-end align-items-center mb-2">
-						<span class="h6 text-danger">Best Price Guaranteed<sup>*</sup></span>
-					</div>
-
-					<button class="btn btn-lg btn-warning w-100 text-uppercase">Add to Cart</button>
-					<div class="h6 text-center my-3">Or order by phone: <a href="tel:1-800-913-2350">1-800-913-2350</a></div>
-
-				</div>
 
 			</div>
 		</div>
