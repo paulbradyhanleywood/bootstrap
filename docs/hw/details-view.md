@@ -63,10 +63,10 @@ group: hw
 						<h2 class="h5 d-inline-block mb-0"><b>Select Plan Set Options</b></h2><a href="#" class="h6 align-right text-primary mb-0">What's included?</a>
 					</div>
 					<div class="dropdown mb-3">
-						<button class="btn btn-lg btn-secondary dropdown-toggle text-right w-100" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+						<button class="btn btn-lg btn-secondary dropdown-toggle text-right w-100" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 							<span class="float-left">PDF</span> $1400.00
 						</button>
-						<div class="dropdown-menu bg-faded p-0 m-0" aria-labelledby="dropdownMenu2">
+						<div class="dropdown-menu bg-faded p-0 m-0" aria-labelledby="dropdownMenu1">
 
 							<div class="btn-group-vertical" role="group" aria-label="Button group with nested dropdown">
 								<button type="button" class="list-group-item list-group-item-action active">
@@ -131,10 +131,10 @@ group: hw
 						</div>
 					</div>
 					<div class="dropdown mb-3">
-						<button class="btn btn-lg btn-secondary dropdown-toggle w-100 text-right" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+						<button class="btn btn-lg btn-secondary dropdown-toggle w-100 text-right" type="button" id="dropdownMenu3" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 							<span class="float-left"><i>Optional Add-Ons</i></span> $1400.00
 						</button>
-						<div class="dropdown-menu bg-faded w-100" aria-labelledby="dropdownMenu2">
+						<div class="dropdown-menu bg-faded w-100" aria-labelledby="dropdownMenu3">
 							<div class="d-flex justify-content-between align-items-center mx-2">
 								<div class="form-check mb-1">
 									<label class="form-check-label">
