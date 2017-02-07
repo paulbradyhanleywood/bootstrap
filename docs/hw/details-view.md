@@ -77,7 +77,7 @@ group: hw
 				</div>
 
 
-				<h2 class="mt-5 mb-2 text-uppercase strong">Key Specs</h2>
+				<h2 class="mt-5 ml-1 mb-2 text-uppercase strong">Key Specs</h2>
 				<hr class="mt-0">
 				<div class="d-flex justify-content-around align-items-center mb-4">
 					
@@ -91,7 +91,7 @@ group: hw
 
 				<div class="row no-gutters text-center text-md-left bg-faded rounded p-3" style="border: 1px solid #eee;">
 					<div class="col-md-8">
-						<h4 class="h6 strong">This plan can&nbsp;be&nbsp;customized!</h4>
+						<h4 class="h6 strong mb-3">This plan can&nbsp;be&nbsp;customized!</h4>
 						<span>Tell us about your desired changes so we can prepare an estimate for the design service. Click the button to submit your request for pricing, or call <a class="strong" href="tel:18009132350">1-800-913-2350</a> for assistance.</span>
 					</div>
 					<div class="col-md-4 text-center h-100 align-middle my-4">
@@ -101,13 +101,13 @@ group: hw
 
 				<h2 class="mt-5 mb-2 text-uppercase strong">Floor Plans</h2>
 				<hr class="mt-0">
-				<h3 class="h6 mt-3">Floor Plan - Main Floor Plan</h3>
+				<h3 class="h6 mt-3 ml-1">Floor Plan - Main Floor Plan</h3>
 				<img src="https://cdn.houseplans.com/product/rtjlrgtmjg17ufatn3nnlg25ct/w600.jpg" class="img-fluid" alt="" title="Main Floor Plan">
 				<h3 class="h6 mt-3">Floor Plan - Upper Floor Plan</h3>
 				<img src="https://cdn.houseplans.com/product/uvg4n4508noca8tqrrf16qmeke/w600.jpg" class="img-fluid" alt="" title="Upper Floor Plan">
 
 
-				<h2 class="mt-5 mb-2 text-uppercase strong">Full Specs &amp; Features</h2>
+				<h2 class="mt-5 ml-1 mb-2 text-uppercase strong">Full Specs &amp; Features</h2>
 				<table class="table">
 					<tbody>
 						<tr>
@@ -145,7 +145,7 @@ group: hw
 				<hr>
 
 
-				<h2 class="mt-5 mb-2 text-uppercase strong">What's Included In This Plan Set</h2>
+				<h2 class="mt-5 ml-1 mb-2 text-uppercase strong">What's Included In This Plan Set</h2>
 				<hr class="mt-0">
 				<a class="text-warning" href="#">See a sample plan set</a>
 				<ul>
@@ -189,9 +189,9 @@ group: hw
 				<a class="text-warning" href="#">* - See important information before purchasing.</a>
 
 
-				<h2 class="mt-5 mb-2 text-uppercase strong">Pricing</h2>
+				<h2 class="mt-5 ml-1 mb-2 text-uppercase strong">Pricing</h2>
 				<hr class="mt-0">
-				<h3 class="h6">Plan Options</h3>
+				<h3 class="h6 ml-1">Plan Options</h3>
 				<table class="table table-bordered">
 					<tr class="table-primary">
 						<td class="w-25 align-middle text-right">PDF&nbsp;Set <i><b>BEST&nbsp;VALUE!</b></i></td>
@@ -207,7 +207,7 @@ group: hw
 						<td>For use by design professionals to make substantial changes to your house plan and inexpensive local printing.</td>
 					</tr>
 				</table>
-				<h3 class="h6">Foundation Options</h3>
+				<h3 class="h6 ml-1">Foundation Options</h3>
 				<table class="table table-bordered">
 					<tr class="table-primary">
 						<td class="w-25 align-middle text-right">Crawlspace</td>
@@ -219,7 +219,7 @@ group: hw
 						<td>Ideal for level lot, lower level of home partially or fully underground.</td>
 					</tr>
 				</table>
-				<h3 class="h6">Additional Options</h3>
+				<h3 class="h6 ml-1">Additional Options</h3>
 				<table class="table table-bordered">
 					<tr class="table-primary">
 						<td class="w-25 align-middle text-right">Additional Copies</td>
@@ -239,7 +239,7 @@ group: hw
 			</div>
 			<div class="col-lg-4 mr-0 pt-2">
 
-				<div class="h5 sticky-top bg-faded mt-2 ml-3 mr-0 mb-3 p-3 rounded">
+				<div class="h5 sticky-top bg-faded mt-2 ml-0 mr-0 mb-3 p-3 rounded">
 					<div class="d-flex justify-content-between align-items-center mb-2">
 						<h2 class="h5 d-inline-block mb-0"><b>Select Plan Set Options</b></h2><a href="#" class="h6 align-right text-primary mb-0">What's included?</a>
 					</div>
