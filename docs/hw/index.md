@@ -5,14 +5,6 @@ description: HW Multisite Components
 group: hw
 ---
 
-<style>
-.jumbotron {
-	background: url( 'http://cdn.houseplans.com/product/83pciobqpkr9nvk6r2v9fofap5/w940x400.jpg' ) center center;
-	background-size: cover;
-}
-</style>
-
-
 
 <div class="container p-0 mt-4">
 
@@ -46,7 +38,7 @@ group: hw
 	</header>
 
 	<!-- Hero with Search -->
-	<div class="jumbotron jumbotron-fluid rounded-0">
+	<div class="jumbotron jumbotron-fluid rounded-0" style="background-image: url( 'http://cdn.houseplans.com/product/83pciobqpkr9nvk6r2v9fofap5/w940x400.jpg' ); background-position: center center; background-size: cover;">
 		<div class="row no-gutters text-center">
 			<div class="col-sm-1 col-md-3 col-lg-1"></div>
 			<div class="col-sm-10 col-md-6 col-lg-4 p-3 bg-faded">
