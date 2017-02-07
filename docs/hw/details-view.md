@@ -91,7 +91,7 @@ group: hw
 
 				<div class="row no-gutters text-center text-md-left bg-faded rounded p-3" style="border: 1px solid #eee;">
 					<div class="col-md-8">
-						<h4 class="h6 strong mb-3">This plan can&nbsp;be&nbsp;customized!</h4>
+						<h3 class="h6 strong mb-3">This plan can&nbsp;be&nbsp;customized!</h3>
 						<span>Tell us about your desired changes so we can prepare an estimate for the design service. Click the button to submit your request for pricing, or call <a class="strong" href="tel:18009132350">1-800-913-2350</a> for assistance.</span>
 					</div>
 					<div class="col-md-4 text-center h-100 align-middle my-4">
@@ -99,11 +99,11 @@ group: hw
 					</div>
 				</div>
 
-				<h2 class="mt-5 mb-2 text-uppercase strong">Floor Plans</h2>
+				<h2 class="mt-5 ml-1 mb-2 text-uppercase strong">Floor Plans</h2>
 				<hr class="mt-0">
 				<h3 class="h6 mt-3 ml-1">Floor Plan - Main Floor Plan</h3>
 				<img src="https://cdn.houseplans.com/product/rtjlrgtmjg17ufatn3nnlg25ct/w600.jpg" class="img-fluid" alt="" title="Main Floor Plan">
-				<h3 class="h6 mt-3">Floor Plan - Upper Floor Plan</h3>
+				<h3 class="h6 mt-3 ml-1">Floor Plan - Upper Floor Plan</h3>
 				<img src="https://cdn.houseplans.com/product/uvg4n4508noca8tqrrf16qmeke/w600.jpg" class="img-fluid" alt="" title="Upper Floor Plan">
 
 
@@ -147,7 +147,7 @@ group: hw
 
 				<h2 class="mt-5 ml-1 mb-2 text-uppercase strong">What's Included In This Plan Set</h2>
 				<hr class="mt-0">
-				<a class="text-warning" href="#">See a sample plan set</a>
+				<a class="ml-1 text-warning" href="#">See a sample plan set</a>
 				<ul>
 					<li>Lorem ipsum 1<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -186,7 +186,7 @@ group: hw
 					cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 					proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p></li>
 				</ul>				
-				<a class="text-warning" href="#">* - See important information before purchasing.</a>
+				<a class="ml-1 text-warning" href="#">* - See important information before purchasing.</a>
 
 
 				<h2 class="mt-5 ml-1 mb-2 text-uppercase strong">Pricing</h2>
@@ -493,30 +493,4 @@ group: hw
 
 
 <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
-
-<!-- Stickyfill -->
-<!-- style>
-.sticky {
-	position: -webkit-sticky;
-	position: sticky;
-	top: 0;
-}
-.sticky:before,
-.sticky:after {
-	content: '';
-	display: table;
-}
-</style -->
-<!-- script>
-	var stickyElements = document.getElementsByClassName('sticky');
-
-	for (var i = stickyElements.length - 1; i >= 0; i--) {
-		Stickyfill.add(stickyElements[i]);
-	}
-
-	//$('.sticky').Stickyfill();
-</script -->
-
-
-
 
