@@ -40,8 +40,8 @@ group: hw
 
 	<!-- Cost-to-build content -->
 	<section class="mt-5">
-		<h1 class="strong">Find out how much this house will cost to build</h1>
-		<h2><i>Our report will estimate your costs based on your location &amp; materials</i></h2>
+		<h1 class="display-2 mb-2 strong">Find out how much this house will cost to build</h1>
+		<h2 class="display-2 mb-2"><small><i>Our report will estimate your costs based on your location &amp; materials</i></small></h2>
 	</section>
 	<section class="mt-4">
 		<div class="row">
@@ -101,10 +101,10 @@ group: hw
 						</ul>
 					</div>
 				</div>
-				<div class="h6 mt-3">
+				<div class="h6 mt-3 p-1">
 					Our Cost-to-Build report is a helpful tool when budgeting for your new home. We will calculate basic build costs for your plan, based on the materials shown in the design and current pricing in your area of the U.S. or Canada. Your Cost-to-Build reports are typically completed within 1 business day and will be sent to the email on your order.
 				</div>
-				<div class="h6 mt-3">
+				<div class="h6 mt-3 p-1">
 					<a class="float-right text-center" href="#" target="_blank">
 						<img src="http://www.placehold.it/140x200/ff0000/ff00ff?text=View+Sample" class="rounded mx-3" alt="Sample Report">
 						<div class="figure-img text-center mt-3 strong">View Sample</div>
