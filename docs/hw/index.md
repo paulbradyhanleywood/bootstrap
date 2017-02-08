@@ -26,7 +26,7 @@ group: hw
 			</button>
 			<a class="navbar-brand" href="/hw/"><img class="ml-2" src="http://placehold.it/220x50/c7b0c6/011a47?text=FLOORPLANS" alt="floorplans"></a>
 			<div class="collapse navbar-collapse" id="navbarSupportedContent">
-				<ul class="navbar-nav mr-auto">
+				<ul class="navbar-nav ml-auto text-right">
 					<li class="nav-item text-uppercase"><h2 class="mb-0"><a class="h5 text-info mb-0 nav-link active" href="#">Search</a></h2></li>
 					<li class="nav-item text-uppercase"><h2 class="mb-0"><a class="h5 text-info mb-0 nav-link" href="#">Styles</a></h2></li>
 					<li class="nav-item text-uppercase"><h2 class="mb-0"><a class="h5 text-info mb-0 nav-link" href="/hw/collections/">Collections</a></h2></li>
