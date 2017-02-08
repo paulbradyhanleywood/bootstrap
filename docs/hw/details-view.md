@@ -40,8 +40,8 @@ group: hw
 
 	<!-- For sub-collections only -->
 	<nav class="breadcrumb mt-2 mx-2">
-		<a class="breadcrumb-item" href="/hw/collections/">Collections</a>
-		<a class="breadcrumb-item" href="/hw/builder-plans/">Builder Plans</a>
+		<a class="breadcrumb-item hidden-sm-down" href="/hw/collections/">Collections</a><a class="breadcrumb-item hidden-md-up" href="/hw/collections/">...</a>
+		<a class="breadcrumb-item hidden-sm-down" href="/hw/builder-plans/">Builder Plans</a><a class="breadcrumb-item hidden-md-up" href="/hw/collections/">...</a>
 		<a class="breadcrumb-item" href="/hw/builder-bungalows/">Builder Bungalows</a>
 		<span class="breadcrumb-item active">Details View</span>
 	</nav>
