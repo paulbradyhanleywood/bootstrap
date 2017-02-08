@@ -45,8 +45,8 @@ group: hw
 	</section>
 	<section class="mt-4">
 		<div class="row">
-			<div class="col-xs-4">
-				<div class="form-group p-4" style="border: 1px solid orange">
+			<div class="col-lg-4 col-xs-12">
+				<div class="form-group p-4" style="border: 1px solid #f87100"><!-- custom.scss orange -->
 
 					<form class="p-3" action="https://secure.houseplans.com/cart/add_cost_to_build" method="post">
 						<input type="hidden" name="planId" value="">
@@ -78,56 +78,45 @@ group: hw
 								<option value="PIER">Pier</option>
 						</select>
 						<button type="submit" class="btn btn-warning btn-lg w-100 text-center mt-4 mb-3">Add Report to Cart</button>
-						<p>or give us a call at <a href="tel:1-800-913-2350">1-800-913-2350</a></p>
+						<div class="w-100 text-center">or give us a call at <a href="tel:1-800-913-2350">1-800-913-2350</a></div>
 					</form>
 
 				</div>
 			</div>
-			<div class="col-xs-8">
+			<div class="col-lg-8 col-xs-12">
 
-				<div>
-
-					<div class="media">
-						<img class="d-flex mr-3" src="https://cdn.houseplans.com/product/ltvvl35n6glj7mrrb9i3j18he0/w180x120.jpg?v=4" width="180" height="120" alt="Craftsman Exterior - Front Elevation Plan #895-25 - Houseplans.com">
-						<div class="media-body">
-							<h5 class="mt-0">Cost-to-Build Report - <i>$49.99</i></h5>
-							<p><b>Plan #999-99</b></p>
-							<ul class="list-inline clearfix text-muted">
-									<li>2 Bedroom,</li>
-									<li>&nbsp;2 Bathroom,</li>
-							</ul>
-							<ul class="list-inline clearfix text-muted">
-									<li>1 Garage,</li>
-									<li>&nbsp;999 sq ft,</li>
-									<li>&nbsp;1 story</li>								
-							</ul>
-						</div>
+				<div class="media bg-faded p-3">
+					<img class="d-flex mr-3" src="https://cdn.houseplans.com/product/ltvvl35n6glj7mrrb9i3j18he0/w180x120.jpg?v=4" width="180" height="120" alt="Craftsman Exterior - Front Elevation Plan #895-25 - Houseplans.com">
+					<div class="media-body">
+						<h5 class="mt-0">Cost-to-Build Report - <i>$49.99</i></h5>
+						<b>Plan #999-99</b>
+						<ul class="list-inline clearfix m-0 text-muted">
+								<li class="list-inline-item mr-0">2 Bedroom,&nbsp;</li>
+								<li class="list-inline-item mr-0">2 Bathroom</li>
+						</ul>
+						<ul class="list-inline clearfix m-0 text-muted">
+								<li class="list-inline-item mr-0">1 Garage,&nbsp;</li>
+								<li class="list-inline-item mr-0">999 sq ft,&nbsp;</li>
+								<li class="list-inline-item mr-0">1 story</li>								
+						</ul>
 					</div>
-
 				</div>
-
-				<div class="mt-4">
-					<p>
-						Our Cost-to-Build report is a helpful tool when budgeting for your new home. We will calculate basic build costs for your plan, based on the materials shown in the design and current pricing in your area of the U.S. or Canada. Your Cost-to-Build reports are typically completed within 1 business day and will be sent to the email on your order.
+				<div class="h6 mt-3">
+					Our Cost-to-Build report is a helpful tool when budgeting for your new home. We will calculate basic build costs for your plan, based on the materials shown in the design and current pricing in your area of the U.S. or Canada. Your Cost-to-Build reports are typically completed within 1 business day and will be sent to the email on your order.
+				</div>
+				<div class="h6 mt-3">
+					<a class="float-right text-center" href="#" target="_blank">
+						<img src="http://www.placehold.it/140x200/ff0000/ff00ff?text=View+Sample" class="rounded mx-3" alt="Sample Report">
+						<div class="figure-img text-center mt-3 strong">View Sample</div>
+					</a>
+					<p class="text-muted">
+						<i>
+							Houseplans.com Cost-to-Build reports are prepared by our experienced plan experts using up-to-date data supplied by Xactware, Inc. Each plan takes up to an hour to prepare. When you receive your estimate, we can work with you to adjust material and quality variables to make your estimate as accurate as possible.
+						</i>
+						<div><a href="/cost-to-build-faq">See Frequently Asked Questions</a></div>
 					</p>
-
-					<div class="row">
-						<div class="col-xs-8">
-							<p class="text-muted">
-								<i>
-									Houseplans.com Cost-to-Build reports are prepared by our experienced plan experts using up-to-date data supplied by Xactware, Inc. Each plan takes up to an hour to prepare. When you receive your estimate, we can work with you to adjust material and quality variables to make your estimate as accurate as possible.
-								</i>
-							</p>
-							<a href="/cost-to-build-faq">See Frequently Asked Questions</a>
-						</div>
-						<div class="col-xs-3">
-							<a class="" href="#" target="_blank">
-								<img src="http://www.placehold.it/120x112" alt="Sample Report">
-								<div class="text-center strong">View Sample</div>
-							</a>
-						</div>
-					</div>
 				</div>
+
 			</div>
 
 		</div>
