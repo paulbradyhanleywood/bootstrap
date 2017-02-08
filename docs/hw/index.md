@@ -201,14 +201,14 @@ group: hw
 
 			</div>
 			<div class="col-lg-4 px-4 d-flex flex-column align-items-stretch justify-content-end" style="border-top: 1px solid lightgray; border-bottom: 1px solid lightgray;">
-				<div><h2 class="h6 mt-3 strong">Exclusive Feature</h2></div>
-				<div><h3 class="my-3">THE MODERN CABIN COLLECTION</h3></div>
+				<div><h2 class="h6 mt-3 mb-0 strong"><small>Exclusive Feature</small></h2></div>
+				<div><h3 class="mt-1 mb-3">THE MODERN CABIN COLLECTION</h3></div>
 				<div class="align-items-stretch">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
 					consequat. Duis aute irure dolor in reprehenderit.
 				</div>
-				<div class="mt-auto pt-2 pb-4">
+				<div class="mt-auto pt-1 pb-3">
 					<button type="button" class="btn btn-primary btn-block py-2 text-uppercase">View Collection</button>
 				</div>
 			</div><!-- ./col -->
@@ -226,11 +226,10 @@ group: hw
 			<div class="border text-center px-3"  style="border: 1px solid lightgray;"><!-- BS4 .border class missing -->
 
 				<div class="d-flex flex-column justify-content-end"  style="height: 100%"><!-- to use actual bottom edge -->
-					<div><h2 class="h6 mt-3">Featured Designer</h2></div>
-					<div><h3 class="text-uppercase">David Wiggins</h3></div>
-					<div class="align-items-stretch">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-					tempor incididunt ut labore et dolore.</div>
-					<div class="mt-auto pt-2 pb-4"><button class="btn btn-primary btn-block text-uppercase">See All Plans</button></div>
+					<div><h2 class="h6 mt-2 mb-0 strong"><small>Featured Designer</small></h2></div>
+					<div><h3 class="h5 mt-0 mb-0 text-uppercase">David Wiggins</h3></div>
+					<div class="align-items-stretch mt-1 pt-1 mb-1"><small>From now until the end of Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla suscipit daplibus eu...</small></div>
+					<div class="mt-auto mt-1 pb-3"><button class="btn btn-primary btn-block text-uppercase">See All Plans</button></div>
 				</div>
 
 			</div>
@@ -255,7 +254,7 @@ group: hw
 					<div class="media">
 						<img class="d-flex mr-3" src="http://placehold.it/150x100/66ff66/ffffff" alt="Generic placeholder image">
 						<div class="media-body text-info align-self-center">
-							<a href="#" class="text-info"><h3 class="h5 text-uppercase">David Gardner Architects</h3></a>
+							<a href="#" class="text-info"><h3 class="h5 mb-0 text-uppercase">David Gardner Architects</h3></a>
 							Classic, large houses with curb appeal
 						</div>
 					</div>
@@ -266,31 +265,7 @@ group: hw
 					<div class="media">
 						<img class="d-flex mr-3" src="http://placehold.it/150x100/66ff66/ffffff" alt="Generic placeholder image">
 						<div class="media-body text-info align-self-center">
-							<a href="#" class="text-info"><h3 class="h5 text-uppercase">Visbeen Architects</h3></a>
-							Classic, large houses with curb appeal
-						</div>
-					</div>
-
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-md mt-2">
-
-					<div class="media">
-						<img class="d-flex mr-3" src="http://placehold.it/150x100/66ff66/ffffff" alt="Generic placeholder image">
-						<div class="media-body text-info align-self-center">
-							<a href="#" class="text-info"><h3 class="h5 text-uppercase">David Gardner Architects</h3></a>
-							Classic, large houses with curb appeal
-						</div>
-					</div>
-
-				</div>
-				<div class="col-md mt-2">
-
-					<div class="media">
-						<img class="d-flex mr-3" src="http://placehold.it/150x100/66ff66/ffffff" alt="Generic placeholder image">
-						<div class="media-body text-info align-self-center">
-							<a href="#" class="text-info"><h3 class="h5 text-uppercase">Visbeen Architects</h3></a>
+							<a href="#" class="text-info"><h3 class="h5 mb-0 text-uppercase">Visbeen Architects</h3></a>
 							Classic, large houses with curb appeal
 						</div>
 					</div>
@@ -303,7 +278,7 @@ group: hw
 					<div class="media">
 						<img class="d-flex mr-3" src="http://placehold.it/150x100/66ff66/ffffff" alt="Generic placeholder image">
 						<div class="media-body text-info align-self-center">
-							<a href="#" class="text-info"><h3 class="h5 text-uppercase">David Gardner Architects</h3></a>
+							<a href="#" class="text-info"><h3 class="h5 mb-0 text-uppercase">David Gardner Architects</h3></a>
 							Classic, large houses with curb appeal
 						</div>
 					</div>
@@ -314,31 +289,7 @@ group: hw
 					<div class="media">
 						<img class="d-flex mr-3" src="http://placehold.it/150x100/66ff66/ffffff" alt="Generic placeholder image">
 						<div class="media-body text-info align-self-center">
-							<a href="#" class="text-info"><h3 class="h5 text-uppercase">Visbeen Architects</h3></a>
-							Classic, large houses with curb appeal
-						</div>
-					</div>
-
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-md mt-2">
-
-					<div class="media">
-						<img class="d-flex mr-3" src="http://placehold.it/150x100/66ff66/ffffff" alt="Generic placeholder image">
-						<div class="media-body text-info align-self-center">
-							<a href="#" class="text-info"><h3 class="h5 text-uppercase">David Gardner Architects</h3></a>
-							Classic, large houses with curb appeal
-						</div>
-					</div>
-
-				</div>
-				<div class="col-md mt-2">
-
-					<div class="media">
-						<img class="d-flex mr-3" src="http://placehold.it/150x100/66ff66/ffffff" alt="Generic placeholder image">
-						<div class="media-body text-info align-self-center">
-							<a href="#" class="text-info"><h3 class="h5 text-uppercase">Visbeen Architects</h3></a>
+							<a href="#" class="text-info"><h3 class="h5 mb-0 text-uppercase">Visbeen Architects</h3></a>
 							Classic, large houses with curb appeal
 						</div>
 					</div>
@@ -351,7 +302,7 @@ group: hw
 					<div class="media">
 						<img class="d-flex mr-3" src="http://placehold.it/150x100/66ff66/ffffff" alt="Generic placeholder image">
 						<div class="media-body text-info align-self-center">
-							<a href="#" class="text-info"><h3 class="h5 text-uppercase">David Gardner Architects</h3></a>
+							<a href="#" class="text-info"><h3 class="h5 mb-0 text-uppercase">David Gardner Architects</h3></a>
 							Classic, large houses with curb appeal
 						</div>
 					</div>
@@ -362,7 +313,55 @@ group: hw
 					<div class="media">
 						<img class="d-flex mr-3" src="http://placehold.it/150x100/66ff66/ffffff" alt="Generic placeholder image">
 						<div class="media-body text-info align-self-center">
-							<a href="#" class="text-info"><h3 class="h5 text-uppercase">Visbeen Architects</h3></a>
+							<a href="#" class="text-info"><h3 class="h5 mb-0 text-uppercase">Visbeen Architects</h3></a>
+							Classic, large houses with curb appeal
+						</div>
+					</div>
+
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md mt-2">
+
+					<div class="media">
+						<img class="d-flex mr-3" src="http://placehold.it/150x100/66ff66/ffffff" alt="Generic placeholder image">
+						<div class="media-body text-info align-self-center">
+							<a href="#" class="text-info"><h3 class="h5 mb-0 text-uppercase">David Gardner Architects</h3></a>
+							Classic, large houses with curb appeal
+						</div>
+					</div>
+
+				</div>
+				<div class="col-md mt-2">
+
+					<div class="media">
+						<img class="d-flex mr-3" src="http://placehold.it/150x100/66ff66/ffffff" alt="Generic placeholder image">
+						<div class="media-body text-info align-self-center">
+							<a href="#" class="text-info"><h3 class="h5 mb-0 text-uppercase">Visbeen Architects</h3></a>
+							Classic, large houses with curb appeal
+						</div>
+					</div>
+
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md mt-2">
+
+					<div class="media">
+						<img class="d-flex mr-3" src="http://placehold.it/150x100/66ff66/ffffff" alt="Generic placeholder image">
+						<div class="media-body text-info align-self-center">
+							<a href="#" class="text-info"><h3 class="h5 mb-0 text-uppercase">David Gardner Architects</h3></a>
+							Classic, large houses with curb appeal
+						</div>
+					</div>
+
+				</div>
+				<div class="col-md mt-2">
+
+					<div class="media">
+						<img class="d-flex mr-3" src="http://placehold.it/150x100/66ff66/ffffff" alt="Generic placeholder image">
+						<div class="media-body text-info align-self-center">
+							<a href="#" class="text-info"><h3 class="h5 mb-0 text-uppercase">Visbeen Architects</h3></a>
 							Classic, large houses with curb appeal
 						</div>
 					</div>
