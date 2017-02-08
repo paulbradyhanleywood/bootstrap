@@ -43,7 +43,7 @@ group: hw
 		<h1 class="display-2 mb-2 strong">Find out how much this house will cost to build</h1>
 		<h2 class="display-2 mb-2"><small><i>Our report will estimate your costs based on your location &amp; materials</i></small></h2>
 	</section>
-	<section class="mt-4">
+	<section class="mt-4 mb-3">
 		<div class="row">
 			<div class="col-lg-4 col-xs-12">
 				<div class="form-group p-4" style="border: 1px solid #f87100"><!-- custom.scss orange -->
@@ -103,13 +103,12 @@ group: hw
 				</div>
 				<div class="h6 mt-3 p-1">
 					Our Cost-to-Build report is a helpful tool when budgeting for your new home. We will calculate basic build costs for your plan, based on the materials shown in the design and current pricing in your area of the U.S. or Canada. Your Cost-to-Build reports are typically completed within 1 business day and will be sent to the email on your order.
-				</div>
-				<div class="h6 mt-3 p-1">
+					<br>
 					<a class="float-right text-center" href="#" target="_blank">
-						<img src="http://www.placehold.it/140x200/ff0000/ff00ff?text=View+Sample" class="rounded mx-3" alt="Sample Report">
+						<img src="http://www.placehold.it/140x190/ff0000/ff00ff?text=View+Sample" class="rounded mx-3" alt="Sample Report">
 						<div class="figure-img text-center mt-3 strong">View Sample</div>
 					</a>
-					<p class="text-muted">
+					<p class="text-muted mt-3">
 						<i>
 							Houseplans.com Cost-to-Build reports are prepared by our experienced plan experts using up-to-date data supplied by Xactware, Inc. Each plan takes up to an hour to prepare. When you receive your estimate, we can work with you to adjust material and quality variables to make your estimate as accurate as possible.
 						</i>
@@ -123,6 +122,16 @@ group: hw
 
 	</section>
 
+
+	<!-- Important Note -->
+	<section>
+		<div class="alert-warning rounded p-3">
+			<h5>Important Note</h5>
+			<p>Actual construction costs for this house may differ from the values shown in the report due to changes in economic conditions, building contractor availability and specific building contractor attributes. Cost-to-Build Reports may not be returned for credit and/or refund under any circumstances.The estimate does not include costs for such items as excavation, land value or detached structures. This information is to be used for budgetary purposes only and is provided on the condition and understanding that it represents only an estimate and that Houseplans, LLC is not responsible for good faith errors.</p>
+
+			<p>* Choosing the Premium build quality means your report will be prepared using all premium products and workmanship. This will effectively double the price which is typically calculated for the above average quality.</p>
+		</div>
+	</section>
 
 
 	<!-- Footer -->
