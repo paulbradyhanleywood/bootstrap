@@ -3,8 +3,6 @@
 // Copy variables from `_variables.scss` to this file to override default values
 // without modifying source files.
 
-// $spacer: 1rem; // 1rem default;
-// $link-color:  #000080;
 
 $brand-primary:	 			#714872; // Custom purple (default was $blue)
 // $brand-secondary: (default lightgray)
@@ -14,9 +12,9 @@ $brand-warning: 			#f87100; // Orange
 $brand-danger:				#332735; // Dark Purple
 
 
-
 // Links (ln 190)
 $link-hover-color: 			#ffa500;
+
 
 // Components (ln 314)
 $border-radius:			.5rem; // was .25rem (regular)
@@ -35,12 +33,12 @@ $font-size-h4:   1.2rem; // was 1.5rem;
 $font-size-h5:   1rem; // was 1.5rem;
 $font-size-h6: 	 .85rem; // was 1rem;
 
+$headings-line-height: 	1.6; // was 1.1;
 
-// $headings-color:		black; // All <H*>
-$headings-line-height: 	1;
 
 // Buttons (358)
 $btn-line-height: 1.1rem;
+
 
 // Nav (602)
 $navbar-toggler-padding-x: 1.5rem;
@@ -49,6 +47,7 @@ $navbar-toggler-padding-x: 1.5rem;
 // Jumbotron (680)
 $jumbotron-bg:  	 #999;
 $jumbotron-padding:  1rem;
+
 
 // Cards (708)
 $card-border-radius: 0;
