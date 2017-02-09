@@ -40,7 +40,7 @@ group: hw
 
 	<!-- For sub-collections only -->
 	<nav class="breadcrumb mt-2 mx-2">
-		<a class="breadcrumb-item hidden-sm-down" href="/hw/collections/">Collections</a><a class="breadcrumb-item hidden-md-up" href="/hw/collections/">...</a>
+		<a class="breadcrumb-item hidden-sm-down" href="/hw/collections/">Collections</a>
 		<a class="breadcrumb-item hidden-sm-down" href="/hw/builder-plans/">Builder Plans</a><a class="breadcrumb-item hidden-md-up" href="/hw/collections/">...</a>
 		<a class="breadcrumb-item" href="/hw/builder-bungalows/">Builder Bungalows</a>
 		<span class="breadcrumb-item active">Details View</span>
@@ -56,9 +56,9 @@ group: hw
 			</div>
 		</div>
 		<div class="row no-gutters">
-			<div class="col-lg-4 mr-0 pt-2">
+			<div class="col-lg-4 mr-0 pt-2 sticky-top">
 
-				<div class="h5 sticky-top bg-faded mt-2 ml-0 mr-0 mb-3 p-3 rounded">
+				<div class="h5 bg-faded mt-2 ml-0 mr-0 mb-3 p-3 rounded">
 					<div class="d-flex justify-content-between align-items-center mb-2">
 						<h2 class="h5 d-inline-block mb-0"><b>Select Plan Set Options</b></h2><a href="#" class="h6 align-right text-primary mb-0">What's included?</a>
 					</div>
@@ -170,6 +170,17 @@ group: hw
 					<div class="h6 text-center my-3">Or order by phone: <a href="tel:1-800-913-2350">1-800-913-2350</a></div>
 
 				</div>
+
+
+				<!-- Cost-to-Build -->
+				<section>
+					<div class="rounded p-3" style="border: 1px solid #ddd;">
+						<h5>How much will this cost to build?</h5>
+						<p>This report will provide you cost estimates based on location and building materials.</p>
+
+						<a href="/hw/cost-to-build/" class="btn btn-lg btn-primary w-100 text-uppercase">Get Cost-To-Build Report</a>
+					</div>
+				</section>
 
 			</div>
 			<div class="col-lg-8 mr-0 my-3 pl-3">
@@ -354,6 +365,7 @@ group: hw
 
 			</div>
 		</div>
+
 	</section>
 
 
