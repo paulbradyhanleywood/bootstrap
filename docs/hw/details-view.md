@@ -56,131 +56,135 @@ group: hw
 			</div>
 		</div>
 		<div class="row no-gutters">
-			<div class="col-lg-4 mr-0 pt-2 sticky-top">
+			<div class="col-lg-4 mr-0 pt-2">
 
-				<div class="h5 bg-faded mt-2 ml-0 mr-0 mb-3 p-3 rounded">
-					<div class="d-flex justify-content-between align-items-center mb-2">
-						<h2 class="h5 d-inline-block mb-0"><b>Select Plan Set Options</b></h2><a href="#" class="h6 align-right text-primary mb-0">What's included?</a>
-					</div>
-					<div class="dropdown mb-3">
-						<button class="btn btn-lg btn-secondary dropdown-toggle text-right w-100" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-							<span class="float-left">PDF</span> $1400.00
-						</button>
-						<div class="dropdown-menu bg-faded p-0 m-0" aria-labelledby="dropdownMenu1">
+				<div class="sticky-top">
 
-							<div class="btn-group-vertical" role="group" aria-label="Button group with nested dropdown">
-								<button type="button" class="list-group-item list-group-item-action active">
-									<div class="d-flex flex-row justify-content-between w-100 mb-3">
-										<div><h3 class="h5 mb-0"><i class="fa fa-check text-success" aria-hidden="true"></i> PDF Set</h3></div>
-										<div class="h5 mb-0">$1400.00</div>
-									</div>
-									<div class="mb-3 strong"><i>Recommended Option</i></div>
-									<div>PDF plan sets are best for fast electronic delivery and inexpensive local printing.</div>
-								</button>
-								<button type="button" class="list-group-item list-group-item-action w-100">
-									<div class="d-flex flex-row justify-content-between w-100 mb-3">
-										<div><h3 class="h5 mb-0">5 Copy Set</h3></div>
-										<div class="h5 mb-0">$1450.00</div>
-									</div>
-									<div><i>5 printed plan sets mailed to you.</i></div>
-								</button>
-								<button type="button" class="list-group-item list-group-item-action w-100">
-									<div class="d-flex flex-row justify-content-between w-100 mb-3">
-										<div><h3 class="h5 mb-0">CAD Set</h3></div> 
-										<div class="h5 mb-0">$2888.00</div>
-									</div>
-									<i>For use by design professionals to make substantial changes to your house plan and inexpensive local printing.</i>
-								</button>
-								<button type="button" class="list-group-item list-group-item-action w-100">
-									<div class="d-flex flex-row justify-content-between w-100 mb-3">
-										<div><h3 class="h5 mb-0">Single Set</h3></div> 
-										<div class="h5 mb-0">$750.00</div>
-									</div>
-									<i>One printed set for bidding purposes only.<br>Not a legal building set for construction.</i>
-								</button>
-							</div>
-
+					<div class="h5 bg-faded mt-2 ml-0 mr-0 mb-3 p-3 rounded">
+						<div class="d-flex justify-content-between align-items-center mb-2">
+							<h2 class="h5 d-inline-block mb-0"><b>Select Plan Set Options</b></h2><a href="#" class="h6 align-right text-primary mb-0">What's included?</a>
 						</div>
-					</div>
+						<div class="dropdown mb-3">
+							<button class="btn btn-lg btn-secondary dropdown-toggle text-right w-100" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+								<span class="float-left">PDF</span> $1400.00
+							</button>
+							<div class="dropdown-menu bg-faded p-0 m-0" aria-labelledby="dropdownMenu1">
 
-					<h2 class="h5"><b>Select Foundation Options</b></h2>
-					<div class="dropdown mb-3">
-						<button class="btn btn-lg btn-secondary dropdown-toggle w-100 text-right" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-							<span class="float-left">Crawlspace</span> $0.00
-						</button>
-						<div class="dropdown-menu bg-faded p-0 m-0" aria-labelledby="dropdownMenu2">
+								<div class="btn-group-vertical" role="group" aria-label="Button group with nested dropdown">
+									<button type="button" class="list-group-item list-group-item-action active">
+										<div class="d-flex flex-row justify-content-between w-100 mb-3">
+											<div><h3 class="h5 mb-0"><i class="fa fa-check text-success" aria-hidden="true"></i> PDF Set</h3></div>
+											<div class="h5 mb-0">$1400.00</div>
+										</div>
+										<div class="mb-3 strong"><i>Recommended Option</i></div>
+										<div>PDF plan sets are best for fast electronic delivery and inexpensive local printing.</div>
+									</button>
+									<button type="button" class="list-group-item list-group-item-action w-100">
+										<div class="d-flex flex-row justify-content-between w-100 mb-3">
+											<div><h3 class="h5 mb-0">5 Copy Set</h3></div>
+											<div class="h5 mb-0">$1450.00</div>
+										</div>
+										<div><i>5 printed plan sets mailed to you.</i></div>
+									</button>
+									<button type="button" class="list-group-item list-group-item-action w-100">
+										<div class="d-flex flex-row justify-content-between w-100 mb-3">
+											<div><h3 class="h5 mb-0">CAD Set</h3></div> 
+											<div class="h5 mb-0">$2888.00</div>
+										</div>
+										<i>For use by design professionals to make substantial changes to your house plan and inexpensive local printing.</i>
+									</button>
+									<button type="button" class="list-group-item list-group-item-action w-100">
+										<div class="d-flex flex-row justify-content-between w-100 mb-3">
+											<div><h3 class="h5 mb-0">Single Set</h3></div> 
+											<div class="h5 mb-0">$750.00</div>
+										</div>
+										<i>One printed set for bidding purposes only.<br>Not a legal building set for construction.</i>
+									</button>
+								</div>
 
-							<div class="btn-group-vertical" role="group" aria-label="Button group with nested dropdown">
-								<button type="button" class="list-group-item list-group-item-action active">
-									<div class="d-flex flex-row justify-content-between w-100 mb-3">
-										<div><h3 class="h5 mb-0"><i class="fa fa-check text-success" aria-hidden="true"></i> Crawlspace</h3></div>
-										<div class="h5 mb-0">$0.00</div>
-									</div>
-									<div>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-									tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.</div>
-								</button>
-								<button type="button" class="list-group-item list-group-item-action w-100">
-									<div class="d-flex flex-row justify-content-between w-100 mb-3">
-										<div><h3 class="h5 mb-0">No crawlspace</h3></div>
-										<div class="h5 mb-0">$0.00</div>
-									</div>
-									<div><i>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.</i></div>
-								</button>
-							</div>
-
-						</div>
-					</div>
-					<div class="dropdown mb-3">
-						<button class="btn btn-lg btn-secondary dropdown-toggle w-100 text-right" type="button" id="dropdownMenu3" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-							<span class="float-left"><i>Optional Add-Ons</i></span> $1400.00
-						</button>
-						<div class="dropdown-menu bg-faded w-100" aria-labelledby="dropdownMenu3">
-							<div class="d-flex justify-content-between align-items-center mx-2">
-								<div class="form-check mb-1">
-									<label class="form-check-label">
-										<input class="form-check-input" type="checkbox" value="">&nbsp;Right-reading Reverse
-									</label>
-								</div>
-								<div>
-									$100.00
-								</div>
-							</div>
-							<div class="d-flex justify-content-between align-items-center mx-2">
-								<div class="form-check mb-1">
-									<label class="form-check-label">
-										<input class="form-check-input" type="checkbox" value="">&nbsp;Some other option
-									</label>
-								</div>
-								<div>
-									$1000.00
-								</div>
 							</div>
 						</div>
+
+						<h2 class="h5"><b>Select Foundation Options</b></h2>
+						<div class="dropdown mb-3">
+							<button class="btn btn-lg btn-secondary dropdown-toggle w-100 text-right" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+								<span class="float-left">Crawlspace</span> $0.00
+							</button>
+							<div class="dropdown-menu bg-faded p-0 m-0" aria-labelledby="dropdownMenu2">
+
+								<div class="btn-group-vertical" role="group" aria-label="Button group with nested dropdown">
+									<button type="button" class="list-group-item list-group-item-action active">
+										<div class="d-flex flex-row justify-content-between w-100 mb-3">
+											<div><h3 class="h5 mb-0"><i class="fa fa-check text-success" aria-hidden="true"></i> Crawlspace</h3></div>
+											<div class="h5 mb-0">$0.00</div>
+										</div>
+										<div>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+										tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.</div>
+									</button>
+									<button type="button" class="list-group-item list-group-item-action w-100">
+										<div class="d-flex flex-row justify-content-between w-100 mb-3">
+											<div><h3 class="h5 mb-0">No crawlspace</h3></div>
+											<div class="h5 mb-0">$0.00</div>
+										</div>
+										<div><i>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.</i></div>
+									</button>
+								</div>
+
+							</div>
+						</div>
+						<div class="dropdown mb-3">
+							<button class="btn btn-lg btn-secondary dropdown-toggle w-100 text-right" type="button" id="dropdownMenu3" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+								<span class="float-left"><i>Optional Add-Ons</i></span> $1400.00
+							</button>
+							<div class="dropdown-menu bg-faded w-100" aria-labelledby="dropdownMenu3">
+								<div class="d-flex justify-content-between align-items-center mx-2">
+									<div class="form-check mb-1">
+										<label class="form-check-label">
+											<input class="form-check-input" type="checkbox" value="">&nbsp;Right-reading Reverse
+										</label>
+									</div>
+									<div>
+										$100.00
+									</div>
+								</div>
+								<div class="d-flex justify-content-between align-items-center mx-2">
+									<div class="form-check mb-1">
+										<label class="form-check-label">
+											<input class="form-check-input" type="checkbox" value="">&nbsp;Some other option
+										</label>
+									</div>
+									<div>
+										$1000.00
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div class="d-flex justify-content-between align-items-center h5 my-2">
+							<div>SUBTOTAL</div>
+							<div>$1400.00</div>
+						</div>
+						<div class="d-flex justify-content-end align-items-center mb-2">
+							<span class="h6 text-danger">Best Price Guaranteed<sup>*</sup></span>
+						</div>
+
+						<button class="btn btn-lg btn-warning w-100 text-uppercase">Add to Cart</button>
+						<div class="h6 text-center my-3">Or order by phone: <a href="tel:1-800-913-2350">1-800-913-2350</a></div>
+
 					</div>
 
-					<div class="d-flex justify-content-between align-items-center h5 my-2">
-						<div>SUBTOTAL</div>
-						<div>$1400.00</div>
-					</div>
-					<div class="d-flex justify-content-end align-items-center mb-2">
-						<span class="h6 text-danger">Best Price Guaranteed<sup>*</sup></span>
-					</div>
 
-					<button class="btn btn-lg btn-warning w-100 text-uppercase">Add to Cart</button>
-					<div class="h6 text-center my-3">Or order by phone: <a href="tel:1-800-913-2350">1-800-913-2350</a></div>
+					<!-- Cost-to-Build -->
+					<section>
+						<div class="rounded p-3" style="border: 1px solid #ddd;">
+							<h5>How much will this cost to build?</h5>
+							<p>This report will provide you cost estimates based on location and building materials.</p>
 
-				</div>
+							<a href="/hw/cost-to-build/" class="btn btn-lg btn-primary w-100 text-uppercase">Get Cost-To-Build Report</a>
+						</div>
+					</section>
 
-
-				<!-- Cost-to-Build -->
-				<section>
-					<div class="rounded p-3" style="border: 1px solid #ddd;">
-						<h5>How much will this cost to build?</h5>
-						<p>This report will provide you cost estimates based on location and building materials.</p>
-
-						<a href="/hw/cost-to-build/" class="btn btn-lg btn-primary w-100 text-uppercase">Get Cost-To-Build Report</a>
-					</div>
-				</section>
+				</div><!-- ./sticky-top -->
 
 			</div>
 			<div class="col-lg-8 mr-0 my-3 pl-3">
