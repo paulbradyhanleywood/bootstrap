@@ -242,59 +242,664 @@ group: hw
 
 
 	<section class="mt-5">
-		<h2 class="display-2 mb-2 px-2 strong">Home Quality Definitions</h2>
+		<h2 id="Home_quality_definitions" class="display-2 mb-2 px-2 strong">Home Quality Definitions</h2>
 	</section>
-	<section class="mt-4 mb-3">
+	<div class="row">
+		<div class="col-md-2"></div>
+		<div class="col-md-8">
 
-	</section>
+			<section class="mt-4 mb-3">
+				<ul>
+					<li>
+						<a data-anchor-link="true" href="#Foundation">Foundation</a>
+						</li>
+					<li>
+						<a data-anchor-link="true" href="#Roof">Roof</a>
+						</li>
+					<li>
+						<a data-anchor-link="true" href="#ExteriorWalls">Exterior Walls</a>
+						</li>
+					<li>
+						<a data-anchor-link="true" href="#InteriorWalls">Interior Walls</a>
+						</li>
+					<li>
+						<a data-anchor-link="true" href="#Cabinets_Fixtures">Cabinets/Fixtures</a>
+						</li>
+					<li>
+						<a data-anchor-link="true" href="#Flooring">Flooring</a>
+					</li>
+				</ul>
+				<a data-anchor-link="true" href="#" class="top-of-page">top of page</a>
+			</section>
+
+		</div>
+		<div class="col-md-2"></div>
+	</div><!-- ./row -->
+
+
 
 
 	<section class="mt-5">
-		<h2 class="display-2 mb-2 px-2 strong">Foundations</h2>
+		<h2 id="Foundation" class="display-2 mb-2 px-2 strong">Foundations</h2>
 	</section>
-	<section class="mt-4 mb-3">
+	<div class="row">
+		<div class="col-md-2"></div>
+		<div class="col-md-8">
+			<section class="mt-4 mb-3">
 
-	</section>
+				<table class="table table-bordered">
+					<thead>					
+						<tr>
+							<th>
+								Item</th>
+							<th>
+								Economy</th>
+							<th>
+								Standard</th>
+							<th>
+								Above Average</th>
+							<th>
+								Premium</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td>
+								<strong>Foundation Shape</strong>
+							</td>
+							<td>
+								Rectangle or L-shape.
+							</td>
+							<td>
+								Rectangle or L-shape with one or two offsets and/or cantilevers.
+							</td>
+							<td>
+								Mostly L- or T-shape with several offsets or cantilevers.
+							</td>
+							<td>
+								Irregular more often than not. Multiple offsets and angled sections with cantilevered areas such as bay or bow windows.
+							</td>
+						</tr>
+						<tr>
+							<td>
+								<strong>Offsets</strong>
+							</td>
+							<td>
+								None.
+							</td>
+							<td>
+								One or two offsets and/or cantilevers.
+							</td>
+							<td>
+								Several offsets or cantilevers.
+							</td>
+							<td>
+								Multiple offsets and angled sections with cantilevered areas such as bay or bow windows.
+							</td>
+						</tr>
+					</tbody>
+				</table>
+
+			</section>
+			<a data-anchor-link="true" href="#" class="top-of-page">top of page</a>
+		</div>
+		<div class="col-md-2"></div>
+	</div><!-- ./row -->
+
+
 
 
 	<section class="mt-5">
-		<h2 class="display-2 mb-2 px-2 strong">Roof</h2>
+		<h2 id="Roof" class="display-2 mb-2 px-2 strong">Roof</h2>
 	</section>
-	<section class="mt-4 mb-3">
+	<div class="row">
+		<div class="col-md-2"></div>
+		<div class="col-md-8">
+			<section class="mt-4 mb-3">
 
-	</section>
+				<table class="table table-bordered">
+					<thead>
+						<tr>
+							<th>
+								Item
+							</th>
+							<th>
+								Economy
+							</th>
+							<th>
+								Standard
+							</th>
+							<th>
+								Above Average
+							</th>
+							<th>
+								Premium
+							</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td>
+								<strong>Type</strong>
+							</td>
+							<td>
+								Straight gable.
+							</td>
+							<td>
+								Gable or hip with one or two overbuilds.
+							</td>
+							<td>
+								Gable or hip, with several overbuilds and/or dormers.
+							</td>
+							<td>
+								Gable, hip, or combination. Multiple overbuilds to accommodate shape of the home, with several dormers as well.
+							</td>
+						</tr>
+						<tr>
+							<td>
+								<strong>Style</strong>
+							</td>
+							<td>
+								Manufactured roof trusses or conventional stick frame.
+							</td>
+							<td>
+								Manufactured roof trusses or conventional stick frame.
+							</td>
+							<td>
+								Manufactured roof trusses or conventional stick frame.
+							</td>
+							<td>
+								Conventional stick framing (due to the complexity of shape).
+							</td>
+						</tr>
+						<tr>
+							<td>
+								<strong>Slope</strong>
+							</td>
+							<td>
+								Less than 6/12.
+							</td>
+							<td>
+								Less than 6/12.
+							</td>
+							<td>
+								6/12 to 8/12.
+							</td>
+							<td>
+								Often 8/12 or higher.
+							</td>
+						</tr>
+						<tr>
+							<td>
+								<strong>Material</strong>
+							</td>
+							<td>
+								Asphalt composition or asphalt shingle.
+							</td>
+							<td>
+								Asphalt composition to lower-end architectural composition or asphalt shingle.
+							</td>
+							<td>
+								High-end architectural composition shingle to metal and/or concrete tile.
+							</td>
+							<td>
+								Highest quality roof covering. Metal, slate, or clay tile not uncommon.
+							</td>
+						</tr>
+					</tbody>
+				</table>
+
+			</section>
+			<a data-anchor-link="true" href="#" class="top-of-page">top of page</a>
+		</div>
+		<div class="col-md-2"></div>
+	</div><!-- ./row -->
+
+
 
 
 	<section class="mt-5">
-		<h2 class="display-2 mb-2 px-2 strong">Exterior Walls</h2>
+		<h2 id="ExteriorWalls" class="display-2 mb-2 px-2 strong">Exterior Walls</h2>
 	</section>
-	<section class="mt-4 mb-3">
+	<div class="row">
+		<div class="col-md-2"></div>
+		<div class="col-md-8">
+			<section class="mt-4 mb-3">
 
-	</section>
+				<table class="table table-bordered">
+					<thead>
+						<tr>
+							<th>
+								Item</th>
+							<th>
+								Economy</th>
+							<th>
+								Standard</th>
+							<th>
+								Above Average</th>
+							<th>
+								Premium</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td>
+								<strong>Siding</strong>
+							</td>
+							<td>
+								Vinyl or aluminum to Masonite.
+							</td>
+							<td>
+								Medium-grade vinyl or aluminum siding to Masonite or natural wood (based on climate).
+							</td>
+							<td>
+								Depends on style of home (colonial vs. contemporary): high-grade vinyl or aluminum siding or Masonite or natural wood.
+							</td>
+							<td>
+								Depends on style of home (colonial vs. contemporary): any siding is highest quality of vinyl, aluminum, Masonite, or natural wood.
+							</td>
+						</tr>
+						<tr>
+							<td>
+								<strong>Veneer</strong>
+							</td>
+							<td>
+								Small amount of brick veneer (like wainscot).
+							</td>
+							<td>
+								Often masonry veneer on a portion of home.
+							</td>
+							<td>
+								Possible masonry veneer or stucco finish on entire home.
+							</td>
+							<td>
+								Often masonry veneer or stucco finish on entire home.
+							</td>
+						</tr>
+						<tr>
+							<td>
+								<strong>Decoration</strong>
+							</td>
+							<td>
+								None usually.
+							</td>
+							<td>
+								None usually.
+							</td>
+							<td>
+								Columns, pediments, or ornate handrail on porch.
+							</td>
+							<td>
+								Quoins, keystones, columns, pediments, or ornate handrails on porch standard.
+							</td>
+						</tr>
+					</tbody>
+				</table>
+
+			</section>
+			<a data-anchor-link="true" href="#" class="top-of-page">top of page</a>
+		</div>
+		<div class="col-md-2"></div>
+	</div><!-- ./row -->
+
+
 
 
 	<section class="mt-5">
-		<h2 class="display-2 mb-2 px-2 strong">Interior Walls</h2>
+		<h2 id="InteriorWalls" class="display-2 mb-2 px-2 strong">Interior Walls</h2>
 	</section>
-	<section class="mt-4 mb-3">
+	<div class="row">
+		<div class="col-md-2"></div>
+		<div class="col-md-8">
+			<section class="mt-4 mb-3">
 
-	</section>
+				<table class="table table-bordered">
+					<thead>
+						<tr>
+							<th>
+								Item
+							</th>
+							<th>
+								Economy
+							</th>
+							<th>
+								Standard
+							</th>
+							<th>
+								Above Average
+							</th>
+							<th>
+								Premium
+							</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td>
+								<strong>Material</strong>
+							</td>
+							<td>
+								Plaster on wood lath or gypsum drywall
+								.</td>
+							<td>
+								Plaster on wood lath or gypsum drywall.
+							</td>
+							<td>
+								Plaster on wood lath or gypsum drywall.
+							</td>
+							<td>
+								Plaster on wood lath or gypsum drywall.
+							</td>
+						</tr>
+						<tr>
+							<td>
+								<strong>Coverings</strong>
+							</td>
+							<td>
+								Paint or inexpensive wallpaper or sheet paneling.
+							</td>
+							<td>
+								Paint with wallpaper in the bathroom/kitchen. Possible higher-grade sheet or natural-wood paneling.
+							</td>
+							<td>
+								Paint with high-end wallpaper in bathrooms/kitchen. Wallpaper borders and natural wood paneling common in some rooms.
+							</td>
+							<td>
+								Paint with high-end wallpaper in bathrooms/kitchens. Wallpaper borders as accents is normal. Natural hardwood "judges" type paneling common in some rooms.
+							</td>
+						</tr>
+						<tr>
+							<td>
+								<strong>Molding</strong>
+							</td>
+							<td>
+								Minimal moldings.
+							</td>
+							<td>
+								Painted or stained, chair railing or crown molding in one or two rooms.
+							</td>
+							<td>
+								Painted or stained (which can be slightly oversized), chair railing or crown molding in several rooms.
+							</td>
+							<td>
+								Usually oversized, painted or stained with highest-quality multi-coat. Multi-piece chair rail, crown molding, and baseboards common.
+							</td>
+						</tr>
+						<tr>
+							<td>
+								<strong>Extras</strong>
+							</td>
+							<td>
+								None/minimal
+							</td>
+							<td>
+								None/minimal
+							</td>
+							<td>
+								Some built-in bookcases, wet-bars, etc. in rooms other than kitchens and bathrooms.
+							</td>
+							<td>
+								Columns, built-in bookcases, wet-bars, or other cabinetry in rooms other than kitchens and bathrooms. Curved or ornate staircases. Door/window casings are fluted or reeded with use of rosettes and plinth blocking.
+							</td>
+						</tr>
+						<tr>
+							<td>
+								<strong>Doors</strong>
+							</td>
+							<td>
+								Hollow-core legacy-style Masonite or lauan.
+							</td>
+							<td>
+								Hollow core colonist style Masonite.
+							</td>
+							<td>
+								Hollow-core colonist style Masonite to stained birch door.
+							</td>
+							<td>
+								Typically solid 6 or 8 panel.
+							</td>
+						</tr>
+						<tr>
+							<td>
+								<strong>Ceilings</strong>
+							</td>
+							<td>
+								Standard 8' ceilings.
+							</td>
+							<td>
+								Vaulted ceilings in some areas.
+							</td>
+							<td>
+								Vaulted or trey ceilings common with possibility of exposed structural or decorative wood beams.
+							</td>
+							<td>
+								Vaulted or trey ceilings common as well as 9-12' ceilings throughout with possibility of exposed structural or decorative wood beams (depending on style).
+							</td>
+						</tr>
+					</tbody>
+				</table>
+
+			</section>
+			<a data-anchor-link="true" href="#" class="top-of-page">top of page</a>
+		</div>
+		<div class="col-md-2"></div>
+	</div><!-- ./row -->
+
+
 
 
 	<section class="mt-5">
-		<h2 class="display-2 mb-2 px-2 strong">Cabinets/Fixtures</h2>
+		<h2 id="Cabinets_Fixtures" class="display-2 mb-2 px-2 strong">Cabinets/Fixtures</h2>
 	</section>
-	<section class="mt-4 mb-3">
+	<div class="row">
+		<div class="col-md-2"></div>
+		<div class="col-md-8">
+			<section class="mt-4 mb-3">
 
-	</section>
+				<table class="table table-bordered">
+					<thead>
+						<tr>
+							<th>
+								Item
+							</th>
+							<th>
+								Economy
+							</th>
+							<th>
+								Standard
+							</th>
+							<th>
+								Above Average
+							</th>
+							<th>
+								Premium
+							</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td>
+								<strong>Cabinets</strong>
+							</td>
+							<td>
+								Solid pine or other soft wood to pre-fab modular box
+								style from particle board with "photo finish" veneer.
+							</td>
+							<td>
+								Solid pine or other soft wood to pre-fab modular box
+								style from particle board boxes with hardwood frames and door fronts.
+							</td>
+							<td>
+								Solid pine or other soft wood to pre-fab modular box
+								style from particle board boxes with hardwood frames and door fronts.
+							</td>
+							<td>
+								Solid hardwood to pre-fab modular box style made from
+								solid hardwood and hardwood veneers.
+							</td>
+						</tr>
+						<tr>
+							<td>
+								<strong>Cabinet Door Fronts</strong>
+							</td>
+							<td>
+								Standard.
+							</td>
+							<td>
+								Could have flat recessed panel style.
+							</td>
+							<td>
+								Often raised panel door and could be cathedral style or
+								have glass panes.
+							</td>
+							<td>
+								Raised panel doors, could be cathedral style or have
+								leaded or beveled glass.
+							</td>
+						</tr>
+						<tr>
+							<td>
+								<strong>Countertops</strong>
+							</td>
+							<td>
+								Flat-laid or post-formed laminate style.
+							</td>
+							<td>
+								Flat-laid or post-formed laminate style, possible
+								hardwood edging installed.
+							</td>
+							<td>
+								High grade, flat-laid or post-formed laminate style top
+								with hardwood edging installed. Solid surface material or ceramic tile
+								common.
+							</td>
+							<td>
+								Highest quality solid-surface material with decorative
+								edging, or solid natural marble or granite.
+							</td>
+						</tr>
+						<tr>
+							<td>
+								<strong>Bathroom Vanities</strong>
+							</td>
+							<td>
+								N/A
+							</td>
+							<td>
+								N/A
+							</td>
+							<td>
+								Bathroom vanity tops cultured marble with integrated sink
+								bowl.
+							</td>
+							<td>
+								Bathroom vanity tops can be cultured or natural marble
+								with an integrated sink bowl.
+							</td>
+						</tr>
+						<tr>
+							<td>
+								<strong>Bathtubs</strong>
+							</td>
+							<td>
+								Bathtubs are cast iron with ceramic tile surround or one-piece fiberglass tub and surround.
+							</td>
+							<td>
+								Bathtubs are cast iron with ceramic tile surround or one-piece fiberglass tub and surround.
+							</td>
+							<td>
+								Often cast iron with ceramic tile or cultured marble surround, possibly a jetted tub and/or separate shower unit. Often have glass doors installed.
+							</td>
+							<td>
+								Usually cast iron with a cultured or natural marble tile surround. Jetted and/or oversized "garden" type tubs, as well as large walk-in shower areas surrounded by cultured or natural marble common. All bathtubs and showers have high quality glass door installed.
+							</td>
+						</tr>
+						<tr>
+							<td>
+								<strong>Faucets</strong>
+							</td>
+							<td>
+								Faucets are inexpensive chrome-plated style.
+							</td>
+							<td>
+								Faucets are medium grade chrome plated or polished brass style.
+							</td>
+							<td>
+								Faucets typically a higher-end chrome-plated or polished-brass style with decorative handles.
+							</td>
+							<td>
+								Faucets are highest quality chrome, polished brass, or even gold plated and commonly have decorative handles.
+							</td>
+						</tr>
+					</tbody>
+				</table>
+
+			</section>
+			<a data-anchor-link="true" href="#" class="top-of-page">top of page</a>
+		</div>
+		<div class="col-md-2"></div>
+	</div><!-- ./row -->
+
+
 
 
 	<section class="mt-5">
-		<h2 class="display-2 mb-2 px-2 strong">Flooring</h2>
+		<h2 id="Flooring" class="display-2 mb-2 px-2 strong">Flooring</h2>
 	</section>
-	<section class="mt-4 mb-3">
+	<div class="row">
+		<div class="col-md-2"></div>
+		<div class="col-md-8">
+			<section class="mt-4 mb-3">
 
-	</section>
+				<table class="table table-bordered">
+					<thead>
+						<tr>
+							<th>
+								Item
+							</th>
+							<th>
+								Economy
+							</th>
+							<th>
+								Standard
+							</th>
+							<th>
+								Above Average
+							</th>
+							<th>
+								Premium
+							</th>
+						</tr>
+					</thead>
+					<tbody>
+						<tr>
+							<td>
+								<strong>Floors</strong>
+							</td>
+							<td>
+								Low end "economy" or "builders grade" carpet and sheet vinyl.
+							</td>
+							<td>
+								Varied (based on decor), limited to medium-grade carpet and sheet vinyl with ceramic tile, hardwood, or laminate flooring in limited areas.
+							</td>
+							<td>
+								Varied (based on decor) usually a mixture of high-quality carpet and sheet vinyl with some ceramic tile, hardwood, and/or laminate style flooring.
+							</td>
+							<td>
+								Varied (based on decor) but will usually be a mixture of very high end carpet (i.e., wool), ceramic tile, imported marble or slate, and select hardwood.
+							</td>
+						</tr>
+					</tbody>
+				</table>
+
+			</section>
+			<a data-anchor-link="true" href="#" class="top-of-page">top of page</a>
+		</div>
+		<div class="col-md-2"></div>
+	</div><!-- ./row -->
+
+
+
 
 
 
