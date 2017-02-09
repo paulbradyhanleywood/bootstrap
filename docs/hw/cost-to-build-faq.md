@@ -93,9 +93,8 @@ group: hw
 					Cost-to-Build Reports are typically emailed within 1 business day of the order being placed.
 				</p>
 
-				<a data-anchor-link="true" href="#" class="strong">
-					top of page
-				</a>
+				<a data-anchor-link="true" href="#" class="strong float-right">&uarr; top of page</a>
+
 
 				<p id="Where_does_the_home_construction_cost_data_used_in_these_reports_come_from">
 					<strong>
@@ -127,9 +126,8 @@ group: hw
 					Our numbers are not based on national averages, and our reports are not "canned". Each estimate is made to order for the house plan, construction quality and postal code you choose.
 				</p>
 
-				<a data-anchor-link="true" href="#" class="strong">
-					top of page
-				</a>
+				<a data-anchor-link="true" href="#" class="strong float-right">&uarr; top of page</a>
+
 
 				<p id="What_items_are_included_in_a_Cost-to-Build_estimate_">
 					<strong>
@@ -189,7 +187,7 @@ group: hw
 					<strong>Special Features</strong>: These options are selected by default depending on the size and quality of the home. They include the following: Water Softener, Central Vacuum System, Fire and/or Burglar Alarms Systems, Intercom Systems, Programmable Lighting, Home Management Systems, Fire Sprinkler Systems and Solar Panels, swimming pools, hot tubs, fountains, and home theater systems that would be included in this category.
 				</p>
 
-				<a data-anchor-link="true" href="#" class="strong">top of page</a>
+				<a data-anchor-link="true" href="#" class="float-right strong">&uarr; top of page</a>
 
 
 				<p id="What_items_are_not_included_in_a_Cost-to-Build_estimate">
@@ -209,7 +207,7 @@ group: hw
 					<li>Modifications/customizations to the house plan</li>
 				</ul>
 
-				<a data-anchor-link="true" href="#" class="strong">top of page</a>
+				<a data-anchor-link="true" href="#" class="float-right strong">&uarr; top of page</a>
 
 
 				<p id="what_is_included_in_other_fees_and_taxes">
@@ -232,7 +230,7 @@ group: hw
 					Profit is formally defined as the excess of the selling price of goods over cost. Profit is typically added to the cost of a construction-related job to allow the home builder performing the work to grow their company through reinvestment. We add 10% to cover contractor profit. Profit can vary significantly from contractor to contractor.
 				</p>
 
-				<a data-anchor-link="true" href="#" class="strong">top of page</a>
+				<a data-anchor-link="true" href="#" class="strong float-right">&uarr; top of page</a>
 			</section>
 
 		</div>
@@ -248,7 +246,7 @@ group: hw
 		<div class="col-md-2"></div>
 		<div class="col-md-8">
 
-			<section class="mt-4 mb-3">
+			<section class="w-100 mt-4 mb-3">
 				<ul>
 					<li>
 						<a data-anchor-link="true" href="#Foundation">Foundation</a>
@@ -269,7 +267,7 @@ group: hw
 						<a data-anchor-link="true" href="#Flooring">Flooring</a>
 					</li>
 				</ul>
-				<a data-anchor-link="true" href="#" class="top-of-page">top of page</a>
+				<a data-anchor-link="true" href="#" class="float-right">&uarr; top of page</a>
 			</section>
 
 		</div>
@@ -285,7 +283,7 @@ group: hw
 	<div class="row">
 		<div class="col-md-2"></div>
 		<div class="col-md-8">
-			<section class="mt-4 mb-3">
+			<section class="w-100 mt-4 mb-3">
 
 				<table class="table table-bordered">
 					<thead>					
@@ -339,9 +337,9 @@ group: hw
 						</tr>
 					</tbody>
 				</table>
-
+				<a data-anchor-link="true" href="#" class="strong float-right">&uarr; top of page</a>
 			</section>
-			<a data-anchor-link="true" href="#" class="top-of-page">top of page</a>
+
 		</div>
 		<div class="col-md-2"></div>
 	</div><!-- ./row -->
@@ -355,7 +353,7 @@ group: hw
 	<div class="row">
 		<div class="col-md-2"></div>
 		<div class="col-md-8">
-			<section class="mt-4 mb-3">
+			<section class="w-100 mt-4 mb-3">
 
 				<table class="table table-bordered">
 					<thead>
@@ -448,9 +446,9 @@ group: hw
 						</tr>
 					</tbody>
 				</table>
-
+				<a data-anchor-link="true" href="#" class="strong float-right">&uarr; top of page</a>
 			</section>
-			<a data-anchor-link="true" href="#" class="top-of-page">top of page</a>
+
 		</div>
 		<div class="col-md-2"></div>
 	</div><!-- ./row -->
@@ -464,7 +462,7 @@ group: hw
 	<div class="row">
 		<div class="col-md-2"></div>
 		<div class="col-md-8">
-			<section class="mt-4 mb-3">
+			<section class="w-100 mt-4 mb-3">
 
 				<table class="table table-bordered">
 					<thead>
@@ -535,9 +533,9 @@ group: hw
 						</tr>
 					</tbody>
 				</table>
-
+				<a data-anchor-link="true" href="#" class="strong float-right">&uarr; top of page</a>
 			</section>
-			<a data-anchor-link="true" href="#" class="top-of-page">top of page</a>
+
 		</div>
 		<div class="col-md-2"></div>
 	</div><!-- ./row -->
@@ -551,7 +549,7 @@ group: hw
 	<div class="row">
 		<div class="col-md-2"></div>
 		<div class="col-md-8">
-			<section class="mt-4 mb-3">
+			<section class="w-100 mt-4 mb-3">
 
 				<table class="table table-bordered">
 					<thead>
@@ -678,9 +676,9 @@ group: hw
 						</tr>
 					</tbody>
 				</table>
-
+				<a data-anchor-link="true" href="#" class="strong float-right">&uarr; top of page</a>
 			</section>
-			<a data-anchor-link="true" href="#" class="top-of-page">top of page</a>
+
 		</div>
 		<div class="col-md-2"></div>
 	</div><!-- ./row -->
@@ -694,7 +692,7 @@ group: hw
 	<div class="row">
 		<div class="col-md-2"></div>
 		<div class="col-md-8">
-			<section class="mt-4 mb-3">
+			<section class="w-100 mt-4 mb-3">
 
 				<table class="table table-bordered">
 					<thead>
@@ -833,9 +831,9 @@ group: hw
 						</tr>
 					</tbody>
 				</table>
-
+				<a data-anchor-link="true" href="#" class="strong float-right">&uarr; top of page</a>
 			</section>
-			<a data-anchor-link="true" href="#" class="top-of-page">top of page</a>
+
 		</div>
 		<div class="col-md-2"></div>
 	</div><!-- ./row -->
@@ -849,8 +847,8 @@ group: hw
 	<div class="row">
 		<div class="col-md-2"></div>
 		<div class="col-md-8">
-			<section class="mt-4 mb-3">
 
+			<section class="w-100 mt-4 mb-3">
 				<table class="table table-bordered">
 					<thead>
 						<tr>
@@ -891,9 +889,9 @@ group: hw
 						</tr>
 					</tbody>
 				</table>
-
+				<a data-anchor-link="true" href="#" class="strong float-right">&uarr; top of page</a>
 			</section>
-			<a data-anchor-link="true" href="#" class="top-of-page">top of page</a>
+
 		</div>
 		<div class="col-md-2"></div>
 	</div><!-- ./row -->
