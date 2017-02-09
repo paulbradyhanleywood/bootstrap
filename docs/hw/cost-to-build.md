@@ -112,7 +112,7 @@ group: hw
 						<i>
 							Houseplans.com Cost-to-Build reports are prepared by our experienced plan experts using up-to-date data supplied by Xactware, Inc. Each plan takes up to an hour to prepare. When you receive your estimate, we can work with you to adjust material and quality variables to make your estimate as accurate as possible.
 						</i>
-						<div><a href="/cost-to-build-faq">See Frequently Asked Questions</a></div>
+						<div><a href="/hw/cost-to-build-faq">See Frequently Asked Questions</a></div>
 					</p>
 				</div>
 
