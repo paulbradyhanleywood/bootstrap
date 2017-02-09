@@ -42,7 +42,7 @@ group: hw
 	<section class="mt-5">
 		<h1 class="display-2 mb-2 px-2 strong">Cost To Build FAQ</h1>
 	</section>
-	<div class="row">
+	<div class="row no-gutters">
 		<div class="col-md-1 col-lg-2"></div>
 		<div class="col-md-10 col-lg-8">
 
@@ -242,7 +242,7 @@ group: hw
 	<section class="mt-5">
 		<h2 id="Home_quality_definitions" class="display-2 mb-2 px-2 strong">Home Quality Definitions</h2>
 	</section>
-	<div class="row">
+	<div class="row no-gutters">
 		<div class="col-md-1 col-lg-2"></div>
 		<div class="col-md-10 col-lg-8">
 
@@ -280,13 +280,13 @@ group: hw
 	<section class="mt-5">
 		<h2 id="Foundation" class="display-2 mb-2 px-2 strong">Foundations</h2>
 	</section>
-	<div class="row">
+	<div class="row no-gutters">
 		<div class="col-md-1 col-lg-2"></div>
 		<div class="col-md-10 col-lg-8">
 			<section class="w-100 mt-4 mb-3" style="overflow: scroll;">
 
 				<table class="table table-bordered">
-					<thead>					
+					<thead class="bg-faded">
 						<tr>
 							<th>
 								Item</th>
@@ -350,13 +350,13 @@ group: hw
 	<section class="mt-5">
 		<h2 id="Roof" class="display-2 mb-2 px-2 strong">Roof</h2>
 	</section>
-	<div class="row">
+	<div class="row no-gutters">
 		<div class="col-md-1 col-lg-2"></div>
 		<div class="col-md-10 col-lg-8">
 			<section class="w-100 mt-4 mb-3" style="overflow: scroll;">
 
 				<table class="table table-bordered">
-					<thead>
+					<thead class="bg-faded">
 						<tr>
 							<th>
 								Item
@@ -459,13 +459,13 @@ group: hw
 	<section class="mt-5">
 		<h2 id="ExteriorWalls" class="display-2 mb-2 px-2 strong">Exterior Walls</h2>
 	</section>
-	<div class="row">
+	<div class="row no-gutters">
 		<div class="col-md-1 col-lg-2"></div>
 		<div class="col-md-10 col-lg-8">
 			<section class="w-100 mt-4 mb-3" style="overflow: scroll;">
 
 				<table class="table table-bordered">
-					<thead>
+					<thead class="bg-faded">
 						<tr>
 							<th>
 								Item</th>
@@ -546,13 +546,13 @@ group: hw
 	<section class="mt-5">
 		<h2 id="InteriorWalls" class="display-2 mb-2 px-2 strong">Interior Walls</h2>
 	</section>
-	<div class="row">
+	<div class="row no-gutters">
 		<div class="col-md-1 col-lg-2"></div>
 		<div class="col-md-10 col-lg-8">
 			<section class="w-100 mt-4 mb-3" style="overflow: scroll;">
 
 				<table class="table table-bordered">
-					<thead>
+					<thead class="bg-faded">
 						<tr>
 							<th>
 								Item
@@ -689,13 +689,13 @@ group: hw
 	<section class="mt-5">
 		<h2 id="Cabinets_Fixtures" class="display-2 mb-2 px-2 strong">Cabinets/Fixtures</h2>
 	</section>
-	<div class="row">
+	<div class="row no-gutters">
 		<div class="col-md-1 col-lg-2"></div>
 		<div class="col-md-10 col-lg-8">
 			<section class="w-100 mt-4 mb-3" style="overflow: scroll;">
 
 				<table class="table table-bordered">
-					<thead>
+					<thead class="bg-faded">
 						<tr>
 							<th>
 								Item
@@ -844,13 +844,13 @@ group: hw
 	<section class="mt-5">
 		<h2 id="Flooring" class="display-2 mb-2 px-2 strong">Flooring</h2>
 	</section>
-	<div class="row">
+	<div class="row no-gutters">
 		<div class="col-md-1 col-lg-2"></div>
 		<div class="col-md-10 col-lg-8">
 
 			<section class="w-100 mt-4 mb-3" style="overflow: scroll;">
 				<table class="table table-bordered">
-					<thead>
+					<thead class="bg-faded">
 						<tr>
 							<th>
 								Item
