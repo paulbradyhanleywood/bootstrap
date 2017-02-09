@@ -83,7 +83,7 @@ group: hw
 
 
 
-				<p id="how_long_does_it_take_to_get_ctb">
+				<p id="how_long_does_it_take_to_get_ctb" class="pt-4">
 					<strong>
 						How long does it take to get a Houseplans Cost-to-Build Report?
 					</strong>
@@ -93,10 +93,10 @@ group: hw
 					Cost-to-Build Reports are typically emailed within 1 business day of the order being placed.
 				</p>
 
-				<a data-anchor-link="true" href="#" class="strong float-right">&uarr; top of page</a>
+				<a data-anchor-link="true" href="#" class="strong float-right mb-3">&uarr; top of page</a>
 
 
-				<p id="Where_does_the_home_construction_cost_data_used_in_these_reports_come_from">
+				<p id="Where_does_the_home_construction_cost_data_used_in_these_reports_come_from" class="pt-4">
 					<strong>
 						Where does the home construction cost data used in these reports come from?
 					</strong>
@@ -126,10 +126,10 @@ group: hw
 					Our numbers are not based on national averages, and our reports are not "canned". Each estimate is made to order for the house plan, construction quality and postal code you choose.
 				</p>
 
-				<a data-anchor-link="true" href="#" class="strong float-right">&uarr; top of page</a>
+				<a data-anchor-link="true" href="#" class="strong float-right mb-3">&uarr; top of page</a>
 
 
-				<p id="What_items_are_included_in_a_Cost-to-Build_estimate_">
+				<p id="What_items_are_included_in_a_Cost-to-Build_estimate_" class="pt-4">
 					<strong>
 						What items are included in a Cost-to-Build Report?
 					</strong>
@@ -187,10 +187,10 @@ group: hw
 					<strong>Special Features</strong>: These options are selected by default depending on the size and quality of the home. They include the following: Water Softener, Central Vacuum System, Fire and/or Burglar Alarms Systems, Intercom Systems, Programmable Lighting, Home Management Systems, Fire Sprinkler Systems and Solar Panels, swimming pools, hot tubs, fountains, and home theater systems that would be included in this category.
 				</p>
 
-				<a data-anchor-link="true" href="#" class="float-right strong">&uarr; top of page</a>
+				<a data-anchor-link="true" href="#" class="float-right strong mb-3">&uarr; top of page</a>
 
 
-				<p id="What_items_are_not_included_in_a_Cost-to-Build_estimate">
+				<p id="What_items_are_not_included_in_a_Cost-to-Build_estimate" class="pt-4">
 					<strong>What items are not included in a Cost-to-Build Report?</strong>
 				</p>
 
@@ -207,10 +207,10 @@ group: hw
 					<li>Modifications/customizations to the house plan</li>
 				</ul>
 
-				<a data-anchor-link="true" href="#" class="float-right strong">&uarr; top of page</a>
+				<a data-anchor-link="true" href="#" class="strong float-right mb-3">&uarr; top of page</a>
 
 
-				<p id="what_is_included_in_other_fees_and_taxes">
+				<p id="what_is_included_in_other_fees_and_taxes" class="pt-4">
 					<strong>What is included in "Other Fees and Taxes"?</strong>
 				</p>
 
@@ -230,7 +230,7 @@ group: hw
 					Profit is formally defined as the excess of the selling price of goods over cost. Profit is typically added to the cost of a construction-related job to allow the home builder performing the work to grow their company through reinvestment. We add 10% to cover contractor profit. Profit can vary significantly from contractor to contractor.
 				</p>
 
-				<a data-anchor-link="true" href="#" class="strong float-right">&uarr; top of page</a>
+				<a data-anchor-link="true" href="#" class="strong float-right mb-3">&uarr; top of page</a>
 			</section>
 
 		</div>
@@ -267,7 +267,7 @@ group: hw
 						<a data-anchor-link="true" href="#Flooring">Flooring</a>
 					</li>
 				</ul>
-				<a data-anchor-link="true" href="#" class="float-right">&uarr; top of page</a>
+				<a data-anchor-link="true" href="#" class="strong float-right mb-3">&uarr; top of page</a>
 			</section>
 
 		</div>
@@ -337,7 +337,7 @@ group: hw
 						</tr>
 					</tbody>
 				</table>
-				<a data-anchor-link="true" href="#" class="strong float-right">&uarr; top of page</a>
+				<a data-anchor-link="true" href="#" class="strong float-right mb-3">&uarr; top of page</a>
 			</section>
 
 		</div>
@@ -446,7 +446,7 @@ group: hw
 						</tr>
 					</tbody>
 				</table>
-				<a data-anchor-link="true" href="#" class="strong float-right">&uarr; top of page</a>
+				<a data-anchor-link="true" href="#" class="strong float-right mb-3">&uarr; top of page</a>
 			</section>
 
 		</div>
@@ -533,7 +533,7 @@ group: hw
 						</tr>
 					</tbody>
 				</table>
-				<a data-anchor-link="true" href="#" class="strong float-right">&uarr; top of page</a>
+				<a data-anchor-link="true" href="#" class="strong float-right mb-3">&uarr; top of page</a>
 			</section>
 
 		</div>
@@ -676,7 +676,7 @@ group: hw
 						</tr>
 					</tbody>
 				</table>
-				<a data-anchor-link="true" href="#" class="strong float-right">&uarr; top of page</a>
+				<a data-anchor-link="true" href="#" class="strong float-right mb-3">&uarr; top of page</a>
 			</section>
 
 		</div>
@@ -831,7 +831,7 @@ group: hw
 						</tr>
 					</tbody>
 				</table>
-				<a data-anchor-link="true" href="#" class="strong float-right">&uarr; top of page</a>
+				<a data-anchor-link="true" href="#" class="strong float-right mb-3">&uarr; top of page</a>
 			</section>
 
 		</div>
@@ -889,7 +889,7 @@ group: hw
 						</tr>
 					</tbody>
 				</table>
-				<a data-anchor-link="true" href="#" class="strong float-right">&uarr; top of page</a>
+				<a data-anchor-link="true" href="#" class="strong float-right mb-3">&uarr; top of page</a>
 			</section>
 
 		</div>
