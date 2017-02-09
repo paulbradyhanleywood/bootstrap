@@ -325,7 +325,7 @@ group: hw
 				<h3 class="h6 ml-1">Plan Options</h3>
 				<table class="table table-bordered">
 					<tr class="table-primary">
-						<td class="w-25 align-middle text-right">PDF&nbsp;Set <i><b>BEST&nbsp;VALUE!</b></i></td>
+						<td class="w-25 align-middle text-right">PDF&nbsp;Set <i><b>BEST VALUE!</b></i></td>
 						<td class="bg-success align-middle text-right">$900.00</td>
 						<td>PDF plan sets are best for fast electronic delivery and inexpensive local printing.</td>
 					</tr><tr>
