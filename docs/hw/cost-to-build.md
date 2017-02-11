@@ -39,16 +39,15 @@ group: hw
 
 
 	<!-- Cost-to-build content -->
-	<section class="mt-5">
-		<h1 class="display-2 mb-2 strong">Find out how much this house will cost to build</h1>
-		<h2 class="display-2 mb-2"><small><i>Our report will estimate your costs based on your location &amp; materials</i></small></h2>
+	<section class="mt-5 d-flex justify-content-center" style="background-image: url(https://thumbs.dreamstime.com/z/grunge-background-seamless-pattern-repeating-modern-stylish-geometric-simple-abstract-monochrome-vector-texture-52671567.jpg);">
+		<h1 class="my-4 text-center strong">Find out how much this house will cost to build</h1>
 	</section>
 	<section class="mt-4 mb-3">
 		<div class="row">
-			<div class="col-lg-4 col-xs-12">
-				<div class="form-group p-4" style="border: 1px solid #f87100"><!-- custom.scss orange -->
+			<div class="col-md-4 col-xs-12">
+				<div class="form-group p-3" style="border: 1px solid #f87100"><!-- custom.scss orange -->
 
-					<form class="p-3" action="https://secure.houseplans.com/cart/add_cost_to_build" method="post">
+					<form action="https://secure.houseplans.com/cart/add_cost_to_build" method="post">
 						<input type="hidden" name="planId" value="">
 						<label for="postal-code" class="w-100 text-center">
 							<h3 class="h6 text-center mb-0"><strong>Postal Code of building location</strong></h3>
@@ -83,7 +82,7 @@ group: hw
 
 				</div>
 			</div>
-			<div class="col-lg-8 col-xs-12">
+			<div class="col-md-8 col-xs-12">
 
 				<div class="media bg-faded p-3">
 					<img class="d-flex mr-3" src="https://cdn.houseplans.com/product/ltvvl35n6glj7mrrb9i3j18he0/w180x120.jpg?v=4" width="180" height="120" alt="Craftsman Exterior - Front Elevation Plan #895-25 - Houseplans.com">
