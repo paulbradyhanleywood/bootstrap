@@ -39,8 +39,8 @@ group: hw
 
 
 	<!-- Cost-to-build-faq content -->
-	<section class="mt-5">
-		<h1 class="display-2 mb-2 px-2 strong">Cost To Build FAQ</h1>
+	<section class="mt-5 d-flex justify-content-center" style="background-image: url(https://thumbs.dreamstime.com/z/grunge-background-seamless-pattern-repeating-modern-stylish-geometric-simple-abstract-monochrome-vector-texture-52671567.jpg);">
+		<h1 class="my-4 text-center strong">Cost To Build FAQ</h1>
 	</section>
 	<div class="row no-gutters">
 		<div class="col-md-1 col-lg-2"></div>
