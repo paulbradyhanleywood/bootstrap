@@ -220,22 +220,23 @@ group: hw
 	<!-- Featured Designer -->
 	<div class="mt-5">
 		<div class="row no-gutters">
-			<div class="col-12 col-md-4" style="background: url( http://cdn.houseplans.com/product/2f50bfq27ig6qogbkms91mud82/w940x400.jpg ) center center; background-size: cover; min-height: 200px;">
+			<div class="col-12 col-md-4">
+				<img src="http://cdn.houseplans.com/product/2f50bfq27ig6qogbkms91mud82/w300x200.jpg" class="img-fluid w-100" title="Featured Designer" alt="Featured Designer">
 			</div>
 			<div class="col-12 col-md-4 h-100 text-center px-3">
 
 				<div class="d-flex flex-column justify-content-end" style="border-top: 1px solid lightgray; border-bottom: 1px solid lightgray;">
-					<div style="height: 100%; min-height: 200px;"><!-- to use actual bottom edge -->
+					<div class="h-100">
 						<div><h2 class="h6 mt-2 mb-0 strong">Featured Designer</h2></div>
 						<div><h3 class="mt-0 mb-0 text-uppercase">David Wiggins</h3></div>
-						<div class="align-items-stretch mt-1 pt-1 mb-1">From now until the end of Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla suscipit daplibus eu...</div>
+						<div class="align-items-stretch mt-1 pt-1 mb-1">From now until the end of Lorem ipsum dolor sit amet, consectetur.</div>
 						<div class="mt-auto mt-1 pb-3"><button class="btn btn-primary btn-block text-uppercase">See All Plans</button></div>
 					</div>
 				</div>
 
 			</div>
 			<div class="col-12 col-md-4">
-				<img src="https://cdn.houseplans.com/product/o2d2ui14afb1sov3cnslpummre/w300x200.jpg?v=9" class="img-fluid" alt="Responsive image" />
+				<img src="https://cdn.houseplans.com/product/o2d2ui14afb1sov3cnslpummre/w300x200.jpg" class="img-fluid w-100" title="Featured Designer" alt="Featured Designer">
 			</div>
 		</div>
 	</div>
