@@ -201,8 +201,8 @@ group: hw
 
 			</div>
 			<div class="col-lg-4 px-4 d-flex flex-column align-items-stretch justify-content-end" style="border-top: 1px solid lightgray; border-bottom: 1px solid lightgray;">
-				<div><h2 class="h6 mt-3 mb-0 strong"><small>Exclusive Feature</small></h2></div>
-				<div><h3 class="mt-1 mb-3">THE MODERN CABIN COLLECTION</h3></div>
+				<div><h2 class="h6 mt-3 mb-0 strong">Exclusive Feature</h2></div>
+				<div><h3 class="mt-1 mb-3 ">THE MODERN CABIN COLLECTION</h3></div>
 				<div class="align-items-stretch">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
@@ -218,26 +218,25 @@ group: hw
 
 
 	<!-- Featured Designer -->
-	<section class="mt-5">
-		<div class="d-md-flex flex-row justify-content-around">
-			<div>
-				<img src="http://cdn.houseplans.com/product/2f50bfq27ig6qogbkms91mud82/w940x400.jpg" class="img-fluid" alt="Responsive image">
+	<div class="mt-5">
+		<div class="row no-gutters">
+			<div class="col-12 col-md-4" style="background: url( http://cdn.houseplans.com/product/2f50bfq27ig6qogbkms91mud82/w940x400.jpg ) center center; background-size: cover;">
 			</div>
-			<div class="border text-center px-3"  style="border: 1px solid lightgray;"><!-- BS4 .border class missing -->
+			<div class="col-12 col-md-4 h-100 text-center px-3" style="border-top: 1px solid lightgray; border-bottom: 1px solid lightgray;">
 
-				<div class="d-flex flex-column justify-content-end"  style="height: 100%"><!-- to use actual bottom edge -->
-					<div><h2 class="h6 mt-2 mb-0 strong"><small>Featured Designer</small></h2></div>
-					<div><h3 class="h5 mt-0 mb-0 text-uppercase">David Wiggins</h3></div>
-					<div class="align-items-stretch mt-1 pt-1 mb-1"><small>From now until the end of Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla suscipit daplibus eu...</small></div>
+				<div class="d-flex flex-column justify-content-end" style="height: 100%; min-height: 200px;"><!-- to use actual bottom edge -->
+					<div><h2 class="h6 mt-2 mb-0 strong">Featured Designer</h2></div>
+					<div><h3 class="mt-0 mb-0 text-uppercase">David Wiggins</h3></div>
+					<div class="align-items-stretch mt-1 pt-1 mb-1">From now until the end of Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla suscipit daplibus eu...</div>
 					<div class="mt-auto mt-1 pb-3"><button class="btn btn-primary btn-block text-uppercase">See All Plans</button></div>
 				</div>
 
 			</div>
-			<div class="hidden-md-down">
-				<img src="http://cdn.houseplans.com/product/4f7c9q2ei6r5ldvhbmonpthvep/w940x400.jpg" class="img-fluid" alt="Responsive image">
+			<div class="col-12 col-md-4">
+				<img src="https://cdn.houseplans.com/product/o2d2ui14afb1sov3cnslpummre/w300x200.jpg?v=9" class="img-fluid" alt="Responsive image" />
 			</div>
 		</div>
-	</section>
+	</div>
 
 
 
