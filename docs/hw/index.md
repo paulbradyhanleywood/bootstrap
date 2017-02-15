@@ -223,11 +223,13 @@ group: hw
 			<div class="col-12 col-lg-4">
 				<img src="http://cdn.houseplans.com/product/2f50bfq27ig6qogbkms91mud82/w300x200.jpg" class="img-fluid w-100" title="Featured Designer" alt="Featured Designer">
 			</div>
-			<div class="col-12 col-lg-4 px-4 d-flex flex-column align-items-stretch justify-content-between text-center" style="border-top: 1px solid lightgray; border-bottom: 1px solid lightgray;">
-				<div><h2 class="h6 mt-2 mb-0 strong">Featured Designer</h2></div>
-				<div><h3 class="mt-0 mb-0 text-uppercase">David Wiggins</h3></div>
-				<div class="align-items-stretch pt-2">From now until the end of Lorem ipsum dolor sit amet, consectetur adpiscing elit. Nulls suscipit dapibus eu...</div>
-				<div class="mt-auto mt-1 pb-3"><button class="btn btn-primary btn-block text-uppercase">See All Plans</button></div>
+			<div class="col-12 col-lg-4 px-4">
+				<div class="d-flex flex-column align-self-stretch align-items-stretch justify-content-between h-100 p-2 text-center" style="border-top: 1px solid lightgray; border-bottom: 1px solid lightgray;">
+					<div><h2 class="h6 mt-2 mb-0 strong">Featured Designer</h2></div>
+					<div><h3 class="mt-0 mb-0 text-uppercase">David Wiggins</h3></div>
+					<div class="align-items-stretch pt-2">From now until the end of Lorem ipsum dolor sit amet, consectetur adpiscing elit. Nulls suscipit dapibus eu...</div>
+					<div class="mt-auto mt-1 pb-3"><button class="btn btn-primary btn-block text-uppercase">See All Plans</button></div>
+				</div>
 			</div>
 			<div class="col-12 col-lg-4">
 				<img src="https://cdn.houseplans.com/product/o2d2ui14afb1sov3cnslpummre/w300x200.jpg" class="img-fluid w-100" title="Featured Designer" alt="Featured Designer">
