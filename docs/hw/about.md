@@ -71,10 +71,9 @@ group: hw
 			
 			<h2>We Are a Preferred Partner</h2>
 			<p>We are the preferred partner of industry leading brands and associations, including the American Institute of Building Design, Southern Living, and Country Living Magazine.</p>
-			<br>
-			<br>
 
-			<div>
+
+			<div class="pt-4">
 				<h2><strong>Need Help?</strong><br>Call us at <a href="tel:18778032251"><strong>1-877-803-2251</strong></a></h2>
 			</div>
 
@@ -108,17 +107,17 @@ group: hw
 			</div>
 			<div class="d-flex flex-column flex-md-row justify-content-around bg-faded text-white">
 				<div class="px-5 pb-5 text-info text-center">
-					<img src="http://placehold.it/67x67/3300ff/ffffff" alt="Home"><br>
+					<img src="http://placehold.it/67x67/ff0000/ffffff" alt="">
 					<h3 class="h5 my-3">Lorem ipsum dolor sit</h3>
 					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod!</p>
 				</div>
 				<div class="px-5 pb-5 text-info text-center">
-					<img src="http://placehold.it/67x67/3300ff/ffffff" alt="Home"><br>
+					<img src="http://placehold.it/67x67/00ff00/ffffff" alt="">
 					<h3 class="h5 my-3">Lorem ipsum dolor sit amet</h3>
 					<p>Lorem ipsum dolor sit amet, consectetur adipisicing!</p>
 				</div>
 				<div class="px-5 pb-5 text-info text-center">
-					<img src="http://placehold.it/67x67/3300ff/ffffff" alt="Home"><br>
+					<img src="http://placehold.it/67x67/0000ff/ffffff" alt="">
 					<h3 class="h5 my-3">Lorem ipsum dolor sit</h3>
 					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 					tempor incididunt!</p>
