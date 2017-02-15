@@ -200,16 +200,18 @@ group: hw
 				</div>
 
 			</div>
-			<div class="col-lg-4 px-4 d-flex flex-column align-items-stretch justify-content-end" style="border-top: 1px solid lightgray; border-bottom: 1px solid lightgray;">
-				<div><h2 class="h6 mt-3 mb-0 strong">Exclusive Feature</h2></div>
-				<div><h3 class="mt-1 mb-3 text-uppercase">The Modern Cabin Collection</h3></div>
-				<div class="align-items-stretch">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-					consequat. Duis aute irure dolor in reprehenderit.
-				</div>
-				<div class="mt-auto pt-1 pb-3">
-					<button type="button" class="btn btn-primary btn-block py-2 text-uppercase">View Collection</button>
+			<div class="col-lg-4 px-4">
+				<div class="d-flex flex-column align-self-stretch align-items-stretch justify-content-between h-100 p-2 text-center" style="border-top: 1px solid lightgray; border-bottom: 1px solid lightgray;">
+					<div><h2 class="h6 mt-3 mb-0 strong">Exclusive Feature</h2></div>
+					<div><h3 class="mt-1 mb-3 text-uppercase">The Modern Cabin Collection</h3></div>
+					<div class="align-items-stretch">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+						tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+						quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+						consequat. Duis aute irure dolor in reprehenderit.
+					</div>
+					<div class="mt-auto pt-1 pb-3">
+						<button type="button" class="btn btn-primary btn-block py-2 text-uppercase">View Collection</button>
+					</div>
 				</div>
 			</div><!-- ./col -->
 
