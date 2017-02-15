@@ -424,17 +424,17 @@ group: hw
 		</div>
 		<div class="d-flex flex-column flex-md-row justify-content-around bg-faded text-white">
 			<div class="px-5 pb-5 text-info text-center">
-				<img src="http://placehold.it/67x67/3300ff/ffffff" alt="Home"><br>
+				<img src="http://placehold.it/67x67/ff0000/ffffff" alt="">
 				<h3 class="h5 my-3">Lorem ipsum dolor sit</h3>
 				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod!</p>
 			</div>
 			<div class="px-5 pb-5 text-info text-center">
-				<img src="http://placehold.it/67x67/3300ff/ffffff" alt="Home"><br>
+				<img src="http://placehold.it/67x67/00ff00/ffffff" alt="">
 				<h3 class="h5 my-3">Lorem ipsum dolor sit amet</h3>
 				<p>Lorem ipsum dolor sit amet, consectetur adipisicing!</p>
 			</div>
 			<div class="px-5 pb-5 text-info text-center">
-				<img src="http://placehold.it/67x67/3300ff/ffffff" alt="Home"><br>
+				<img src="http://placehold.it/67x67/0000ff/ffffff" alt="">
 				<h3 class="h5 my-3">Lorem ipsum dolor sit</h3>
 				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 				tempor incididunt!</p>
