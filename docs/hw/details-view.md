@@ -68,38 +68,38 @@ group: hw
 							<button class="btn btn-lg btn-secondary dropdown-toggle text-right w-100" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 								<span class="float-left">PDF</span> $1400.00
 							</button>
-							<div class="dropdown-menu bg-faded p-0 m-0" aria-labelledby="dropdownMenu1">
+							<div class="dropdown-menu bg-faded p-0 m-0 rounded-0" aria-labelledby="dropdownMenu1">
 
-								<div class="btn-group-vertical" role="group" aria-label="Button group with nested dropdown">
-									<button type="button" class="list-group-item list-group-item-action active">
+								<div class="list-group rounded-0">
+									<a href="#" class="list-group-item list-group-item-action active">
 										<div class="d-flex flex-row justify-content-between w-100 mb-3">
 											<div><h3 class="h5 mb-0"><i class="fa fa-check text-success" aria-hidden="true"></i> PDF Set</h3></div>
 											<div class="h5 mb-0">$1400.00</div>
 										</div>
 										<div class="mb-3 strong"><i>Recommended Option</i></div>
 										<div>PDF plan sets are best for fast electronic delivery and inexpensive local printing.</div>
-									</button>
-									<button type="button" class="list-group-item list-group-item-action w-100">
+									</a>
+									<a href="#" class="list-group-item list-group-item-action">
 										<div class="d-flex flex-row justify-content-between w-100 mb-3">
 											<div><h3 class="h5 mb-0">5 Copy Set</h3></div>
 											<div class="h5 mb-0">$1450.00</div>
 										</div>
 										<div><i>5 printed plan sets mailed to you.</i></div>
-									</button>
-									<button type="button" class="list-group-item list-group-item-action w-100">
+									</a>
+									<a href="#" class="list-group-item list-group-item-action">
 										<div class="d-flex flex-row justify-content-between w-100 mb-3">
 											<div><h3 class="h5 mb-0">CAD Set</h3></div> 
 											<div class="h5 mb-0">$2888.00</div>
 										</div>
 										<i>For use by design professionals to make substantial changes to your house plan and inexpensive local printing.</i>
-									</button>
-									<button type="button" class="list-group-item list-group-item-action w-100">
+									</a>
+									<a href="#" class="list-group-item list-group-item-action">
 										<div class="d-flex flex-row justify-content-between w-100 mb-3">
 											<div><h3 class="h5 mb-0">Single Set</h3></div> 
 											<div class="h5 mb-0">$750.00</div>
 										</div>
 										<i>One printed set for bidding purposes only.<br>Not a legal building set for construction.</i>
-									</button>
+									</a>
 								</div>
 
 							</div>
@@ -113,21 +113,21 @@ group: hw
 							<div class="dropdown-menu bg-faded p-0 m-0" aria-labelledby="dropdownMenu2">
 
 								<div class="btn-group-vertical" role="group" aria-label="Button group with nested dropdown">
-									<button type="button" class="list-group-item list-group-item-action active">
+									<a href="#" class="list-group-item list-group-item-action">
 										<div class="d-flex flex-row justify-content-between w-100 mb-3">
 											<div><h3 class="h5 mb-0"><i class="fa fa-check text-success" aria-hidden="true"></i> Crawlspace</h3></div>
 											<div class="h5 mb-0">$0.00</div>
 										</div>
 										<div>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 										tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim.</div>
-									</button>
-									<button type="button" class="list-group-item list-group-item-action w-100">
+									</a>
+									<a href="#" class="list-group-item list-group-item-action">
 										<div class="d-flex flex-row justify-content-between w-100 mb-3">
 											<div><h3 class="h5 mb-0">No crawlspace</h3></div>
 											<div class="h5 mb-0">$0.00</div>
 										</div>
 										<div><i>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.</i></div>
-									</button>
+									</a>
 								</div>
 
 							</div>
@@ -160,10 +160,6 @@ group: hw
 							</div>
 						</div>
 
-						<div class="d-flex justify-content-between align-items-center h5 my-2">
-							<div>SUBTOTAL</div>
-							<div>$1400.00</div>
-						</div>
 						<div class="d-flex justify-content-end align-items-center mb-2">
 							<span class="h6 text-danger">Best Price Guaranteed<sup>*</sup></span>
 						</div>
