@@ -68,9 +68,9 @@ group: hw
 							<button class="btn btn-lg btn-secondary dropdown-toggle text-right w-100" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 								<span class="float-left">PDF</span> $1400.00
 							</button>
-							<div class="dropdown-menu bg-faded p-0 m-0 rounded-0" aria-labelledby="dropdownMenu1">
+							<div class="dropdown-menu bg-faded p-0 m-0" aria-labelledby="dropdownMenu1">
 
-								<div class="list-group rounded-0">
+								<div class="list-group">
 									<a href="#" class="list-group-item list-group-item-action active">
 										<div class="d-flex flex-row justify-content-between w-100 mb-3">
 											<div><h3 class="h5 mb-0"><i class="fa fa-check text-success" aria-hidden="true"></i> PDF Set</h3></div>
