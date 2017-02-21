@@ -67,12 +67,8 @@ group: hw
 
 
 				<!-- Showcase Ads -->
-				<div class="d-flex justify-content-center mt-4">
-					<img src="https://lh6.ggpht.com/Ab63gyKVnGwbQaj0guyJ0caGj-VugefmMd3SyzpPOX2RgCDA1tzQTY36sGI65Guw5OXdas4f5w=w303" alt="showcase ad #1">
-				</div>
-
-				<div class="d-flex justify-content-center mt-3">
-					<img src="https://lh6.ggpht.com/Ab63gyKVnGwbQaj0guyJ0caGj-VugefmMd3SyzpPOX2RgCDA1tzQTY36sGI65Guw5OXdas4f5w=w303" alt="showcase ad #2">
+				<div class="d-flex justify-content-center my-4">
+					<img src="https://lh6.ggpht.com/Ab63gyKVnGwbQaj0guyJ0caGj-VugefmMd3SyzpPOX2RgCDA1tzQTY36sGI65Guw5OXdas4f5w=w303" alt="">
 				</div>
 
 			</div>
