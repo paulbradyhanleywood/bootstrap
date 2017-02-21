@@ -89,9 +89,8 @@ group: hw
 				</div>
 
 				<!-- Showcase Ad -->
-				<div class="card mx-2 mb-3">
-					<img src="http://placehold.it/300x250/ff0000/ffffff" alt="Showcase Ad Placeholder">
-
+				<div class="d-flex justify-content-center my-3">
+					<img src="https://lh6.ggpht.com/Ab63gyKVnGwbQaj0guyJ0caGj-VugefmMd3SyzpPOX2RgCDA1tzQTY36sGI65Guw5OXdas4f5w=w303" alt="">
 				</div>
 
 			</div>
